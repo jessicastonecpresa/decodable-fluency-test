@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Decodable Fluency Center - Microphone Test</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eef6ff;margin:0;padding:24px;color:#1f2937}
+.card{max-width:760px;margin:auto;background:#fff;padding:28px;border-radius:22px;box-shadow:0 8px 24px rgba(0,0,0,.12)}
+h1{text-align:center;color:#2563eb}
+.instructions{background:#fef9c3;padding:16px;border-radius:14px;font-size:18px;line-height:1.5}
+button{width:100%;padding:16px;margin-top:14px;border:0;border-radius:12px;background:#2563eb;color:#fff;font-size:20px;font-weight:bold}
+.secondary{background:#16a34a}
+#status{margin-top:20px;padding:16px;background:#dbeafe;border-radius:14px;text-align:center;font-size:20px;font-weight:bold}
+#transcript{margin-top:16px;min-height:120px;padding:18px;border-radius:14px;background:#f3f4f6;font-size:20px;line-height:1.5;white-space:pre-wrap}
+.note{margin-top:16px;font-size:14px;color:#4b5563}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Microphone Test 🎤</h1>
+<div class="instructions">Click <strong>Test Microphone</strong>, choose <strong>Allow</strong>, then read aloud.</div>
+<button onclick="testMicrophone()">Test Microphone</button>
+<button class="secondary" onclick="stopListening()">Stop Listening</button>
+<div id="status">Ready to test.</div>
+<div id="transcript">Words heard will appear here.</div>
+<div class="note">Use Google Chrome on an HTTPS website. A headset is not required.</div>
+</div>
+<script>
+let recognition=null,micStream=null,finalTranscript='';
+async function testMicrophone(){
+ const status=document.getElementById('status');
+ const box=document.getElementById('transcript');
+ status.textContent='Requesting microphone permission...';
+ box.textContent='';
+ try{
+  micStream=await navigator.mediaDevices.getUserMedia({audio:true});
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  if(!SR){status.textContent='Speech recognition is not supported. Use Google Chrome.';stopTracks();return;}
+  finalTranscript='';
+  recognition=new SR();
+  recognition.lang='en-US';
+  recognition.continuous=true;
+  recognition.interimResults=true;
+  recognition.onstart=()=>status.textContent='Listening... Please begin reading.';
+  recognition.onresult=(event)=>{
+   let interim='';
+   for(let i=event.resultIndex;i<event.results.length;i++){
+    const words=event.results[i][0].transcript;
+    if(event.results[i].isFinal){finalTranscript+=words+' ';}else{interim+=words;}
+   }
+   box.textContent=(finalTranscript+interim).trim()||'Listening...';
+  };
+  recognition.onerror=(event)=>status.textContent='Speech-recognition error: '+event.error;
+  recognition.onend=()=>{if(status.textContent.startsWith('Listening'))status.textContent='Listening stopped.';stopTracks();};
+  recognition.start();
+ }catch(error){
+  status.textContent='Microphone could not connect: '+error.name+' - '+error.message;
+  box.textContent='No microphone connection.';
+ }
+}
+function stopListening(){
+ if(recognition){try{recognition.stop();}catch(e){}}
+ stopTracks();
+ document.getElementById('status').textContent='Listening stopped.';
+}
+function stopTracks(){
+ if(micStream){micStream.getTracks().forEach(track=>track.stop());micStream=null;}
+}
+</script>
+</body>
+</html>
