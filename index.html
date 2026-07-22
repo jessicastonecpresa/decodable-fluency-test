@@ -1,71 +1,285 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Decodable Fluency Center - Microphone Test</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Decodable Fluency Center</title>
 <style>
-body{font-family:Arial,sans-serif;background:#eef6ff;margin:0;padding:24px;color:#1f2937}
-.card{max-width:760px;margin:auto;background:#fff;padding:28px;border-radius:22px;box-shadow:0 8px 24px rgba(0,0,0,.12)}
-h1{text-align:center;color:#2563eb}
-.instructions{background:#fef9c3;padding:16px;border-radius:14px;font-size:18px;line-height:1.5}
-button{width:100%;padding:16px;margin-top:14px;border:0;border-radius:12px;background:#2563eb;color:#fff;font-size:20px;font-weight:bold}
-.secondary{background:#16a34a}
-#status{margin-top:20px;padding:16px;background:#dbeafe;border-radius:14px;text-align:center;font-size:20px;font-weight:bold}
-#transcript{margin-top:16px;min-height:120px;padding:18px;border-radius:14px;background:#f3f4f6;font-size:20px;line-height:1.5;white-space:pre-wrap}
-.note{margin-top:16px;font-size:14px;color:#4b5563}
+:root{--navy:#183a61;--blue:#2f70b7;--pale:#edf6ff;--ink:#25364a;--muted:#64748b;--green:#2f855a;--red:#c53030}
+*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;background:linear-gradient(#eaf4ff,#fff);color:var(--ink);min-height:100vh}
+.app{max-width:960px;margin:auto;padding:20px}.brand{display:flex;justify-content:center;align-items:center;gap:12px;color:var(--navy);font-weight:800;font-size:clamp(24px,4vw,40px);margin:10px 0 24px}
+.logo{width:54px;height:54px;border-radius:16px;background:var(--blue);display:grid;place-items:center;color:#fff}
+.card{background:#fff;border:1px solid #dbeaf8;border-radius:22px;padding:clamp(22px,4vw,40px);box-shadow:0 14px 35px rgba(24,58,97,.13)}
+.screen{display:none}.screen.active{display:block}h1,h2{color:var(--navy);margin-top:0}h1{text-align:center;font-size:clamp(32px,5vw,52px)}
+.subtitle{text-align:center;color:var(--muted);max-width:650px;margin:0 auto 28px;font-size:18px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}label{display:block;font-weight:700;color:var(--navy);margin:16px 0 8px}
+select{width:100%;padding:15px;border:2px solid #c9dced;border-radius:14px;font-size:17px;background:#fff}
+.actions{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;margin-top:26px}
+button{border:0;border-radius:16px;padding:15px 24px;font-size:17px;font-weight:800;cursor:pointer}
+button:disabled{opacity:.5;cursor:not-allowed}.primary{background:var(--blue);color:#fff}.secondary{background:#e7f0fa;color:var(--navy)}
+.success{background:var(--green);color:#fff}.danger{background:var(--red);color:#fff}
+.status{margin-top:18px;padding:13px;border-radius:12px;text-align:center;background:#f1f5f9;color:var(--muted);font-weight:700}
+.good{background:#e9fff1;color:var(--green)}.bad{background:#fff0f0;color:var(--red)}
+.meta{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--muted);font-weight:700;margin-bottom:16px}
+.passage{font:clamp(22px,3.2vw,32px)/1.75 Georgia,serif;background:#fbfdff;border:2px solid #dceaf8;border-radius:18px;padding:clamp(20px,4vw,34px);min-height:220px}
+.recording{display:none;justify-content:center;align-items:center;gap:10px;background:#fff1f1;color:var(--red);padding:13px;border-radius:12px;margin-top:18px;font-weight:800}
+.recording.on{display:flex}.dot{width:12px;height:12px;border-radius:50%;background:var(--red);animation:pulse 1s infinite}@keyframes pulse{50%{opacity:.25}}
+.results{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:24px 0}.metric{text-align:center;background:var(--pale);border-radius:18px;padding:22px}
+.metric strong{display:block;color:var(--navy);font-size:clamp(34px,5vw,52px)}.metric span{color:var(--muted);font-weight:800}.celebrate{text-align:center;color:var(--green);font-size:22px;font-weight:800}
+.note{background:#fff8db;border:1px solid #ecd36b;padding:14px;border-radius:12px;margin-bottom:18px}.hidden{display:none!important}
+@media(max-width:700px){.grid,.results{grid-template-columns:1fr}.app{padding:12px}.card{padding:22px}}
 </style>
 </head>
 <body>
-<div class="card">
-<h1>Microphone Test 🎤</h1>
-<div class="instructions">Click <strong>Test Microphone</strong>, choose <strong>Allow</strong>, then read aloud.</div>
-<button onclick="testMicrophone()">Test Microphone</button>
-<button class="secondary" onclick="stopListening()">Stop Listening</button>
-<div id="status">Ready to test.</div>
-<div id="transcript">Words heard will appear here.</div>
-<div class="note">Use Google Chrome on an HTTPS website. A headset is not required.</div>
+<main class="app">
+<div class="brand"><div class="logo">📚</div><span>Decodable Fluency Center</span></div>
+
+<section id="welcome" class="screen active"><div class="card">
+<h1>Welcome, Reader!</h1>
+<p class="subtitle">Choose your name and passage. Find a quiet place, put on your headset, and get ready to read.</p>
+<div id="setupNote" class="note hidden">Replace <b>PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE</b> in this file with your deployed Apps Script Web App URL.</div>
+<div class="grid">
+<div><label for="student">Your name</label><select id="student"><option>Loading students…</option></select></div>
+<div><label for="passage">Your passage</label><select id="passage"><option>Loading passages…</option></select></div>
 </div>
+<div class="actions"><button id="begin" class="primary" disabled>Begin Reading</button></div>
+<div id="loadStatus" class="status">Connecting to your class list…</div>
+</div></section>
+
+<section id="reading" class="screen"><div class="card">
+<h2 id="title">Today's Passage</h2>
+<div class="meta"><span id="reader"></span><span id="skill"></span></div>
+<div id="text" class="passage"></div>
+<div id="recording" class="recording"><span class="dot"></span>Listening — keep reading</div>
+<div class="actions">
+<button id="start" class="success">🎤 Start Reading</button>
+<button id="finish" class="danger" disabled>Finish Reading</button>
+<button id="back" class="secondary">Go Back</button>
+</div>
+<div id="speechStatus" class="status">Press “Start Reading” when you are ready.</div>
+</div></section>
+
+<section id="results" class="screen"><div class="card">
+<h1>Great Reading!</h1>
+<div id="celebration" class="celebrate">⭐ You completed your passage!</div>
+<div class="results">
+<div class="metric"><strong id="wpm">0</strong><span>Words Per Minute</span></div>
+<div class="metric"><strong id="accuracy">0%</strong><span>Accuracy</span></div>
+<div class="metric"><strong id="correct">0</strong><span>Correct Words</span></div>
+</div>
+<div id="saveStatus" class="status">Saving your reading result…</div>
+<div class="actions"><button id="again" class="primary">Read Another Passage</button></div>
+</div></section>
+</main>
+
 <script>
-let recognition=null,micStream=null,finalTranscript='';
-async function testMicrophone(){
- const status=document.getElementById('status');
- const box=document.getElementById('transcript');
- status.textContent='Requesting microphone permission...';
- box.textContent='';
- try{
-  micStream=await navigator.mediaDevices.getUserMedia({audio:true});
+const WEB_APP_URL=const WEB_APP_URL='https://script.google.com/macros/s/your-address/exec';
+
+let data={students:[],passages:[]},selectedStudent,selectedPassage,recognition;
+let finalTranscript='',interimTranscript='',startedAt=null,endedAt=null,running=false;
+const el=id=>document.getElementById(id);
+
+document.addEventListener('DOMContentLoaded',()=>{
+  bind();
+  setupSpeech();
+  loadData();
+});
+
+function bind(){
+  el('student').onchange=ready;
+  el('passage').onchange=ready;
+  el('begin').onclick=begin;
+  el('start').onclick=startReading;
+  el('finish').onclick=finishReading;
+  el('back').onclick=reset;
+  el('again').onclick=reset;
+}
+
+function show(id){
+  document.querySelectorAll('.screen').forEach(x=>x.classList.remove('active'));
+  el(id).classList.add('active');
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+async function api(body){
+  const r=await fetch(WEB_APP_URL,{
+    method:'POST',
+    headers:{'Content-Type':'text/plain;charset=utf-8'},
+    body:JSON.stringify(body),
+    redirect:'follow'
+  });
+  const t=await r.text();
+  let j;
+  try{j=JSON.parse(t)}catch(e){throw new Error('Apps Script did not return JSON.')}
+  if(j.success===false)throw new Error(j.error||'Apps Script error');
+  return j;
+}
+
+async function loadData(){
+  if(WEB_APP_URL.includes('PASTE_YOUR')){
+    el('setupNote').classList.remove('hidden');
+    el('loadStatus').textContent='Add your Apps Script Web App URL before testing.';
+    el('loadStatus').className='status bad';
+    data.students=[{id:'demo',name:'Demo Student'}];
+    data.passages=[{id:'demo',title:'Sam Has a Map',skill:'CVC Short A',text:'Sam has a map. Sam can tap the map. The map has a path. Sam and Pam pack a bag. They plan to walk on the path.'}];
+    fill();
+    return;
+  }
+  try{
+    const response=await api({action:'getAppData'});
+    const raw=response.data||response.result||response;
+    data.students=normalizeStudents(raw.students||raw.roster||[]);
+    data.passages=normalizePassages(raw.passages||raw.passageLibrary||[]);
+    fill();
+    el('loadStatus').textContent='Ready! Choose your name and passage.';
+    el('loadStatus').className='status good';
+  }catch(e){
+    el('loadStatus').textContent='Connection problem: '+e.message;
+    el('loadStatus').className='status bad';
+  }
+}
+
+function normalizeStudents(items){
+  return items.map((x,i)=>typeof x==='string'
+    ?{id:String(i+1),name:x}
+    :{id:String(x.id||x.studentId||x.studentID||i+1),name:x.name||x.studentName||x.student||x.firstName||('Student '+(i+1)),grade:x.grade||x.gradeLevel||'',teacher:x.teacher||x.teacherName||''}
+  ).filter(x=>x.name);
+}
+function normalizePassages(items){
+  return items.map((x,i)=>typeof x==='string'
+    ?{id:String(i+1),title:'Passage '+(i+1),text:x}
+    :{id:String(x.id||x.passageId||x.passageID||i+1),title:x.title||x.passageTitle||x.name||('Passage '+(i+1)),text:x.text||x.passageText||x.content||'',skill:x.skill||x.skillFocus||x.pattern||'',wordCount:Number(x.wordCount||x.words||0)}
+  ).filter(x=>x.text);
+}
+function fill(){
+  el('student').innerHTML='<option value="">Choose your name</option>';
+  el('passage').innerHTML='<option value="">Choose a passage</option>';
+  data.students.forEach(x=>el('student').insertAdjacentHTML('beforeend',`<option value="${x.id}">${escapeHtml(x.name)}</option>`));
+  data.passages.forEach(x=>el('passage').insertAdjacentHTML('beforeend',`<option value="${x.id}">${escapeHtml(x.title+(x.skill?' — '+x.skill:''))}</option>`));
+  ready();
+}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function ready(){el('begin').disabled=!el('student').value||!el('passage').value}
+
+function begin(){
+  selectedStudent=data.students.find(x=>x.id===el('student').value);
+  selectedPassage=data.passages.find(x=>x.id===el('passage').value);
+  if(!selectedStudent||!selectedPassage)return;
+  el('title').textContent=selectedPassage.title;
+  el('reader').textContent='Reader: '+selectedStudent.name;
+  el('skill').textContent=selectedPassage.skill?'Skill: '+selectedPassage.skill:'';
+  el('text').textContent=selectedPassage.text;
+  resetReading();
+  show('reading');
+}
+
+function setupSpeech(){
   const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
-  if(!SR){status.textContent='Speech recognition is not supported. Use Google Chrome.';stopTracks();return;}
-  finalTranscript='';
+  if(!SR){
+    el('speechStatus').textContent='Please use Google Chrome. Speech recognition is not supported in this browser.';
+    el('speechStatus').className='status bad';
+    el('start').disabled=true;
+    return;
+  }
   recognition=new SR();
-  recognition.lang='en-US';
   recognition.continuous=true;
   recognition.interimResults=true;
-  recognition.onstart=()=>status.textContent='Listening... Please begin reading.';
-  recognition.onresult=(event)=>{
-   let interim='';
-   for(let i=event.resultIndex;i<event.results.length;i++){
-    const words=event.results[i][0].transcript;
-    if(event.results[i].isFinal){finalTranscript+=words+' ';}else{interim+=words;}
-   }
-   box.textContent=(finalTranscript+interim).trim()||'Listening...';
+  recognition.lang='en-US';
+  recognition.onstart=()=>{
+    running=true;
+    el('recording').classList.add('on');
+    el('speechStatus').textContent='Microphone connected. Read the passage aloud.';
+    el('speechStatus').className='status good';
   };
-  recognition.onerror=(event)=>status.textContent='Speech-recognition error: '+event.error;
-  recognition.onend=()=>{if(status.textContent.startsWith('Listening'))status.textContent='Listening stopped.';stopTracks();};
-  recognition.start();
- }catch(error){
-  status.textContent='Microphone could not connect: '+error.name+' - '+error.message;
-  box.textContent='No microphone connection.';
- }
+  recognition.onresult=e=>{
+    interimTranscript='';
+    for(let i=e.resultIndex;i<e.results.length;i++){
+      const t=e.results[i][0].transcript;
+      if(e.results[i].isFinal)finalTranscript+=t+' ';
+      else interimTranscript+=t;
+    }
+  };
+  recognition.onerror=e=>{
+    running=false;
+    el('recording').classList.remove('on');
+    el('speechStatus').textContent='Microphone problem: '+e.error+'. Check Chrome microphone permission.';
+    el('speechStatus').className='status bad';
+  };
+  recognition.onend=()=>{
+    running=false;
+    el('recording').classList.remove('on');
+    if(startedAt&&!endedAt){try{recognition.start()}catch(e){}}
+  };
 }
-function stopListening(){
- if(recognition){try{recognition.stop();}catch(e){}}
- stopTracks();
- document.getElementById('status').textContent='Listening stopped.';
+
+function resetReading(){
+  finalTranscript='';interimTranscript='';startedAt=null;endedAt=null;
+  el('start').disabled=false;el('finish').disabled=true;el('back').disabled=false;
+  el('recording').classList.remove('on');
+  el('speechStatus').textContent='Press “Start Reading” when you are ready.';
+  el('speechStatus').className='status';
 }
-function stopTracks(){
- if(micStream){micStream.getTracks().forEach(track=>track.stop());micStream=null;}
+function startReading(){
+  if(!recognition)return;
+  finalTranscript='';interimTranscript='';startedAt=new Date();endedAt=null;
+  el('start').disabled=true;el('finish').disabled=false;el('back').disabled=true;
+  try{recognition.start()}catch(e){}
+}
+async function finishReading(){
+  if(!startedAt)return;
+  endedAt=new Date();
+  el('finish').disabled=true;el('back').disabled=false;
+  if(running){try{recognition.stop()}catch(e){}}
+  const transcript=(finalTranscript+interimTranscript).trim();
+  const seconds=Math.max(1,Math.round((endedAt-startedAt)/1000));
+  const score=scoreReading(selectedPassage.text,transcript,seconds);
+  el('wpm').textContent=score.wpm;
+  el('accuracy').textContent=score.accuracy+'%';
+  el('correct').textContent=score.correctWords;
+  el('celebration').textContent=message(score.accuracy);
+  show('results');
+  await save(score,transcript,seconds);
+}
+
+function words(s){return (String(s).toLowerCase().match(/[a-z']+/g)||[])}
+function scoreReading(reference,spoken,seconds){
+  const a=words(reference),b=words(spoken),dp=Array.from({length:a.length+1},()=>new Uint16Array(b.length+1));
+  for(let i=1;i<=a.length;i++)for(let j=1;j<=b.length;j++)dp[i][j]=a[i-1]===b[j-1]?dp[i-1][j-1]+1:Math.max(dp[i-1][j],dp[i][j-1]);
+  const correct=Number(dp[a.length][b.length]),total=a.length,errors=Math.max(0,total-correct);
+  return{correctWords:correct,totalWords:total,errors,spokenWords:b.length,wpm:Math.max(0,Math.round(correct/(seconds/60))),accuracy:total?Math.round(correct/total*100):0};
+}
+function message(a){
+  if(a>=97)return'🌟 Excellent accuracy!';
+  if(a>=90)return'⭐ Strong reading—keep building fluency!';
+  if(a>=80)return'👏 Nice work—practice makes readers stronger!';
+  return'💙 You finished! Try the passage again and notice your growth.';
+}
+async function save(score,transcript,seconds){
+  const payload={
+    timestamp:new Date().toISOString(),
+    studentId:selectedStudent.id,studentID:selectedStudent.id,studentName:selectedStudent.name,student:selectedStudent.name,
+    grade:selectedStudent.grade||'',teacher:selectedStudent.teacher||'',
+    passageId:selectedPassage.id,passageID:selectedPassage.id,passageTitle:selectedPassage.title,passage:selectedPassage.title,
+    passageText:selectedPassage.text,skill:selectedPassage.skill||'',
+    transcript,durationSeconds:seconds,timeSeconds:seconds,totalWords:score.totalWords,wordCount:score.totalWords,
+    spokenWords:score.spokenWords,correctWords:score.correctWords,errors:score.errors,miscues:score.errors,wpm:score.wpm,accuracy:score.accuracy
+  };
+  if(WEB_APP_URL.includes('PASTE_YOUR')){
+    el('saveStatus').textContent='Demo mode: add your Apps Script Web App URL to save results.';
+    el('saveStatus').className='status bad';return;
+  }
+  try{
+    await api({action:'saveReadingSession',payload});
+    el('saveStatus').textContent='✓ Your reading result was saved.';
+    el('saveStatus').className='status good';
+  }catch(e){
+    el('saveStatus').textContent='Your score is shown, but it could not be saved: '+e.message;
+    el('saveStatus').className='status bad';
+  }
+}
+function reset(){
+  if(running){try{recognition.stop()}catch(e){}}
+  resetReading();show('welcome');
 }
 </script>
 </body>
