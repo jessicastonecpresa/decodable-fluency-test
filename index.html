@@ -50,10 +50,10 @@
     <div id="recording" class="recording"><span class="dot"></span>Listening — keep reading</div>
     <div class="actions">
       <button id="start" class="success">🎤 Start Reading</button>
-      <button id="finish" class="danger" disabled>Finish Reading</button>
+      <button id="finish" class="danger" disabled>Stop Early</button>
       <button id="back" class="secondary">Go Back</button>
     </div>
-    <div id="speechStatus" class="status">Press “Start Reading” when you are ready.</div>
+    <div id="speechStatus" class="status">Press “Start Reading” when you are ready. The app will stop automatically.</div>
   </div></section>
 
   <section id="results" class="screen"><div class="card">
@@ -73,7 +73,7 @@
 <script>
 'use strict';
 let appData={students:[],passages:[]},selectedStudent=null,selectedPassage=null;
-let recognition=null,recognitionRunning=false,finalTranscript='',interimTranscript='',startedAt=null,endedAt=null;
+let recognition=null,recognitionRunning=false,finalTranscript='',interimTranscript='',startedAt=null,endedAt=null,autoStopTimer=null;
 const el=id=>document.getElementById(id);
 
 document.addEventListener('DOMContentLoaded',()=>{bindEvents();setupSpeechRecognition();loadData()});
@@ -163,25 +163,38 @@ function setupSpeechRecognition(){
   recognition.onend=()=>{recognitionRunning=false;el('recording').classList.remove('on');if(startedAt&&!endedAt){try{recognition.start()}catch(_){}}};
 }
 function resetReadingState(){
+  clearTimeout(autoStopTimer);autoStopTimer=null;
   finalTranscript='';interimTranscript='';startedAt=null;endedAt=null;
   el('start').disabled=!recognition;el('finish').disabled=true;el('back').disabled=false;el('recording').classList.remove('on');
-  el('speechStatus').textContent=recognition?'Press “Start Reading” when you are ready.':'Open this link in Google Chrome to use speech recognition.';
+  el('speechStatus').textContent=recognition?'Press “Start Reading” when you are ready. The app will stop automatically.':'Open this link in Google Chrome to use speech recognition.';
   el('speechStatus').className=recognition?'status':'status bad';
 }
 function startReading(){
-  if(!recognition)return;finalTranscript='';interimTranscript='';startedAt=new Date();endedAt=null;
+  if(!recognition)return;
+  finalTranscript='';interimTranscript='';startedAt=new Date();endedAt=null;
+  clearTimeout(autoStopTimer);
   el('start').disabled=true;el('finish').disabled=false;el('back').disabled=true;
   try{recognition.start()}catch(_){}
+  // Hidden one-minute timer. Students do not see a countdown.
+  autoStopTimer=setTimeout(()=>finishReading(true),60000);
 }
-function finishReading(){
-  if(!startedAt)return;endedAt=new Date();el('finish').disabled=true;el('back').disabled=false;
+function finishReading(automatic=false){
+  if(!startedAt||endedAt)return;
+  clearTimeout(autoStopTimer);
+  autoStopTimer=null;
+  endedAt=new Date();
+  el('finish').disabled=true;el('back').disabled=false;
   if(recognitionRunning){try{recognition.stop()}catch(_){}}
   const transcript=(finalTranscript+' '+interimTranscript).trim();
-  const seconds=Math.max(1,Math.round((endedAt-startedAt)/1000));
+  const elapsed=Math.max(1,Math.round((endedAt-startedAt)/1000));
+  const seconds=automatic?60:Math.min(60,elapsed);
   const score=scoreReading(selectedPassage.text,transcript,seconds);
-  el('wpm').textContent=score.wpm;el('accuracy').textContent=score.accuracy+'%';el('correct').textContent=score.correctWords;
-  el('celebration').textContent=score.accuracy>=90?'⭐ Strong reading—keep building fluency!':'💙 You finished! Read it again and notice your growth.';
-  showScreen('results');saveResult(score,transcript,seconds);
+  el('wpm').textContent=score.wpm;
+  el('accuracy').textContent=score.accuracy+'%';
+  el('correct').textContent=score.correctWords;
+  el('celebration').textContent=automatic?'⭐ One minute complete!':'💙 Reading stopped early.';
+  showScreen('results');
+  saveResult(score,transcript,seconds);
 }
 function tokenize(text){return String(text||'').toLowerCase().match(/[a-z']+/g)||[]}
 function scoreReading(reference,spoken,seconds){
