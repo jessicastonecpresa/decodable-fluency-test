@@ -1,122 +1,703 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Decodable Fluency Center</title>
-<style>
-:root{--navy:#173a64;--blue:#2f70b7;--pale:#eef6ff;--ink:#24364a;--muted:#64748b;--green:#2f855a;--red:#c53030}
-*{box-sizing:border-box}body{margin:0;min-height:100vh;font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:linear-gradient(180deg,#eaf4ff,#fff)}
-.app{max-width:980px;margin:auto;padding:20px}.brand{display:flex;justify-content:center;align-items:center;gap:12px;margin:10px 0 24px;color:var(--navy);font-size:clamp(26px,4vw,42px);font-weight:800}
-.logo{width:56px;height:56px;border-radius:16px;display:grid;place-items:center;background:var(--blue);color:#fff;box-shadow:0 10px 24px rgba(23,58,100,.18)}
-.card{padding:clamp(22px,4vw,40px);border:1px solid #dbeaf8;border-radius:24px;background:#fff;box-shadow:0 14px 35px rgba(23,58,100,.14)}
-.screen{display:none}.screen.active{display:block}h1,h2{margin-top:0;color:var(--navy)}h1{text-align:center;font-size:clamp(34px,5vw,54px)}
-.subtitle{max-width:680px;margin:0 auto 28px;color:var(--muted);text-align:center;font-size:18px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
-label{display:block;margin:16px 0 8px;color:var(--navy);font-weight:700}select{width:100%;padding:15px;border:2px solid #c9dced;border-radius:14px;background:#fff;font-size:17px}
-.actions{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;margin-top:26px}button{border:0;border-radius:16px;padding:15px 24px;font-size:17px;font-weight:800;cursor:pointer}
-button:disabled{opacity:.5;cursor:not-allowed}.primary{background:var(--blue);color:#fff}.secondary{background:#e7f0fa;color:var(--navy)}.success{background:var(--green);color:#fff}.danger{background:var(--red);color:#fff}
-.status{margin-top:18px;padding:13px;border-radius:12px;background:#f1f5f9;color:var(--muted);text-align:center;font-weight:700}.status.good{background:#e9fff1;color:var(--green)}.status.bad{background:#fff0f0;color:var(--red)}
-.meta{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:16px;color:var(--muted);font-weight:700}.passage{min-height:220px;padding:clamp(20px,4vw,34px);border:2px solid #dceaf8;border-radius:18px;background:#fbfdff;font:clamp(22px,3.2vw,32px)/1.75 Georgia,serif}
-.recording{display:none;justify-content:center;align-items:center;gap:10px;margin-top:18px;padding:13px;border-radius:12px;background:#fff1f1;color:var(--red);font-weight:800}.recording.on{display:flex}.dot{width:12px;height:12px;border-radius:50%;background:var(--red);animation:pulse 1s infinite}@keyframes pulse{50%{opacity:.25}}
-.results{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:24px 0}.metric{padding:22px;border-radius:18px;background:var(--pale);text-align:center}.metric strong{display:block;color:var(--navy);font-size:clamp(34px,5vw,52px)}.metric span{color:var(--muted);font-weight:800}.celebrate{color:var(--green);text-align:center;font-size:22px;font-weight:800}
-@media(max-width:700px){.grid,.results{grid-template-columns:1fr}.app{padding:12px}.card{padding:22px}}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Decodable Fluency Center</title>
+  <style>
+    :root {
+      --navy: #173a64;
+      --blue: #2f70b7;
+      --pale-blue: #eef6ff;
+      --ink: #24364a;
+      --muted: #64748b;
+      --green: #2f855a;
+      --red: #c53030;
+      --border: #dbeaf8;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--ink);
+      background: linear-gradient(180deg, #eaf4ff 0%, #ffffff 100%);
+    }
+
+    .app {
+      width: min(980px, calc(100% - 24px));
+      margin: 0 auto;
+      padding: 24px 0 40px;
+    }
+
+    .brand {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 14px;
+      margin: 8px 0 24px;
+      color: var(--navy);
+      font-size: clamp(28px, 4vw, 46px);
+      font-weight: 800;
+      text-align: center;
+    }
+
+    .logo {
+      width: 60px;
+      height: 60px;
+      border-radius: 16px;
+      display: grid;
+      place-items: center;
+      flex: 0 0 auto;
+      background: var(--blue);
+      color: #ffffff;
+      box-shadow: 0 10px 24px rgba(23, 58, 100, 0.18);
+      font-size: 30px;
+    }
+
+    .screen { display: none; }
+    .screen.active { display: block; }
+
+    .card {
+      padding: clamp(24px, 4vw, 42px);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      background: #ffffff;
+      box-shadow: 0 14px 35px rgba(23, 58, 100, 0.14);
+    }
+
+    h1, h2 {
+      margin-top: 0;
+      color: var(--navy);
+    }
+
+    h1 {
+      margin-bottom: 18px;
+      text-align: center;
+      font-size: clamp(36px, 5vw, 58px);
+    }
+
+    h2 { font-size: clamp(28px, 4vw, 40px); }
+
+    .subtitle {
+      max-width: 700px;
+      margin: 0 auto 30px;
+      color: var(--muted);
+      text-align: center;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    label {
+      display: block;
+      margin: 16px 0 8px;
+      color: var(--navy);
+      font-weight: 700;
+      font-size: 17px;
+    }
+
+    select {
+      width: 100%;
+      padding: 15px;
+      border: 2px solid #c9dced;
+      border-radius: 14px;
+      background: #ffffff;
+      color: var(--ink);
+      font-size: 17px;
+    }
+
+    .actions {
+      display: flex;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-top: 28px;
+    }
+
+    button {
+      border: 0;
+      border-radius: 16px;
+      padding: 15px 24px;
+      font-size: 17px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .primary { background: var(--blue); color: #ffffff; }
+    .secondary { background: #e7f0fa; color: var(--navy); }
+    .success { background: var(--green); color: #ffffff; }
+    .danger { background: var(--red); color: #ffffff; }
+
+    .status {
+      margin-top: 20px;
+      padding: 14px;
+      border-radius: 12px;
+      background: #f1f5f9;
+      color: var(--muted);
+      text-align: center;
+      font-weight: 700;
+      line-height: 1.4;
+    }
+
+    .status.good { background: #e9fff1; color: var(--green); }
+    .status.bad { background: #fff0f0; color: var(--red); }
+
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .passage {
+      min-height: 220px;
+      padding: clamp(22px, 4vw, 36px);
+      border: 2px solid #dceaf8;
+      border-radius: 18px;
+      background: #fbfdff;
+      font: clamp(23px, 3.2vw, 33px) / 1.75 Georgia, serif;
+      white-space: pre-wrap;
+    }
+
+    .recording {
+      display: none;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      margin-top: 18px;
+      padding: 13px;
+      border-radius: 12px;
+      background: #fff1f1;
+      color: var(--red);
+      font-weight: 800;
+    }
+
+    .recording.on { display: flex; }
+
+    .dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--red);
+      animation: pulse 1s infinite;
+    }
+
+    @keyframes pulse { 50% { opacity: 0.25; } }
+
+    .results {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin: 24px 0;
+    }
+
+    .metric {
+      padding: 22px;
+      border-radius: 18px;
+      background: var(--pale-blue);
+      text-align: center;
+    }
+
+    .metric strong {
+      display: block;
+      color: var(--navy);
+      font-size: clamp(34px, 5vw, 52px);
+    }
+
+    .metric span {
+      color: var(--muted);
+      font-weight: 800;
+    }
+
+    .celebrate {
+      color: var(--green);
+      text-align: center;
+      font-size: 22px;
+      font-weight: 800;
+    }
+
+    @media (max-width: 700px) {
+      .grid, .results { grid-template-columns: 1fr; }
+      .brand { align-items: flex-start; }
+      .logo { width: 50px; height: 50px; font-size: 24px; }
+    }
+  </style>
 </head>
 <body>
-<main class="app">
-<div class="brand"><div class="logo">📚</div><span>Decodable Fluency Center</span></div>
+  <main class="app">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">📚</div>
+      <span>Decodable Fluency Center</span>
+    </div>
 
-<section id="welcome" class="screen active"><div class="card">
-<h1>Welcome, Reader!</h1>
-<p class="subtitle">Choose your name and passage. Find a quiet place, put on your headset, and get ready to read.</p>
-<div class="grid">
-<div><label for="student">Your name</label><select id="student"><option value="">Loading students…</option></select></div>
-<div><label for="passage">Your passage</label><select id="passage"><option value="">Loading passages…</option></select></div>
-</div>
-<div class="actions"><button id="begin" class="primary" disabled>Begin Reading</button></div>
-<div id="loadStatus" class="status">Connecting to your class list…</div>
-</div></section>
+    <section id="welcome" class="screen active">
+      <div class="card">
+        <h1>Welcome, Reader!</h1>
+        <p class="subtitle">Choose your name and passage. Find a quiet place, put on your headset, and get ready to read.</p>
 
-<section id="reading" class="screen"><div class="card">
-<h2 id="title">Today's Passage</h2>
-<div class="meta"><span id="reader"></span><span id="skill"></span></div>
-<div id="text" class="passage"></div>
-<div id="recording" class="recording"><span class="dot"></span>Listening — keep reading</div>
-<div class="actions"><button id="start" class="success">🎤 Start Reading</button><button id="finish" class="danger" disabled>Finish Reading</button><button id="back" class="secondary">Go Back</button></div>
-<div id="speechStatus" class="status">Press “Start Reading” when you are ready.</div>
-</div></section>
+        <div class="grid">
+          <div>
+            <label for="student">Your name</label>
+            <select id="student">
+              <option value="">Loading students...</option>
+            </select>
+          </div>
 
-<section id="results" class="screen"><div class="card">
-<h1>Great Reading!</h1>
-<div id="celebration" class="celebrate">⭐ You completed your passage!</div>
-<div class="results">
-<div class="metric"><strong id="wpm">0</strong><span>Words Per Minute</span></div>
-<div class="metric"><strong id="accuracy">0%</strong><span>Accuracy</span></div>
-<div class="metric"><strong id="correct">0</strong><span>Correct Words</span></div>
-</div>
-<div id="saveStatus" class="status">Saving your reading result…</div>
-<div class="actions"><button id="again" class="primary">Read Another Passage</button></div>
-</div></section>
-</main>
+          <div>
+            <label for="passage">Your passage</label>
+            <select id="passage">
+              <option value="">Loading passages...</option>
+            </select>
+          </div>
+        </div>
 
-<script>
-const WEB_APP_URL='https://script.google.com/macros/s/AKfycbzF9SIrqyyXip84Gi-Tv5j6lcKCpJutGpLA9cvVM2yJdH3jRj1HqGIC7vAFRqNw0teEtQ/exec';
-let appData={students:[],passages:[]},selectedStudent=null,selectedPassage=null,recognition=null,finalTranscript='',interimTranscript='',startedAt=null,endedAt=null,recognitionRunning=false;
-const el=id=>document.getElementById(id);
+        <div class="actions">
+          <button id="begin" class="primary" disabled>Begin Reading</button>
+        </div>
 
-document.addEventListener('DOMContentLoaded',()=>{bindEvents();setupSpeechRecognition();loadAppData()});
-function bindEvents(){el('student').addEventListener('change',updateBeginButton);el('passage').addEventListener('change',updateBeginButton);el('begin').addEventListener('click',beginReading);el('start').addEventListener('click',startReading);el('finish').addEventListener('click',finishReading);el('back').addEventListener('click',resetToWelcome);el('again').addEventListener('click',resetToWelcome)}
-function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));el(id).classList.add('active');window.scrollTo({top:0,behavior:'smooth'})}
+        <div id="loadStatus" class="status">Connecting to your class list...</div>
+      </div>
+    </section>
 
-function loadAppData(){
-  el('loadStatus').textContent='Connecting to your class list…';el('loadStatus').className='status';
-  const callbackName='decodableFluencyData_'+Date.now();
-  const script=document.createElement('script');
-  const cleanup=()=>{delete window[callbackName];script.remove()};
-  const timeout=window.setTimeout(()=>{cleanup();showLoadError('The data request timed out. Confirm that Apps Script was redeployed.')},15000);
-  window[callbackName]=response=>{
-    window.clearTimeout(timeout);cleanup();
-    if(!response||response.success!==true){showLoadError(response&&response.error?response.error:'Apps Script did not return usable data.');return}
-    const raw=response.data||{};
-    appData.students=normalizeStudents(raw.roster||raw.students||[]);
-    appData.passages=normalizePassages(raw.passages||raw.passageLibrary||[]);
-    populateDropdowns();
-    el('loadStatus').textContent='Ready! Choose your name and passage.';el('loadStatus').className='status good';
-  };
-  script.onerror=()=>{window.clearTimeout(timeout);cleanup();showLoadError('The Apps Script data request could not be loaded.')};
-  script.src=WEB_APP_URL+'?action=getAppData&callback='+encodeURIComponent(callbackName)+'&t='+Date.now();
-  document.head.appendChild(script);
-}
-function showLoadError(message){el('student').innerHTML='<option value="">Unable to load students</option>';el('passage').innerHTML='<option value="">Unable to load passages</option>';el('loadStatus').textContent='Connection problem: '+message;el('loadStatus').className='status bad'}
-function normalizeStudents(items){return items.map((item,index)=>typeof item==='string'?{id:String(index+1),name:item}:{id:String(item['Student ID']||item.studentId||item.studentID||index+1),name:item['Display Name']||item['First Name']||item['Student Name']||item.name||item.studentName||('Student '+(index+1)),grade:item.Grade||item.grade||'',teacher:item.Teacher||item.teacher||''}).filter(s=>s.name)}
-function normalizePassages(items){return items.map((item,index)=>typeof item==='string'?{id:String(index+1),title:'Passage '+(index+1),text:item,skill:''}:{id:String(item['Passage ID']||item.passageId||item.passageID||index+1),title:item.Title||item['Passage Title']||item.title||item.passageTitle||('Passage '+(index+1)),text:item['Passage Text']||item.Text||item.text||item.passageText||'',skill:item.Skill||item.skill||item.skillFocus||'',gradeBand:item['Grade Band']||item.gradeBand||''}).filter(p=>p.text)}
-function populateDropdowns(){el('student').innerHTML='<option value="">Choose your name</option>';el('passage').innerHTML='<option value="">Choose a passage</option>';appData.students.forEach(s=>{const o=document.createElement('option');o.value=s.id;o.textContent=s.name;el('student').appendChild(o)});appData.passages.forEach(p=>{const o=document.createElement('option');o.value=p.id;o.textContent=p.skill?p.title+' — '+p.skill:p.title;el('passage').appendChild(o)});updateBeginButton()}
-function updateBeginButton(){el('begin').disabled=!el('student').value||!el('passage').value}
-function beginReading(){selectedStudent=appData.students.find(s=>s.id===el('student').value);selectedPassage=appData.passages.find(p=>p.id===el('passage').value);if(!selectedStudent||!selectedPassage)return;el('title').textContent=selectedPassage.title;el('reader').textContent='Reader: '+selectedStudent.name;el('skill').textContent=selectedPassage.skill?'Skill: '+selectedPassage.skill:'';el('text').textContent=selectedPassage.text;resetReadingState();showScreen('reading')}
+    <section id="reading" class="screen">
+      <div class="card">
+        <h2 id="title">Today's Passage</h2>
+        <div class="meta">
+          <span id="reader"></span>
+          <span id="skill"></span>
+        </div>
 
-function setupSpeechRecognition(){
-  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
-  if(!SR){el('speechStatus').textContent='Please use Google Chrome. Speech recognition is not supported in this browser.';el('speechStatus').className='status bad';el('start').disabled=true;return}
-  recognition=new SR();recognition.continuous=true;recognition.interimResults=true;recognition.lang='en-US';
-  recognition.onstart=()=>{recognitionRunning=true;el('recording').classList.add('on');el('speechStatus').textContent='Microphone connected. Read the passage aloud.';el('speechStatus').className='status good'};
-  recognition.onresult=event=>{interimTranscript='';for(let i=event.resultIndex;i<event.results.length;i++){const text=event.results[i][0].transcript;if(event.results[i].isFinal)finalTranscript+=text+' ';else interimTranscript+=text}};
-  recognition.onerror=event=>{recognitionRunning=false;el('recording').classList.remove('on');el('speechStatus').textContent='Microphone problem: '+event.error+'. Check Chrome microphone permission.';el('speechStatus').className='status bad'};
-  recognition.onend=()=>{recognitionRunning=false;el('recording').classList.remove('on');if(startedAt&&!endedAt){try{recognition.start()}catch(error){}}};
-}
-function resetReadingState(){finalTranscript='';interimTranscript='';startedAt=null;endedAt=null;el('start').disabled=false;el('finish').disabled=true;el('back').disabled=false;el('recording').classList.remove('on');el('speechStatus').textContent='Press “Start Reading” when you are ready.';el('speechStatus').className='status'}
-function startReading(){if(!recognition)return;finalTranscript='';interimTranscript='';startedAt=new Date();endedAt=null;el('start').disabled=true;el('finish').disabled=false;el('back').disabled=true;try{recognition.start()}catch(error){el('speechStatus').textContent='The microphone is already starting. Please wait a moment.'}}
-async function finishReading(){if(!startedAt)return;endedAt=new Date();el('finish').disabled=true;el('back').disabled=false;if(recognitionRunning){try{recognition.stop()}catch(error){}}const transcript=(finalTranscript+interimTranscript).trim();const durationSeconds=Math.max(1,Math.round((endedAt-startedAt)/1000));const score=scoreReading(selectedPassage.text,transcript,durationSeconds);el('wpm').textContent=score.wpm;el('accuracy').textContent=score.accuracy+'%';el('correct').textContent=score.correctWords;el('celebration').textContent=celebrationMessage(score.accuracy);showScreen('results');await saveReadingResult(score,transcript,durationSeconds)}
-function tokenize(text){return String(text).toLowerCase().match(/[a-z']+/g)||[]}
-function scoreReading(referenceText,spokenText,durationSeconds){const target=tokenize(referenceText),spoken=tokenize(spokenText),matrix=Array.from({length:target.length+1},()=>new Uint16Array(spoken.length+1));for(let i=1;i<=target.length;i++){for(let j=1;j<=spoken.length;j++){matrix[i][j]=target[i-1]===spoken[j-1]?matrix[i-1][j-1]+1:Math.max(matrix[i-1][j],matrix[i][j-1])}}const correctWords=Number(matrix[target.length][spoken.length]),totalWords=target.length,errors=Math.max(0,totalWords-correctWords),minutes=durationSeconds/60;return{correctWords,totalWords,errors,spokenWords:spoken.length,wpm:Math.max(0,Math.round(correctWords/minutes)),accuracy:totalWords?Math.max(0,Math.min(100,Math.round(correctWords/totalWords*100))):0}}
-function celebrationMessage(a){if(a>=97)return'🌟 Excellent accuracy!';if(a>=90)return'⭐ Strong reading—keep building fluency!';if(a>=80)return'👏 Nice work—practice makes readers stronger!';return'💙 You finished! Try the passage again and notice your growth.'}
+        <div id="text" class="passage"></div>
+        <div id="recording" class="recording"><span class="dot"></span>Listening - keep reading</div>
 
-async function saveReadingResult(score,transcript,durationSeconds){
-  const payload={timestamp:new Date().toISOString(),studentId:selectedStudent.id,studentName:selectedStudent.name,grade:selectedStudent.grade||'',teacher:selectedStudent.teacher||'',passageId:selectedPassage.id,passageTitle:selectedPassage.title,passageText:selectedPassage.text,skill:selectedPassage.skill||'',transcript,durationSeconds,totalWords:score.totalWords,spokenWords:score.spokenWords,correctWords:score.correctWords,errors:score.errors,wpm:score.wpm,accuracy:score.accuracy};
-  el('saveStatus').textContent='Saving your reading result…';el('saveStatus').className='status';
-  const body=new URLSearchParams();body.set('action','saveReadingSession');body.set('payload',JSON.stringify(payload));
-  try{await fetch(WEB_APP_URL,{method:'POST',mode:'no-cors',headers:{'Content-Type':'application/x-www-form-urlencoded;charset=UTF-8'},body:body.toString()});el('saveStatus').textContent='✓ Your reading result was sent to the teacher sheet.';el('saveStatus').className='status good'}catch(error){el('saveStatus').textContent='Your score is shown, but the result could not be sent.';el('saveStatus').className='status bad'}
-}
-function resetToWelcome(){if(recognitionRunning){try{recognition.stop()}catch(error){}}resetReadingState();showScreen('welcome')}
-</script>
+        <div class="actions">
+          <button id="start" class="success">Start Reading</button>
+          <button id="finish" class="danger" disabled>Finish Reading</button>
+          <button id="back" class="secondary">Go Back</button>
+        </div>
+
+        <div id="speechStatus" class="status">Press “Start Reading” when you are ready.</div>
+      </div>
+    </section>
+
+    <section id="results" class="screen">
+      <div class="card">
+        <h1>Great Reading!</h1>
+        <div id="celebration" class="celebrate">You completed your passage!</div>
+
+        <div class="results">
+          <div class="metric"><strong id="wpm">0</strong><span>Words Per Minute</span></div>
+          <div class="metric"><strong id="accuracy">0%</strong><span>Accuracy</span></div>
+          <div class="metric"><strong id="correct">0</strong><span>Correct Words</span></div>
+        </div>
+
+        <div id="saveStatus" class="status">Saving your reading result...</div>
+
+        <div class="actions">
+          <button id="again" class="primary">Read Another Passage</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    // This must be the deployed Apps Script web-app URL ending in /exec.
+    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzF9SIrqyyXip84Gi-Tv5j6lcKCpJutGpLA9cvVM2yJdH3jRj1HqGIC7vAFRqNw0teEtQ/exec';
+
+    let appData = { students: [], passages: [] };
+    let selectedStudent = null;
+    let selectedPassage = null;
+    let recognition = null;
+    let finalTranscript = '';
+    let interimTranscript = '';
+    let startedAt = null;
+    let endedAt = null;
+    let recognitionRunning = false;
+
+    const el = id => document.getElementById(id);
+
+    document.addEventListener('DOMContentLoaded', function () {
+      bindEvents();
+      setupSpeechRecognition();
+      loadAppData();
+    });
+
+    function bindEvents() {
+      el('student').addEventListener('change', updateBeginButton);
+      el('passage').addEventListener('change', updateBeginButton);
+      el('begin').addEventListener('click', beginReading);
+      el('start').addEventListener('click', startReading);
+      el('finish').addEventListener('click', finishReading);
+      el('back').addEventListener('click', resetToWelcome);
+      el('again').addEventListener('click', resetToWelcome);
+    }
+
+    function showScreen(id) {
+      document.querySelectorAll('.screen').forEach(function (screen) {
+        screen.classList.remove('active');
+      });
+      el(id).classList.add('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function loadAppData() {
+      el('loadStatus').textContent = 'Connecting to your class list...';
+      el('loadStatus').className = 'status';
+
+      const callbackName = 'decodableFluencyData_' + Date.now();
+      const script = document.createElement('script');
+
+      const cleanup = function () {
+        try { delete window[callbackName]; } catch (error) { window[callbackName] = undefined; }
+        if (script.parentNode) script.parentNode.removeChild(script);
+      };
+
+      const timeout = window.setTimeout(function () {
+        cleanup();
+        showLoadError('The data request timed out. Confirm that Apps Script was redeployed as a web app.');
+      }, 15000);
+
+      window[callbackName] = function (response) {
+        window.clearTimeout(timeout);
+        cleanup();
+
+        if (!response || response.success !== true) {
+          showLoadError(response && response.error ? response.error : 'Apps Script did not return usable data.');
+          return;
+        }
+
+        const raw = response.data || {};
+        appData.students = normalizeStudents(raw.students || raw.roster || []);
+        appData.passages = normalizePassages(raw.passages || raw.passageLibrary || []);
+
+        populateDropdowns();
+
+        if (appData.students.length === 0 || appData.passages.length === 0) {
+          const missing = [];
+          if (appData.students.length === 0) missing.push('students');
+          if (appData.passages.length === 0) missing.push('passages');
+          showLoadError('No ' + missing.join(' or ') + ' were found in the spreadsheet.');
+          return;
+        }
+
+        el('loadStatus').textContent = 'Ready! Choose your name and passage.';
+        el('loadStatus').className = 'status good';
+      };
+
+      script.onerror = function () {
+        window.clearTimeout(timeout);
+        cleanup();
+        showLoadError('The Apps Script data request could not be loaded.');
+      };
+
+      script.src = WEB_APP_URL + '?action=getAppData&callback=' + encodeURIComponent(callbackName) + '&t=' + Date.now();
+      document.head.appendChild(script);
+    }
+
+    function showLoadError(message) {
+      el('student').innerHTML = '<option value="">Unable to load students</option>';
+      el('passage').innerHTML = '<option value="">Unable to load passages</option>';
+      el('begin').disabled = true;
+      el('loadStatus').textContent = 'Connection problem: ' + message;
+      el('loadStatus').className = 'status bad';
+    }
+
+    function normalizeStudents(items) {
+      return items.map(function (item, index) {
+        if (typeof item === 'string') {
+          return { id: String(index + 1), name: item, grade: '', teacher: '' };
+        }
+
+        return {
+          id: String(item['Student ID'] || item.studentId || item.studentID || index + 1),
+          name: item['Display Name'] || item['First Name'] || item['Student Name'] || item.name || item.studentName || ('Student ' + (index + 1)),
+          grade: item.Grade || item.grade || '',
+          teacher: item.Teacher || item.teacher || ''
+        };
+      }).filter(function (student) {
+        return Boolean(student.name);
+      });
+    }
+
+    function normalizePassages(items) {
+      return items.map(function (item, index) {
+        if (typeof item === 'string') {
+          return { id: String(index + 1), title: 'Passage ' + (index + 1), text: item, skill: '' };
+        }
+
+        return {
+          id: String(item['Passage ID'] || item.passageId || item.passageID || index + 1),
+          title: item.Title || item['Passage Title'] || item.title || item.passageTitle || ('Passage ' + (index + 1)),
+          text: item['Passage Text'] || item.Text || item.text || item.passageText || '',
+          skill: item.Skill || item.skill || item.skillFocus || '',
+          gradeBand: item['Grade Band'] || item.gradeBand || ''
+        };
+      }).filter(function (passage) {
+        return Boolean(passage.text);
+      });
+    }
+
+    function populateDropdowns() {
+      el('student').innerHTML = '<option value="">Choose your name</option>';
+      el('passage').innerHTML = '<option value="">Choose a passage</option>';
+
+      appData.students.forEach(function (student) {
+        const option = document.createElement('option');
+        option.value = student.id;
+        option.textContent = student.name;
+        el('student').appendChild(option);
+      });
+
+      appData.passages.forEach(function (passage) {
+        const option = document.createElement('option');
+        option.value = passage.id;
+        option.textContent = passage.skill ? passage.title + ' - ' + passage.skill : passage.title;
+        el('passage').appendChild(option);
+      });
+
+      updateBeginButton();
+    }
+
+    function updateBeginButton() {
+      el('begin').disabled = !el('student').value || !el('passage').value;
+    }
+
+    function beginReading() {
+      selectedStudent = appData.students.find(function (student) {
+        return student.id === el('student').value;
+      });
+
+      selectedPassage = appData.passages.find(function (passage) {
+        return passage.id === el('passage').value;
+      });
+
+      if (!selectedStudent || !selectedPassage) return;
+
+      el('title').textContent = selectedPassage.title;
+      el('reader').textContent = 'Reader: ' + selectedStudent.name;
+      el('skill').textContent = selectedPassage.skill ? 'Skill: ' + selectedPassage.skill : '';
+      el('text').textContent = selectedPassage.text;
+
+      resetReadingState();
+      showScreen('reading');
+    }
+
+    function setupSpeechRecognition() {
+      const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+      if (!SpeechRecognition) {
+        el('speechStatus').textContent = 'Please use Google Chrome. Speech recognition is not supported in this browser.';
+        el('speechStatus').className = 'status bad';
+        el('start').disabled = true;
+        return;
+      }
+
+      recognition = new SpeechRecognition();
+      recognition.continuous = true;
+      recognition.interimResults = true;
+      recognition.lang = 'en-US';
+
+      recognition.onstart = function () {
+        recognitionRunning = true;
+        el('recording').classList.add('on');
+        el('speechStatus').textContent = 'Microphone connected. Read the passage aloud.';
+        el('speechStatus').className = 'status good';
+      };
+
+      recognition.onresult = function (event) {
+        interimTranscript = '';
+
+        for (let i = event.resultIndex; i < event.results.length; i += 1) {
+          const text = event.results[i][0].transcript;
+          if (event.results[i].isFinal) {
+            finalTranscript += text + ' ';
+          } else {
+            interimTranscript += text;
+          }
+        }
+      };
+
+      recognition.onerror = function (event) {
+        recognitionRunning = false;
+        el('recording').classList.remove('on');
+        el('speechStatus').textContent = 'Microphone problem: ' + event.error + '. Check Chrome microphone permission.';
+        el('speechStatus').className = 'status bad';
+      };
+
+      recognition.onend = function () {
+        recognitionRunning = false;
+        el('recording').classList.remove('on');
+
+        if (startedAt && !endedAt) {
+          try { recognition.start(); } catch (error) { /* Chrome may already be restarting. */ }
+        }
+      };
+    }
+
+    function resetReadingState() {
+      finalTranscript = '';
+      interimTranscript = '';
+      startedAt = null;
+      endedAt = null;
+      el('start').disabled = false;
+      el('finish').disabled = true;
+      el('back').disabled = false;
+      el('recording').classList.remove('on');
+      el('speechStatus').textContent = 'Press “Start Reading” when you are ready.';
+      el('speechStatus').className = 'status';
+    }
+
+    function startReading() {
+      if (!recognition) return;
+
+      finalTranscript = '';
+      interimTranscript = '';
+      startedAt = new Date();
+      endedAt = null;
+
+      el('start').disabled = true;
+      el('finish').disabled = false;
+      el('back').disabled = true;
+
+      try {
+        recognition.start();
+      } catch (error) {
+        el('speechStatus').textContent = 'The microphone is already starting. Please wait a moment.';
+      }
+    }
+
+    async function finishReading() {
+      if (!startedAt) return;
+
+      endedAt = new Date();
+      el('finish').disabled = true;
+      el('back').disabled = false;
+
+      if (recognitionRunning) {
+        try { recognition.stop(); } catch (error) { /* Ignore stop errors. */ }
+      }
+
+      const transcript = (finalTranscript + interimTranscript).trim();
+      const durationSeconds = Math.max(1, Math.round((endedAt - startedAt) / 1000));
+      const score = scoreReading(selectedPassage.text, transcript, durationSeconds);
+
+      el('wpm').textContent = score.wpm;
+      el('accuracy').textContent = score.accuracy + '%';
+      el('correct').textContent = score.correctWords;
+      el('celebration').textContent = celebrationMessage(score.accuracy);
+
+      showScreen('results');
+      await saveReadingResult(score, transcript, durationSeconds);
+    }
+
+    function tokenize(text) {
+      return String(text).toLowerCase().match(/[a-z']+/g) || [];
+    }
+
+    function scoreReading(referenceText, spokenText, durationSeconds) {
+      const target = tokenize(referenceText);
+      const spoken = tokenize(spokenText);
+      const matrix = Array.from({ length: target.length + 1 }, function () {
+        return new Uint16Array(spoken.length + 1);
+      });
+
+      for (let i = 1; i <= target.length; i += 1) {
+        for (let j = 1; j <= spoken.length; j += 1) {
+          matrix[i][j] = target[i - 1] === spoken[j - 1]
+            ? matrix[i - 1][j - 1] + 1
+            : Math.max(matrix[i - 1][j], matrix[i][j - 1]);
+        }
+      }
+
+      const correctWords = Number(matrix[target.length][spoken.length]);
+      const totalWords = target.length;
+      const errors = Math.max(0, totalWords - correctWords);
+      const minutes = durationSeconds / 60;
+
+      return {
+        correctWords: correctWords,
+        totalWords: totalWords,
+        errors: errors,
+        spokenWords: spoken.length,
+        wpm: Math.max(0, Math.round(correctWords / minutes)),
+        accuracy: totalWords ? Math.max(0, Math.min(100, Math.round((correctWords / totalWords) * 100))) : 0
+      };
+    }
+
+    function celebrationMessage(accuracy) {
+      if (accuracy >= 97) return 'Excellent accuracy!';
+      if (accuracy >= 90) return 'Strong reading - keep building fluency!';
+      if (accuracy >= 80) return 'Nice work - practice makes readers stronger!';
+      return 'You finished! Try the passage again and notice your growth.';
+    }
+
+    async function saveReadingResult(score, transcript, durationSeconds) {
+      const payload = {
+        timestamp: new Date().toISOString(),
+        studentId: selectedStudent.id,
+        studentName: selectedStudent.name,
+        grade: selectedStudent.grade || '',
+        teacher: selectedStudent.teacher || '',
+        passageId: selectedPassage.id,
+        passageTitle: selectedPassage.title,
+        skill: selectedPassage.skill || '',
+        transcript: transcript,
+        durationSeconds: durationSeconds,
+        totalWords: score.totalWords,
+        spokenWords: score.spokenWords,
+        correctWords: score.correctWords,
+        errors: score.errors,
+        wpm: score.wpm,
+        accuracy: score.accuracy
+      };
+
+      el('saveStatus').textContent = 'Saving your reading result...';
+      el('saveStatus').className = 'status';
+
+      const body = new URLSearchParams();
+      body.set('action', 'saveReadingSession');
+      body.set('payload', JSON.stringify(payload));
+
+      try {
+        await fetch(WEB_APP_URL, {
+          method: 'POST',
+          mode: 'no-cors',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
+          body: body.toString()
+        });
+
+        el('saveStatus').textContent = 'Your reading result was sent to the teacher sheet.';
+        el('saveStatus').className = 'status good';
+      } catch (error) {
+        el('saveStatus').textContent = 'Your score is shown, but the result could not be sent.';
+        el('saveStatus').className = 'status bad';
+      }
+    }
+
+    function resetToWelcome() {
+      if (recognitionRunning) {
+        try { recognition.stop(); } catch (error) { /* Ignore stop errors. */ }
+      }
+
+      resetReadingState();
+      showScreen('welcome');
+    }
+  </script>
 </body>
 </html>
