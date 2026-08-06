@@ -36,7 +36,11 @@
     <p class="subtitle">Choose your name and passage. Find a quiet place, put on your headset, and get ready to read.</p>
     <div class="grid">
       <div><label for="student">Your name</label><select id="student" disabled><option>Loading students…</option></select></div>
-      <div><label for="passage">Your passage</label><select id="passage" disabled><option>Loading passages…</option></select></div>
+      <div><label for="skillSelect">Skill or pattern</label><select id="skillSelect" disabled><option>Loading skills…</option></select></div>
+    </div>
+    <div>
+      <label for="passage">Passage</label>
+      <select id="passage" disabled><option>Choose a skill first</option></select>
     </div>
     <div class="actions"><button id="begin" class="primary" disabled>Begin Reading</button></div>
     <div id="loadStatus" class="status">Loading teacher data…</div>
@@ -69,16 +73,18 @@
   </div></section>
 </main>
 
-<script src="config.js?v=10"></script>
+<script src="library.js?v=1"></script>
+<script src="config.js?v=12"></script>
 <script>
 'use strict';
-let appData={students:[],passages:[]},selectedStudent=null,selectedPassage=null;
+let appData={students:[],passages:Array.isArray(window.DFC_LIBRARY)?window.DFC_LIBRARY:[]},selectedStudent=null,selectedPassage=null;
 let recognition=null,recognitionRunning=false,finalTranscript='',interimTranscript='',startedAt=null,endedAt=null,autoStopTimer=null;
 const el=id=>document.getElementById(id);
 
 document.addEventListener('DOMContentLoaded',()=>{bindEvents();setupSpeechRecognition();loadData()});
 function bindEvents(){
   el('student').addEventListener('change',updateBegin);
+  el('skillSelect').addEventListener('change',populatePassagesForSkill);
   el('passage').addEventListener('change',updateBegin);
   el('begin').addEventListener('click',beginReading);
   el('start').addEventListener('click',startReading);
@@ -91,14 +97,11 @@ function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classL
 async function loadData(){
   try{
     const cfg=window.DFC_CONFIG||{};
-    const [students,passages]=await Promise.all([
-      loadTable(cfg.rosterCsvUrl,cfg.demoStudents||[]),
-      loadTable(cfg.passagesCsvUrl,cfg.demoPassages||[])
-    ]);
+    const students=await loadTable(cfg.rosterCsvUrl,cfg.demoStudents||[]);
     appData.students=normalizeStudents(students);
-    appData.passages=normalizePassages(passages);
+    appData.passages=Array.isArray(window.DFC_LIBRARY)?window.DFC_LIBRARY:[];
     if(!appData.students.length) throw new Error('No students were found.');
-    if(!appData.passages.length) throw new Error('No passages were found.');
+    if(!appData.passages.length) throw new Error('The built-in passage library did not load.');
     populate();
     el('loadStatus').textContent='Ready! Choose your name and passage.';
     el('loadStatus').className='status good';
@@ -140,17 +143,25 @@ function normalizeStudents(items){return items.map((x,i)=>typeof x==='string'?{i
 function normalizePassages(items){return items.map((x,i)=>typeof x==='string'?{id:String(i+1),title:'Passage '+(i+1),text:x,skill:''}:{id:first(x,['passage id','id'])||String(i+1),title:first(x,['passage title','title'])||('Passage '+(i+1)),text:first(x,['passage text','text','passage']),skill:first(x,['skill','skill focus','phonics skill'])}).filter(p=>p.text)}
 function populate(){
   el('student').innerHTML='<option value="">Choose your name</option>';
-  el('passage').innerHTML='<option value="">Choose a passage</option>';
   appData.students.forEach((s,i)=>{const o=document.createElement('option');o.value=i;o.textContent=s.name;el('student').appendChild(o)});
-  appData.passages.forEach((p,i)=>{const o=document.createElement('option');o.value=i;o.textContent=p.skill?p.title+' — '+p.skill:p.title;el('passage').appendChild(o)});
-  el('student').disabled=false;el('passage').disabled=false;updateBegin();
+  const skills=[...new Map(appData.passages.map(p=>[p.skill,p.skillLabel||p.skill])).entries()];
+  el('skillSelect').innerHTML='<option value="">Choose a skill or pattern</option>';
+  skills.forEach(([value,label])=>{const o=document.createElement('option');o.value=value;o.textContent=label;el('skillSelect').appendChild(o)});
+  el('passage').innerHTML='<option value="">Choose a skill first</option>';
+  el('student').disabled=false;el('skillSelect').disabled=false;el('passage').disabled=true;updateBegin();
 }
-function updateBegin(){el('begin').disabled=el('student').value===''||el('passage').value===''}
+function populatePassagesForSkill(){
+  const skill=el('skillSelect').value;
+  el('passage').innerHTML='<option value="">Choose a passage</option>';
+  appData.passages.filter(p=>p.skill===skill).forEach(p=>{const o=document.createElement('option');o.value=p.id;o.textContent=p.title+' ('+p.wordCount+' words)';el('passage').appendChild(o)});
+  el('passage').disabled=!skill;updateBegin();
+}
+function updateBegin(){el('begin').disabled=el('student').value===''||el('skillSelect').value===''||el('passage').value===''}
 function beginReading(){
   selectedStudent=appData.students[Number(el('student').value)];
-  selectedPassage=appData.passages[Number(el('passage').value)];
+  selectedPassage=appData.passages.find(p=>p.id===el('passage').value);
   el('title').textContent=selectedPassage.title;el('reader').textContent='Reader: '+selectedStudent.name;
-  el('skill').textContent=selectedPassage.skill?'Skill: '+selectedPassage.skill:'';
+  el('skill').textContent=selectedPassage.skillLabel?'Skill: '+selectedPassage.skillLabel:(selectedPassage.skill?'Skill: '+selectedPassage.skill:'');
   el('text').textContent=selectedPassage.text;resetReadingState();showScreen('reading');
 }
 function setupSpeechRecognition(){
@@ -213,7 +224,7 @@ async function saveResult(score,transcript,seconds){
   const values={
     timestamp:new Date().toISOString(),studentId:selectedStudent.id,studentName:selectedStudent.name,
     grade:selectedStudent.grade||'',teacher:selectedStudent.teacher||'',passageId:selectedPassage.id,
-    passageTitle:selectedPassage.title,skill:selectedPassage.skill||'',durationSeconds:seconds,
+    passageTitle:selectedPassage.title,skill:selectedPassage.skillLabel||selectedPassage.skill||'',durationSeconds:seconds,
     totalWords:score.totalWords,spokenWords:score.spokenWords,correctWords:score.correctWords,
     errors:score.errors,wpm:score.wpm,accuracy:score.accuracy,transcript
   };
