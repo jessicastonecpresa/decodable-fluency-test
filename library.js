@@ -1,5 +1,5 @@
 window.DFC_LIBRARY = {
-  "version": "5.0.0",
+  "version": "6.0.0",
   "name": "Decodable Fluency Center Library",
   "units": [
     {
@@ -10191,6 +10191,1458 @@ window.DFC_LIBRARY = {
               "status": "draft-review",
               "wordCount": 262,
               "text": "Jess had a plan for the day. The main job involved the quit. A cube sat near the path while Jess checked a small map. The map showed where the suite and the fruit should go. First, Jess picked up the fruit and set it beside the suit. A these came close and watched. Jess gave it a pat and went back to the job. Next, the juice had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the cruise. A light wind came across camp. The bruise tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The cat stayed nearby. After the rest, Jess checked the quit, the fruit, and the juice. All three were set. The pig came back, but it did not get in the way. Jess still had one last task. The ruin had to go beside the fluid. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the quit one last look. The suite stayed in place, and the fruit did not tip. A small fruit was still by the path. Jess moved it back beside the suit. The cube came close again. Jess gave it a pat and checked the juice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "label": "Unit 6 — R-Controlled Vowels",
+      "order": 6,
+      "skills": [
+        {
+          "id": "ar",
+          "label": "ar",
+          "order": 1,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "ar-01",
+              "number": 1,
+              "title": "AR 01 — The Car by the Barn",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the car. A cat sat near the path while Sam checked a small map. The map showed where the star and the farm should go. First, Sam picked up the park and set it beside the dark. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the hard had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the yard. A light wind came across camp. The barn tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the car, the park, and the hard. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The card had to go beside the start. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the car one last look. The star stayed in place, and the farm did not tip. A small park was still by the path. Sam moved it back beside the dark. The cat came close again. Sam gave it a pat and checked the hard."
+            },
+            {
+              "id": "ar-02",
+              "number": 2,
+              "title": "AR 02 — A Star over the Farm",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the park. A pig sat near the path while Tim checked a small map. The map showed where the dark and the hard should go. First, Tim picked up the yard and set it beside the barn. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the card had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the start. A light wind came across camp. The sharp tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the park, the yard, and the card. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The march had to go beside the cart. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the park one last look. The dark stayed in place, and the hard did not tip. A small yard was still by the path. Tim moved it back beside the barn. The pig came close again. Tim gave it a pat and checked the card."
+            },
+            {
+              "id": "ar-03",
+              "number": 3,
+              "title": "AR 03 — Park the Cart",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the yard. A dog sat near the path while Kim checked a small map. The map showed where the barn and the card should go. First, Kim picked up the start and set it beside the sharp. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the march had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the cart. A light wind came across camp. The arm tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the yard, the start, and the march. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The art had to go beside the jar. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the yard one last look. The barn stayed in place, and the card did not tip. A small start was still by the path. Kim moved it back beside the sharp. The dog came close again. Kim gave it a pat and checked the march."
+            },
+            {
+              "id": "ar-04",
+              "number": 4,
+              "title": "AR 04 — The Dark Yard",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the start. A sun sat near the path while Ben checked a small map. The map showed where the sharp and the march should go. First, Ben picked up the cart and set it beside the arm. A red came close and watched. Ben gave it a pat and went back to the job. Next, the art had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the jar. A light wind came across camp. The far tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the start, the cart, and the art. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The mark had to go beside the spark. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the start one last look. The sharp stayed in place, and the march did not tip. A small cart was still by the path. Ben moved it back beside the arm. The sun came close again. Ben gave it a pat and checked the art."
+            },
+            {
+              "id": "ar-05",
+              "number": 5,
+              "title": "AR 05 — A Hard Job",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the cart. A red sat near the path while Meg checked a small map. The map showed where the arm and the art should go. First, Meg picked up the jar and set it beside the far. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the mark had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the spark. A light wind came across camp. The part tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the cart, the jar, and the mark. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The car had to go beside the star. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the cart one last look. The arm stayed in place, and the art did not tip. A small jar was still by the path. Meg moved it back beside the far. The red came close again. Meg gave it a pat and checked the mark."
+            },
+            {
+              "id": "ar-06",
+              "number": 6,
+              "title": "AR 06 — The Card in the Barn",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the jar. A fish sat near the path while Tom checked a small map. The map showed where the far and the mark should go. First, Tom picked up the spark and set it beside the part. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the car had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the star. A light wind came across camp. The farm tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the jar, the spark, and the car. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The park had to go beside the dark. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the jar one last look. The far stayed in place, and the mark did not tip. A small spark was still by the path. Tom moved it back beside the part. The fish came close again. Tom gave it a pat and checked the car."
+            },
+            {
+              "id": "ar-07",
+              "number": 7,
+              "title": "AR 07 — Start at the Park",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the spark. A chick sat near the path while Jill checked a small map. The map showed where the part and the car should go. First, Jill picked up the star and set it beside the farm. A back came close and watched. Jill gave it a pat and went back to the job. Next, the park had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the dark. A light wind came across camp. The hard tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the spark, the star, and the park. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The yard had to go beside the barn. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the spark one last look. The part stayed in place, and the car did not tip. A small star was still by the path. Jill moved it back beside the farm. The chick came close again. Jill gave it a pat and checked the park."
+            },
+            {
+              "id": "ar-08",
+              "number": 8,
+              "title": "AR 08 — The Sharp Mark",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the star. A back sat near the path while Nick checked a small map. The map showed where the farm and the park should go. First, Nick picked up the dark and set it beside the hard. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the yard had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the barn. A light wind came across camp. The card tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the star, the dark, and the yard. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The start had to go beside the sharp. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the star one last look. The farm stayed in place, and the park did not tip. A small dark was still by the path. Nick moved it back beside the hard. The back came close again. Nick gave it a pat and checked the yard."
+            },
+            {
+              "id": "ar-09",
+              "number": 9,
+              "title": "AR 09 — March to the Farm",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the dark. A ring sat near the path while Pam checked a small map. The map showed where the hard and the yard should go. First, Pam picked up the barn and set it beside the card. A black came close and watched. Pam gave it a pat and went back to the job. Next, the start had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the sharp. A light wind came across camp. The march tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the dark, the barn, and the start. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The cart had to go beside the arm. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the dark one last look. The hard stayed in place, and the yard did not tip. A small barn was still by the path. Pam moved it back beside the card. The ring came close again. Pam gave it a pat and checked the start."
+            },
+            {
+              "id": "ar-10",
+              "number": 10,
+              "title": "AR 10 — The Cart in the Yard",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the barn. A black sat near the path while Gus checked a small map. The map showed where the card and the start should go. First, Gus picked up the sharp and set it beside the march. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the cart had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the arm. A light wind came across camp. The art tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the barn, the sharp, and the cart. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The jar had to go beside the far. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the barn one last look. The card stayed in place, and the start did not tip. A small sharp was still by the path. Gus moved it back beside the march. The black came close again. Gus gave it a pat and checked the cart."
+            },
+            {
+              "id": "ar-11",
+              "number": 11,
+              "title": "AR 11 — Art at Camp",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the sharp. A frog sat near the path while Dot checked a small map. The map showed where the march and the cart should go. First, Dot picked up the arm and set it beside the art. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the jar had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the far. A light wind came across camp. The mark tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the sharp, the arm, and the jar. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The spark had to go beside the part. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the sharp one last look. The march stayed in place, and the cart did not tip. A small arm was still by the path. Dot moved it back beside the art. The frog came close again. Dot gave it a pat and checked the jar."
+            },
+            {
+              "id": "ar-12",
+              "number": 12,
+              "title": "AR 12 — The Jar by the Barn",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the arm. A camp sat near the path while Ted checked a small map. The map showed where the art and the jar should go. First, Ted picked up the far and set it beside the mark. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the spark had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the part. A light wind came across camp. The car tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the arm, the far, and the spark. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The star had to go beside the farm. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the arm one last look. The art stayed in place, and the jar did not tip. A small far was still by the path. Ted moved it back beside the mark. The camp came close again. Ted gave it a pat and checked the spark."
+            },
+            {
+              "id": "ar-13",
+              "number": 13,
+              "title": "AR 13 — A Far Walk",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the far. A cake sat near the path while Max checked a small map. The map showed where the mark and the spark should go. First, Max picked up the part and set it beside the car. A bike came close and watched. Max gave it a pat and went back to the job. Next, the star had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the farm. A light wind came across camp. The park tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the far, the part, and the star. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The dark had to go beside the hard. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The play rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the far one last look. The mark stayed in place, and the spark did not tip. A small part was still by the path. Max moved it back beside the car. The cake came close again. Max gave it a pat and checked the star."
+            },
+            {
+              "id": "ar-14",
+              "number": 14,
+              "title": "AR 14 — Mark the Map",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the part. A bike sat near the path while Liz checked a small map. The map showed where the car and the star should go. First, Liz picked up the farm and set it beside the park. A home came close and watched. Liz gave it a pat and went back to the job. Next, the dark had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the hard. A light wind came across camp. The yard tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the part, the farm, and the dark. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The barn had to go beside the card. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The play sat on a mat. The green rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the part one last look. The car stayed in place, and the star did not tip. A small farm was still by the path. Liz moved it back beside the park. The bike came close again. Liz gave it a pat and checked the dark."
+            },
+            {
+              "id": "ar-15",
+              "number": 15,
+              "title": "AR 15 — A Spark in the Dark",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the farm. A home sat near the path while Cal checked a small map. The map showed where the park and the dark should go. First, Cal picked up the hard and set it beside the yard. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the barn had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the card. A light wind came across camp. The start tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the farm, the hard, and the barn. All three were set. The play came back, but it did not get in the way. Cal still had one last task. The sharp had to go beside the march. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The boat rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the farm one last look. The park stayed in place, and the dark did not tip. A small hard was still by the path. Cal moved it back beside the yard. The home came close again. Cal gave it a pat and checked the barn."
+            },
+            {
+              "id": "ar-16",
+              "number": 16,
+              "title": "AR 16 — The Farm Cart",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the hard. A cube sat near the path while Jen checked a small map. The map showed where the yard and the barn should go. First, Jen picked up the card and set it beside the start. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the sharp had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the march. A light wind came across camp. The cart tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The play stayed nearby. After the rest, Jen checked the hard, the card, and the sharp. All three were set. The green came back, but it did not get in the way. Jen still had one last task. The arm had to go beside the art. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The boat sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the hard one last look. The yard stayed in place, and the barn did not tip. A small card was still by the path. Jen moved it back beside the start. The cube came close again. Jen gave it a pat and checked the sharp."
+            },
+            {
+              "id": "ar-17",
+              "number": 17,
+              "title": "AR 17 — The Star and the Car",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the card. A rain sat near the path while Rob checked a small map. The map showed where the start and the sharp should go. First, Rob picked up the march and set it beside the cart. A play came close and watched. Rob gave it a pat and went back to the job. Next, the arm had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the art. A light wind came across camp. The jar tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The green stayed nearby. After the rest, Rob checked the card, the march, and the arm. All three were set. The boat came back, but it did not get in the way. Rob still had one last task. The far had to go beside the mark. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the card one last look. The start stayed in place, and the sharp did not tip. A small march was still by the path. Rob moved it back beside the cart. The rain came close again. Rob gave it a pat and checked the arm."
+            },
+            {
+              "id": "ar-18",
+              "number": 18,
+              "title": "AR 18 — A Part for the Cart",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the march. A play sat near the path while Nell checked a small map. The map showed where the cart and the arm should go. First, Nell picked up the art and set it beside the jar. A green came close and watched. Nell gave it a pat and went back to the job. Next, the far had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the mark. A light wind came across camp. The spark tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The boat stayed nearby. After the rest, Nell checked the march, the art, and the far. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The part had to go beside the car. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the march one last look. The cart stayed in place, and the arm did not tip. A small art was still by the path. Nell moved it back beside the jar. The play came close again. Nell gave it a pat and checked the far."
+            },
+            {
+              "id": "ar-19",
+              "number": 19,
+              "title": "AR 19 — The Yard at Sunset",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the art. A green sat near the path while Bill checked a small map. The map showed where the jar and the far should go. First, Bill picked up the mark and set it beside the spark. A boat came close and watched. Bill gave it a pat and went back to the job. Next, the part had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the car. A light wind came across camp. The star tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the art, the mark, and the part. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The farm had to go beside the park. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the art one last look. The jar stayed in place, and the far did not tip. A small mark was still by the path. Bill moved it back beside the spark. The green came close again. Bill gave it a pat and checked the part."
+            },
+            {
+              "id": "ar-20",
+              "number": 20,
+              "title": "AR 20 — The Last Farm Job",
+              "skill": "ar",
+              "skillLabel": "ar",
+              "targetPattern": "ar",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the mark. A boat sat near the path while Jess checked a small map. The map showed where the spark and the part should go. First, Jess picked up the car and set it beside the star. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the farm had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the park. A light wind came across camp. The dark tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the mark, the car, and the farm. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The hard had to go beside the yard. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the mark one last look. The spark stayed in place, and the part did not tip. A small car was still by the path. Jess moved it back beside the star. The boat came close again. Jess gave it a pat and checked the farm."
+            }
+          ]
+        },
+        {
+          "id": "or",
+          "label": "or",
+          "order": 2,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "or-01",
+              "number": 1,
+              "title": "OR 01 — Corn on the Porch",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the for. A cat sat near the path while Sam checked a small map. The map showed where the corn and the fork should go. First, Sam picked up the storm and set it beside the horse. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the short had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the porch. A light wind came across camp. The north tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the for, the storm, and the short. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The sport had to go beside the sort. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the for one last look. The corn stayed in place, and the fork did not tip. A small storm was still by the path. Sam moved it back beside the horse. The cat came close again. Sam gave it a pat and checked the short."
+            },
+            {
+              "id": "or-02",
+              "number": 2,
+              "title": "OR 02 — The Horse by the Fort",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the storm. A pig sat near the path while Tim checked a small map. The map showed where the horse and the short should go. First, Tim picked up the porch and set it beside the north. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the sport had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the sort. A light wind came across camp. The horn tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the storm, the porch, and the sport. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The cord had to go beside the form. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the storm one last look. The horse stayed in place, and the short did not tip. A small porch was still by the path. Tim moved it back beside the north. The pig came close again. Tim gave it a pat and checked the sport."
+            },
+            {
+              "id": "or-03",
+              "number": 3,
+              "title": "OR 03 — A Storm in the North",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the porch. A dog sat near the path while Kim checked a small map. The map showed where the north and the sport should go. First, Kim picked up the sort and set it beside the horn. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the cord had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the form. A light wind came across camp. The born tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the porch, the sort, and the cord. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The torch had to go beside the fort. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the porch one last look. The north stayed in place, and the sport did not tip. A small sort was still by the path. Kim moved it back beside the horn. The dog came close again. Kim gave it a pat and checked the cord."
+            },
+            {
+              "id": "or-04",
+              "number": 4,
+              "title": "OR 04 — The Fork on the Porch",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the sort. A sun sat near the path while Ben checked a small map. The map showed where the horn and the cord should go. First, Ben picked up the form and set it beside the born. A red came close and watched. Ben gave it a pat and went back to the job. Next, the torch had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the fort. A light wind came across camp. The morning tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the sort, the form, and the torch. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The orbit had to go beside the shore. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the sort one last look. The horn stayed in place, and the cord did not tip. A small form was still by the path. Ben moved it back beside the born. The sun came close again. Ben gave it a pat and checked the torch."
+            },
+            {
+              "id": "or-05",
+              "number": 5,
+              "title": "OR 05 — A Short Sport",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the form. A red sat near the path while Meg checked a small map. The map showed where the born and the torch should go. First, Meg picked up the fort and set it beside the morning. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the orbit had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the shore. A light wind came across camp. The snort tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the form, the fort, and the orbit. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The for had to go beside the corn. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the form one last look. The born stayed in place, and the torch did not tip. A small fort was still by the path. Meg moved it back beside the morning. The red came close again. Meg gave it a pat and checked the orbit."
+            },
+            {
+              "id": "or-06",
+              "number": 6,
+              "title": "OR 06 — The Horn at Camp",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the fort. A fish sat near the path while Tom checked a small map. The map showed where the morning and the orbit should go. First, Tom picked up the shore and set it beside the snort. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the for had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the corn. A light wind came across camp. The fork tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the fort, the shore, and the for. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The storm had to go beside the horse. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the fort one last look. The morning stayed in place, and the orbit did not tip. A small shore was still by the path. Tom moved it back beside the snort. The fish came close again. Tom gave it a pat and checked the for."
+            },
+            {
+              "id": "or-07",
+              "number": 7,
+              "title": "OR 07 — Sort the Corn",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the shore. A chick sat near the path while Jill checked a small map. The map showed where the snort and the for should go. First, Jill picked up the corn and set it beside the fork. A back came close and watched. Jill gave it a pat and went back to the job. Next, the storm had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the horse. A light wind came across camp. The short tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the shore, the corn, and the storm. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The porch had to go beside the north. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the shore one last look. The snort stayed in place, and the for did not tip. A small corn was still by the path. Jill moved it back beside the fork. The chick came close again. Jill gave it a pat and checked the storm."
+            },
+            {
+              "id": "or-08",
+              "number": 8,
+              "title": "OR 08 — The Cord in the Shed",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the corn. A back sat near the path while Nick checked a small map. The map showed where the fork and the storm should go. First, Nick picked up the horse and set it beside the short. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the porch had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the north. A light wind came across camp. The sport tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the corn, the horse, and the porch. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The sort had to go beside the horn. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the corn one last look. The fork stayed in place, and the storm did not tip. A small horse was still by the path. Nick moved it back beside the short. The back came close again. Nick gave it a pat and checked the porch."
+            },
+            {
+              "id": "or-09",
+              "number": 9,
+              "title": "OR 09 — A Torch by the Fort",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the horse. A ring sat near the path while Pam checked a small map. The map showed where the short and the porch should go. First, Pam picked up the north and set it beside the sport. A black came close and watched. Pam gave it a pat and went back to the job. Next, the sort had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the horn. A light wind came across camp. The cord tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the horse, the north, and the sort. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The form had to go beside the born. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the horse one last look. The short stayed in place, and the porch did not tip. A small north was still by the path. Pam moved it back beside the sport. The ring came close again. Pam gave it a pat and checked the sort."
+            },
+            {
+              "id": "or-10",
+              "number": 10,
+              "title": "OR 10 — The Horse and the Corn",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the north. A black sat near the path while Gus checked a small map. The map showed where the sport and the sort should go. First, Gus picked up the horn and set it beside the cord. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the form had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the born. A light wind came across camp. The torch tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the north, the horn, and the form. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The fort had to go beside the morning. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the north one last look. The sport stayed in place, and the sort did not tip. A small horn was still by the path. Gus moved it back beside the cord. The black came close again. Gus gave it a pat and checked the form."
+            },
+            {
+              "id": "or-11",
+              "number": 11,
+              "title": "OR 11 — Morning on the Porch",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the horn. A frog sat near the path while Dot checked a small map. The map showed where the cord and the form should go. First, Dot picked up the born and set it beside the torch. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the fort had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the morning. A light wind came across camp. The orbit tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the horn, the born, and the fort. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The shore had to go beside the snort. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the horn one last look. The cord stayed in place, and the form did not tip. A small born was still by the path. Dot moved it back beside the torch. The frog came close again. Dot gave it a pat and checked the fort."
+            },
+            {
+              "id": "or-12",
+              "number": 12,
+              "title": "OR 12 — The North Trail",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the born. A camp sat near the path while Ted checked a small map. The map showed where the torch and the fort should go. First, Ted picked up the morning and set it beside the orbit. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the shore had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the snort. A light wind came across camp. The for tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the born, the morning, and the shore. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The corn had to go beside the fork. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the born one last look. The torch stayed in place, and the fort did not tip. A small morning was still by the path. Ted moved it back beside the orbit. The camp came close again. Ted gave it a pat and checked the shore."
+            },
+            {
+              "id": "or-13",
+              "number": 13,
+              "title": "OR 13 — A Form for Dad",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the morning. A cake sat near the path while Max checked a small map. The map showed where the orbit and the shore should go. First, Max picked up the snort and set it beside the for. A bike came close and watched. Max gave it a pat and went back to the job. Next, the corn had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the fork. A light wind came across camp. The storm tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the morning, the snort, and the corn. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The horse had to go beside the short. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The play rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the morning one last look. The orbit stayed in place, and the shore did not tip. A small snort was still by the path. Max moved it back beside the for. The cake came close again. Max gave it a pat and checked the corn."
+            },
+            {
+              "id": "or-14",
+              "number": 14,
+              "title": "OR 14 — The Fort by the Shore",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the snort. A bike sat near the path while Liz checked a small map. The map showed where the for and the corn should go. First, Liz picked up the fork and set it beside the storm. A home came close and watched. Liz gave it a pat and went back to the job. Next, the horse had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the short. A light wind came across camp. The porch tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the snort, the fork, and the horse. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The north had to go beside the sport. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The play sat on a mat. The green rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the snort one last look. The for stayed in place, and the corn did not tip. A small fork was still by the path. Liz moved it back beside the storm. The bike came close again. Liz gave it a pat and checked the horse."
+            },
+            {
+              "id": "or-15",
+              "number": 15,
+              "title": "OR 15 — The Snorting Horse",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the fork. A home sat near the path while Cal checked a small map. The map showed where the storm and the horse should go. First, Cal picked up the short and set it beside the porch. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the north had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the sport. A light wind came across camp. The sort tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the fork, the short, and the north. All three were set. The play came back, but it did not get in the way. Cal still had one last task. The horn had to go beside the cord. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The boat rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the fork one last look. The storm stayed in place, and the horse did not tip. A small short was still by the path. Cal moved it back beside the porch. The home came close again. Cal gave it a pat and checked the north."
+            },
+            {
+              "id": "or-16",
+              "number": 16,
+              "title": "OR 16 — The Storm and the Torch",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the short. A cube sat near the path while Jen checked a small map. The map showed where the porch and the north should go. First, Jen picked up the sport and set it beside the sort. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the horn had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the cord. A light wind came across camp. The form tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The play stayed nearby. After the rest, Jen checked the short, the sport, and the horn. All three were set. The green came back, but it did not get in the way. Jen still had one last task. The born had to go beside the torch. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The boat sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the short one last look. The porch stayed in place, and the north did not tip. A small sport was still by the path. Jen moved it back beside the sort. The cube came close again. Jen gave it a pat and checked the horn."
+            },
+            {
+              "id": "or-17",
+              "number": 17,
+              "title": "OR 17 — A Sport at Camp",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the sport. A rain sat near the path while Rob checked a small map. The map showed where the sort and the horn should go. First, Rob picked up the cord and set it beside the form. A play came close and watched. Rob gave it a pat and went back to the job. Next, the born had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the torch. A light wind came across camp. The fort tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The green stayed nearby. After the rest, Rob checked the sport, the cord, and the born. All three were set. The boat came back, but it did not get in the way. Rob still had one last task. The morning had to go beside the orbit. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the sport one last look. The sort stayed in place, and the horn did not tip. A small cord was still by the path. Rob moved it back beside the form. The rain came close again. Rob gave it a pat and checked the born."
+            },
+            {
+              "id": "or-18",
+              "number": 18,
+              "title": "OR 18 — The Corn in the Cart",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the cord. A play sat near the path while Nell checked a small map. The map showed where the form and the born should go. First, Nell picked up the torch and set it beside the fort. A green came close and watched. Nell gave it a pat and went back to the job. Next, the morning had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the orbit. A light wind came across camp. The shore tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The boat stayed nearby. After the rest, Nell checked the cord, the torch, and the morning. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The snort had to go beside the for. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the cord one last look. The form stayed in place, and the born did not tip. A small torch was still by the path. Nell moved it back beside the fort. The play came close again. Nell gave it a pat and checked the morning."
+            },
+            {
+              "id": "or-19",
+              "number": 19,
+              "title": "OR 19 — The Horn in the Shed",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the torch. A green sat near the path while Bill checked a small map. The map showed where the fort and the morning should go. First, Bill picked up the orbit and set it beside the shore. A boat came close and watched. Bill gave it a pat and went back to the job. Next, the snort had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the for. A light wind came across camp. The corn tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the torch, the orbit, and the snort. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The fork had to go beside the storm. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the torch one last look. The fort stayed in place, and the morning did not tip. A small orbit was still by the path. Bill moved it back beside the shore. The green came close again. Bill gave it a pat and checked the snort."
+            },
+            {
+              "id": "or-20",
+              "number": 20,
+              "title": "OR 20 — The Last Fort",
+              "skill": "or",
+              "skillLabel": "or",
+              "targetPattern": "or",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the orbit. A boat sat near the path while Jess checked a small map. The map showed where the shore and the snort should go. First, Jess picked up the for and set it beside the corn. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the fork had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the storm. A light wind came across camp. The horse tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the orbit, the for, and the fork. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The short had to go beside the porch. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the orbit one last look. The shore stayed in place, and the snort did not tip. A small for was still by the path. Jess moved it back beside the corn. The boat came close again. Jess gave it a pat and checked the fork."
+            }
+          ]
+        },
+        {
+          "id": "er",
+          "label": "er",
+          "order": 3,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "er-01",
+              "number": 1,
+              "title": "ER 01 — The Fern by the River",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the her. A cat sat near the path while Sam checked a small map. The map showed where the fern and the term should go. First, Sam picked up the herd and set it beside the perch. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the person had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the river. A light wind came across camp. The better tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the her, the herd, and the person. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The sister had to go beside the winter. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the her one last look. The fern stayed in place, and the term did not tip. A small herd was still by the path. Sam moved it back beside the perch. The cat came close again. Sam gave it a pat and checked the person."
+            },
+            {
+              "id": "er-02",
+              "number": 2,
+              "title": "ER 02 — Her Red Letter",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the herd. A pig sat near the path while Tim checked a small map. The map showed where the perch and the person should go. First, Tim picked up the river and set it beside the better. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the sister had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the winter. A light wind came across camp. The under tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the herd, the river, and the sister. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The after had to go beside the never. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the herd one last look. The perch stayed in place, and the person did not tip. A small river was still by the path. Tim moved it back beside the better. The pig came close again. Tim gave it a pat and checked the sister."
+            },
+            {
+              "id": "er-03",
+              "number": 3,
+              "title": "ER 03 — A Herd by the River",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the river. A dog sat near the path while Kim checked a small map. The map showed where the better and the sister should go. First, Kim picked up the winter and set it beside the under. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the after had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the never. A light wind came across camp. The letter tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the river, the winter, and the after. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The farmer had to go beside the helper. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the river one last look. The better stayed in place, and the sister did not tip. A small winter was still by the path. Kim moved it back beside the under. The dog came close again. Kim gave it a pat and checked the after."
+            },
+            {
+              "id": "er-04",
+              "number": 4,
+              "title": "ER 04 — The Perch in Winter",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the winter. A sun sat near the path while Ben checked a small map. The map showed where the under and the after should go. First, Ben picked up the never and set it beside the letter. A red came close and watched. Ben gave it a pat and went back to the job. Next, the farmer had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the helper. A light wind came across camp. The corner tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the winter, the never, and the farmer. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The number had to go beside the summer. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the winter one last look. The under stayed in place, and the after did not tip. A small never was still by the path. Ben moved it back beside the letter. The sun came close again. Ben gave it a pat and checked the farmer."
+            },
+            {
+              "id": "er-05",
+              "number": 5,
+              "title": "ER 05 — A Better Plan",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the never. A red sat near the path while Meg checked a small map. The map showed where the letter and the farmer should go. First, Meg picked up the helper and set it beside the corner. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the number had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the summer. A light wind came across camp. The teacher tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the never, the helper, and the number. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The her had to go beside the fern. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the never one last look. The letter stayed in place, and the farmer did not tip. A small helper was still by the path. Meg moved it back beside the corner. The red came close again. Meg gave it a pat and checked the number."
+            },
+            {
+              "id": "er-06",
+              "number": 6,
+              "title": "ER 06 — The Farmer's Helper",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the helper. A fish sat near the path while Tom checked a small map. The map showed where the corner and the number should go. First, Tom picked up the summer and set it beside the teacher. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the her had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the fern. A light wind came across camp. The term tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the helper, the summer, and the her. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The herd had to go beside the perch. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the helper one last look. The corner stayed in place, and the number did not tip. A small summer was still by the path. Tom moved it back beside the teacher. The fish came close again. Tom gave it a pat and checked the her."
+            },
+            {
+              "id": "er-07",
+              "number": 7,
+              "title": "ER 07 — The Corner of the Barn",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the summer. A chick sat near the path while Jill checked a small map. The map showed where the teacher and the her should go. First, Jill picked up the fern and set it beside the term. A back came close and watched. Jill gave it a pat and went back to the job. Next, the herd had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the perch. A light wind came across camp. The person tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the summer, the fern, and the herd. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The river had to go beside the better. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the summer one last look. The teacher stayed in place, and the her did not tip. A small fern was still by the path. Jill moved it back beside the term. The chick came close again. Jill gave it a pat and checked the herd."
+            },
+            {
+              "id": "er-08",
+              "number": 8,
+              "title": "ER 08 — A Number on the Card",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the fern. A back sat near the path while Nick checked a small map. The map showed where the term and the herd should go. First, Nick picked up the perch and set it beside the person. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the river had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the better. A light wind came across camp. The sister tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the fern, the perch, and the river. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The winter had to go beside the under. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the fern one last look. The term stayed in place, and the herd did not tip. A small perch was still by the path. Nick moved it back beside the person. The back came close again. Nick gave it a pat and checked the river."
+            },
+            {
+              "id": "er-09",
+              "number": 9,
+              "title": "ER 09 — Summer by the River",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the perch. A ring sat near the path while Pam checked a small map. The map showed where the person and the river should go. First, Pam picked up the better and set it beside the sister. A black came close and watched. Pam gave it a pat and went back to the job. Next, the winter had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the under. A light wind came across camp. The after tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the perch, the better, and the winter. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The never had to go beside the letter. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the perch one last look. The person stayed in place, and the river did not tip. A small better was still by the path. Pam moved it back beside the sister. The ring came close again. Pam gave it a pat and checked the winter."
+            },
+            {
+              "id": "er-10",
+              "number": 10,
+              "title": "ER 10 — The Teacher at Camp",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the better. A black sat near the path while Gus checked a small map. The map showed where the sister and the winter should go. First, Gus picked up the under and set it beside the after. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the never had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the letter. A light wind came across camp. The farmer tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the better, the under, and the never. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The helper had to go beside the corner. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the better one last look. The sister stayed in place, and the winter did not tip. A small under was still by the path. Gus moved it back beside the after. The black came close again. Gus gave it a pat and checked the never."
+            },
+            {
+              "id": "er-11",
+              "number": 11,
+              "title": "ER 11 — Never Miss the Turn",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the under. A frog sat near the path while Dot checked a small map. The map showed where the after and the never should go. First, Dot picked up the letter and set it beside the farmer. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the helper had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the corner. A light wind came across camp. The number tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the under, the letter, and the helper. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The summer had to go beside the teacher. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the under one last look. The after stayed in place, and the never did not tip. A small letter was still by the path. Dot moved it back beside the farmer. The frog came close again. Dot gave it a pat and checked the helper."
+            },
+            {
+              "id": "er-12",
+              "number": 12,
+              "title": "ER 12 — The Letter for Her",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the letter. A camp sat near the path while Ted checked a small map. The map showed where the farmer and the helper should go. First, Ted picked up the corner and set it beside the number. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the summer had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the teacher. A light wind came across camp. The her tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the letter, the corner, and the summer. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The fern had to go beside the term. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the letter one last look. The farmer stayed in place, and the helper did not tip. A small corner was still by the path. Ted moved it back beside the number. The camp came close again. Ted gave it a pat and checked the summer."
+            },
+            {
+              "id": "er-13",
+              "number": 13,
+              "title": "ER 13 — Under the Porch",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the corner. A cake sat near the path while Max checked a small map. The map showed where the number and the summer should go. First, Max picked up the teacher and set it beside the her. A bike came close and watched. Max gave it a pat and went back to the job. Next, the fern had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the term. A light wind came across camp. The herd tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the corner, the teacher, and the fern. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The perch had to go beside the person. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The play rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the corner one last look. The number stayed in place, and the summer did not tip. A small teacher was still by the path. Max moved it back beside the her. The cake came close again. Max gave it a pat and checked the fern."
+            },
+            {
+              "id": "er-14",
+              "number": 14,
+              "title": "ER 14 — After the Storm",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the teacher. A bike sat near the path while Liz checked a small map. The map showed where the her and the fern should go. First, Liz picked up the term and set it beside the herd. A home came close and watched. Liz gave it a pat and went back to the job. Next, the perch had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the person. A light wind came across camp. The river tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the teacher, the term, and the perch. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The better had to go beside the sister. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The play sat on a mat. The green rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the teacher one last look. The her stayed in place, and the fern did not tip. A small term was still by the path. Liz moved it back beside the herd. The bike came close again. Liz gave it a pat and checked the perch."
+            },
+            {
+              "id": "er-15",
+              "number": 15,
+              "title": "ER 15 — The Sister and the Fern",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the term. A home sat near the path while Cal checked a small map. The map showed where the herd and the perch should go. First, Cal picked up the person and set it beside the river. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the better had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the sister. A light wind came across camp. The winter tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the term, the person, and the better. All three were set. The play came back, but it did not get in the way. Cal still had one last task. The under had to go beside the after. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The boat rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the term one last look. The herd stayed in place, and the perch did not tip. A small person was still by the path. Cal moved it back beside the river. The home came close again. Cal gave it a pat and checked the better."
+            },
+            {
+              "id": "er-16",
+              "number": 16,
+              "title": "ER 16 — A Winter Job",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the person. A cube sat near the path while Jen checked a small map. The map showed where the river and the better should go. First, Jen picked up the sister and set it beside the winter. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the under had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the after. A light wind came across camp. The never tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The play stayed nearby. After the rest, Jen checked the person, the sister, and the under. All three were set. The green came back, but it did not get in the way. Jen still had one last task. The letter had to go beside the farmer. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The boat sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the person one last look. The river stayed in place, and the better did not tip. A small sister was still by the path. Jen moved it back beside the winter. The cube came close again. Jen gave it a pat and checked the under."
+            },
+            {
+              "id": "er-17",
+              "number": 17,
+              "title": "ER 17 — The Helper by the River",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the sister. A rain sat near the path while Rob checked a small map. The map showed where the winter and the under should go. First, Rob picked up the after and set it beside the never. A play came close and watched. Rob gave it a pat and went back to the job. Next, the letter had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the farmer. A light wind came across camp. The helper tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The green stayed nearby. After the rest, Rob checked the sister, the after, and the letter. All three were set. The boat came back, but it did not get in the way. Rob still had one last task. The corner had to go beside the number. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the sister one last look. The winter stayed in place, and the under did not tip. A small after was still by the path. Rob moved it back beside the never. The rain came close again. Rob gave it a pat and checked the letter."
+            },
+            {
+              "id": "er-18",
+              "number": 18,
+              "title": "ER 18 — A Term at Camp",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the after. A play sat near the path while Nell checked a small map. The map showed where the never and the letter should go. First, Nell picked up the farmer and set it beside the helper. A green came close and watched. Nell gave it a pat and went back to the job. Next, the corner had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the number. A light wind came across camp. The summer tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The boat stayed nearby. After the rest, Nell checked the after, the farmer, and the corner. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The teacher had to go beside the her. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the after one last look. The never stayed in place, and the letter did not tip. A small farmer was still by the path. Nell moved it back beside the helper. The play came close again. Nell gave it a pat and checked the corner."
+            },
+            {
+              "id": "er-19",
+              "number": 19,
+              "title": "ER 19 — The Person at the Gate",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the farmer. A green sat near the path while Bill checked a small map. The map showed where the helper and the corner should go. First, Bill picked up the number and set it beside the summer. A boat came close and watched. Bill gave it a pat and went back to the job. Next, the teacher had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the her. A light wind came across camp. The fern tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the farmer, the number, and the teacher. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The term had to go beside the herd. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the farmer one last look. The helper stayed in place, and the corner did not tip. A small number was still by the path. Bill moved it back beside the summer. The green came close again. Bill gave it a pat and checked the teacher."
+            },
+            {
+              "id": "er-20",
+              "number": 20,
+              "title": "ER 20 — The Last Letter",
+              "skill": "er",
+              "skillLabel": "er",
+              "targetPattern": "er",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the number. A boat sat near the path while Jess checked a small map. The map showed where the summer and the teacher should go. First, Jess picked up the her and set it beside the fern. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the term had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the herd. A light wind came across camp. The perch tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the number, the her, and the term. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The person had to go beside the river. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the number one last look. The summer stayed in place, and the teacher did not tip. A small her was still by the path. Jess moved it back beside the fern. The boat came close again. Jess gave it a pat and checked the term."
+            }
+          ]
+        },
+        {
+          "id": "ir",
+          "label": "ir",
+          "order": 4,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "ir-01",
+              "number": 1,
+              "title": "IR 01 — The Bird in the Dirt",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the bird. A cat sat near the path while Sam checked a small map. The map showed where the girl and the shirt should go. First, Sam picked up the dirt and set it beside the first. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the third had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the stir. A light wind came across camp. The chirp tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the bird, the dirt, and the third. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The skirt had to go beside the birth. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the bird one last look. The girl stayed in place, and the shirt did not tip. A small dirt was still by the path. Sam moved it back beside the first. The cat came close again. Sam gave it a pat and checked the third."
+            },
+            {
+              "id": "ir-02",
+              "number": 2,
+              "title": "IR 02 — A Girl with a Red Shirt",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the dirt. A pig sat near the path while Tim checked a small map. The map showed where the first and the third should go. First, Tim picked up the stir and set it beside the chirp. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the skirt had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the birth. A light wind came across camp. The firm tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the dirt, the stir, and the skirt. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The sir had to go beside the swirl. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the dirt one last look. The first stayed in place, and the third did not tip. A small stir was still by the path. Tim moved it back beside the chirp. The pig came close again. Tim gave it a pat and checked the skirt."
+            },
+            {
+              "id": "ir-03",
+              "number": 3,
+              "title": "IR 03 — First at the Gate",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the stir. A dog sat near the path while Kim checked a small map. The map showed where the chirp and the skirt should go. First, Kim picked up the birth and set it beside the firm. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the sir had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the swirl. A light wind came across camp. The thirst tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the stir, the birth, and the sir. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The dirty had to go beside the circle. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the stir one last look. The chirp stayed in place, and the skirt did not tip. A small birth was still by the path. Kim moved it back beside the firm. The dog came close again. Kim gave it a pat and checked the sir."
+            },
+            {
+              "id": "ir-04",
+              "number": 4,
+              "title": "IR 04 — The Third Bird",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the birth. A sun sat near the path while Ben checked a small map. The map showed where the firm and the sir should go. First, Ben picked up the swirl and set it beside the thirst. A red came close and watched. Ben gave it a pat and went back to the job. Next, the dirty had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the circle. A light wind came across camp. The birdhouse tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the birth, the swirl, and the dirty. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The birthday had to go beside the thirteen. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the birth one last look. The firm stayed in place, and the sir did not tip. A small swirl was still by the path. Ben moved it back beside the thirst. The sun came close again. Ben gave it a pat and checked the dirty."
+            },
+            {
+              "id": "ir-05",
+              "number": 5,
+              "title": "IR 05 — Stir the Mix",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the swirl. A red sat near the path while Meg checked a small map. The map showed where the thirst and the dirty should go. First, Meg picked up the circle and set it beside the birdhouse. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the birthday had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the thirteen. A light wind came across camp. The thirty tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the swirl, the circle, and the birthday. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The bird had to go beside the girl. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the swirl one last look. The thirst stayed in place, and the dirty did not tip. A small circle was still by the path. Meg moved it back beside the birdhouse. The red came close again. Meg gave it a pat and checked the birthday."
+            },
+            {
+              "id": "ir-06",
+              "number": 6,
+              "title": "IR 06 — A Chirp by the Shed",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the circle. A fish sat near the path while Tom checked a small map. The map showed where the birdhouse and the birthday should go. First, Tom picked up the thirteen and set it beside the thirty. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the bird had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the girl. A light wind came across camp. The shirt tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the circle, the thirteen, and the bird. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The dirt had to go beside the first. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the circle one last look. The birdhouse stayed in place, and the birthday did not tip. A small thirteen was still by the path. Tom moved it back beside the thirty. The fish came close again. Tom gave it a pat and checked the bird."
+            },
+            {
+              "id": "ir-07",
+              "number": 7,
+              "title": "IR 07 — The Skirt in the Bag",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the thirteen. A chick sat near the path while Jill checked a small map. The map showed where the thirty and the bird should go. First, Jill picked up the girl and set it beside the shirt. A back came close and watched. Jill gave it a pat and went back to the job. Next, the dirt had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the first. A light wind came across camp. The third tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the thirteen, the girl, and the dirt. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The stir had to go beside the chirp. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the thirteen one last look. The thirty stayed in place, and the bird did not tip. A small girl was still by the path. Jill moved it back beside the shirt. The chick came close again. Jill gave it a pat and checked the dirt."
+            },
+            {
+              "id": "ir-08",
+              "number": 8,
+              "title": "IR 08 — A Firm Plan",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the girl. A back sat near the path while Nick checked a small map. The map showed where the shirt and the dirt should go. First, Nick picked up the first and set it beside the third. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the stir had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the chirp. A light wind came across camp. The skirt tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the girl, the first, and the stir. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The birth had to go beside the firm. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the girl one last look. The shirt stayed in place, and the dirt did not tip. A small first was still by the path. Nick moved it back beside the third. The back came close again. Nick gave it a pat and checked the stir."
+            },
+            {
+              "id": "ir-09",
+              "number": 9,
+              "title": "IR 09 — The Bird and the Girl",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the first. A ring sat near the path while Pam checked a small map. The map showed where the third and the stir should go. First, Pam picked up the chirp and set it beside the skirt. A black came close and watched. Pam gave it a pat and went back to the job. Next, the birth had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the firm. A light wind came across camp. The sir tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the first, the chirp, and the birth. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The swirl had to go beside the thirst. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the first one last look. The third stayed in place, and the stir did not tip. A small chirp was still by the path. Pam moved it back beside the skirt. The ring came close again. Pam gave it a pat and checked the birth."
+            },
+            {
+              "id": "ir-10",
+              "number": 10,
+              "title": "IR 10 — A Swirl in the Pond",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the chirp. A black sat near the path while Gus checked a small map. The map showed where the skirt and the birth should go. First, Gus picked up the firm and set it beside the sir. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the swirl had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the thirst. A light wind came across camp. The dirty tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the chirp, the firm, and the swirl. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The circle had to go beside the birdhouse. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the chirp one last look. The skirt stayed in place, and the birth did not tip. A small firm was still by the path. Gus moved it back beside the sir. The black came close again. Gus gave it a pat and checked the swirl."
+            },
+            {
+              "id": "ir-11",
+              "number": 11,
+              "title": "IR 11 — Thirst on the Hike",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the firm. A frog sat near the path while Dot checked a small map. The map showed where the sir and the swirl should go. First, Dot picked up the thirst and set it beside the dirty. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the circle had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the birdhouse. A light wind came across camp. The birthday tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the firm, the thirst, and the circle. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The thirteen had to go beside the thirty. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the firm one last look. The sir stayed in place, and the swirl did not tip. A small thirst was still by the path. Dot moved it back beside the dirty. The frog came close again. Dot gave it a pat and checked the circle."
+            },
+            {
+              "id": "ir-12",
+              "number": 12,
+              "title": "IR 12 — The Dirty Shirt",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the thirst. A camp sat near the path while Ted checked a small map. The map showed where the dirty and the circle should go. First, Ted picked up the birdhouse and set it beside the birthday. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the thirteen had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the thirty. A light wind came across camp. The bird tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the thirst, the birdhouse, and the thirteen. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The girl had to go beside the shirt. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the thirst one last look. The dirty stayed in place, and the circle did not tip. A small birdhouse was still by the path. Ted moved it back beside the birthday. The camp came close again. Ted gave it a pat and checked the thirteen."
+            },
+            {
+              "id": "ir-13",
+              "number": 13,
+              "title": "IR 13 — A Circle on the Map",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the birdhouse. A cake sat near the path while Max checked a small map. The map showed where the birthday and the thirteen should go. First, Max picked up the thirty and set it beside the bird. A bike came close and watched. Max gave it a pat and went back to the job. Next, the girl had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the shirt. A light wind came across camp. The dirt tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the birdhouse, the thirty, and the girl. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The first had to go beside the third. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The play rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the birdhouse one last look. The birthday stayed in place, and the thirteen did not tip. A small thirty was still by the path. Max moved it back beside the bird. The cake came close again. Max gave it a pat and checked the girl."
+            },
+            {
+              "id": "ir-14",
+              "number": 14,
+              "title": "IR 14 — The Birdhouse",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the thirty. A bike sat near the path while Liz checked a small map. The map showed where the bird and the girl should go. First, Liz picked up the shirt and set it beside the dirt. A home came close and watched. Liz gave it a pat and went back to the job. Next, the first had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the third. A light wind came across camp. The stir tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the thirty, the shirt, and the first. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The chirp had to go beside the skirt. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The play sat on a mat. The green rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the thirty one last look. The bird stayed in place, and the girl did not tip. A small shirt was still by the path. Liz moved it back beside the dirt. The bike came close again. Liz gave it a pat and checked the first."
+            },
+            {
+              "id": "ir-15",
+              "number": 15,
+              "title": "IR 15 — A Birthday at Camp",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the shirt. A home sat near the path while Cal checked a small map. The map showed where the dirt and the first should go. First, Cal picked up the third and set it beside the stir. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the chirp had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the skirt. A light wind came across camp. The birth tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the shirt, the third, and the chirp. All three were set. The play came back, but it did not get in the way. Cal still had one last task. The firm had to go beside the sir. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The boat rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the shirt one last look. The dirt stayed in place, and the first did not tip. A small third was still by the path. Cal moved it back beside the stir. The home came close again. Cal gave it a pat and checked the chirp."
+            },
+            {
+              "id": "ir-16",
+              "number": 16,
+              "title": "IR 16 — Thirteen Birds",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the third. A cube sat near the path while Jen checked a small map. The map showed where the stir and the chirp should go. First, Jen picked up the skirt and set it beside the birth. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the firm had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the sir. A light wind came across camp. The swirl tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The play stayed nearby. After the rest, Jen checked the third, the skirt, and the firm. All three were set. The green came back, but it did not get in the way. Jen still had one last task. The thirst had to go beside the dirty. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The boat sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the third one last look. The stir stayed in place, and the chirp did not tip. A small skirt was still by the path. Jen moved it back beside the birth. The cube came close again. Jen gave it a pat and checked the firm."
+            },
+            {
+              "id": "ir-17",
+              "number": 17,
+              "title": "IR 17 — Thirty Red Flags",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the skirt. A rain sat near the path while Rob checked a small map. The map showed where the birth and the firm should go. First, Rob picked up the sir and set it beside the swirl. A play came close and watched. Rob gave it a pat and went back to the job. Next, the thirst had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the dirty. A light wind came across camp. The circle tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The green stayed nearby. After the rest, Rob checked the skirt, the sir, and the thirst. All three were set. The boat came back, but it did not get in the way. Rob still had one last task. The birdhouse had to go beside the birthday. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the skirt one last look. The birth stayed in place, and the firm did not tip. A small sir was still by the path. Rob moved it back beside the swirl. The rain came close again. Rob gave it a pat and checked the thirst."
+            },
+            {
+              "id": "ir-18",
+              "number": 18,
+              "title": "IR 18 — The First Chirp",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the sir. A play sat near the path while Nell checked a small map. The map showed where the swirl and the thirst should go. First, Nell picked up the dirty and set it beside the circle. A green came close and watched. Nell gave it a pat and went back to the job. Next, the birdhouse had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the birthday. A light wind came across camp. The thirteen tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The boat stayed nearby. After the rest, Nell checked the sir, the dirty, and the birdhouse. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The thirty had to go beside the bird. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the sir one last look. The swirl stayed in place, and the thirst did not tip. A small dirty was still by the path. Nell moved it back beside the circle. The play came close again. Nell gave it a pat and checked the birdhouse."
+            },
+            {
+              "id": "ir-19",
+              "number": 19,
+              "title": "IR 19 — The Girl by the Birdhouse",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the dirty. A green sat near the path while Bill checked a small map. The map showed where the circle and the birdhouse should go. First, Bill picked up the birthday and set it beside the thirteen. A boat came close and watched. Bill gave it a pat and went back to the job. Next, the thirty had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the bird. A light wind came across camp. The girl tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the dirty, the birthday, and the thirty. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The shirt had to go beside the dirt. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the dirty one last look. The circle stayed in place, and the birdhouse did not tip. A small birthday was still by the path. Bill moved it back beside the thirteen. The green came close again. Bill gave it a pat and checked the thirty."
+            },
+            {
+              "id": "ir-20",
+              "number": 20,
+              "title": "IR 20 — The Last Bird",
+              "skill": "ir",
+              "skillLabel": "ir",
+              "targetPattern": "ir",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the birthday. A boat sat near the path while Jess checked a small map. The map showed where the thirteen and the thirty should go. First, Jess picked up the bird and set it beside the girl. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the shirt had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the dirt. A light wind came across camp. The first tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the birthday, the bird, and the shirt. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The third had to go beside the stir. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the birthday one last look. The thirteen stayed in place, and the thirty did not tip. A small bird was still by the path. Jess moved it back beside the girl. The boat came close again. Jess gave it a pat and checked the shirt."
+            }
+          ]
+        },
+        {
+          "id": "ur",
+          "label": "ur",
+          "order": 5,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "ur-01",
+              "number": 1,
+              "title": "UR 01 — Turn at the Curb",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the turn. A cat sat near the path while Sam checked a small map. The map showed where the burn and the hurt should go. First, Sam picked up the fur and set it beside the curl. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the surf had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the burst. A light wind came across camp. The curb tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the turn, the fur, and the surf. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The church had to go beside the nurse. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the turn one last look. The burn stayed in place, and the hurt did not tip. A small fur was still by the path. Sam moved it back beside the curl. The cat came close again. Sam gave it a pat and checked the surf."
+            },
+            {
+              "id": "ur-02",
+              "number": 2,
+              "title": "UR 02 — The Fur on the Pup",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the fur. A pig sat near the path while Tim checked a small map. The map showed where the curl and the surf should go. First, Tim picked up the burst and set it beside the curb. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the church had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the nurse. A light wind came across camp. The purse tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the fur, the burst, and the church. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The purple had to go beside the turtle. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the fur one last look. The curl stayed in place, and the surf did not tip. A small burst was still by the path. Tim moved it back beside the curb. The pig came close again. Tim gave it a pat and checked the church."
+            },
+            {
+              "id": "ur-03",
+              "number": 3,
+              "title": "UR 03 — A Purple Purse",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the burst. A dog sat near the path while Kim checked a small map. The map showed where the curb and the church should go. First, Kim picked up the nurse and set it beside the purse. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the purple had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the turtle. A light wind came across camp. The turkey tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the burst, the nurse, and the purple. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The return had to go beside the turnip. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the burst one last look. The curb stayed in place, and the church did not tip. A small nurse was still by the path. Kim moved it back beside the purse. The dog came close again. Kim gave it a pat and checked the purple."
+            },
+            {
+              "id": "ur-04",
+              "number": 4,
+              "title": "UR 04 — The Turtle by the Pond",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the nurse. A sun sat near the path while Ben checked a small map. The map showed where the purse and the purple should go. First, Ben picked up the turtle and set it beside the turkey. A red came close and watched. Ben gave it a pat and went back to the job. Next, the return had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the turnip. A light wind came across camp. The murmur tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the nurse, the turtle, and the return. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The further had to go beside the Saturday. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the nurse one last look. The purse stayed in place, and the purple did not tip. A small turtle was still by the path. Ben moved it back beside the turkey. The sun came close again. Ben gave it a pat and checked the return."
+            },
+            {
+              "id": "ur-05",
+              "number": 5,
+              "title": "UR 05 — A Turkey at Camp",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the turtle. A red sat near the path while Meg checked a small map. The map showed where the turkey and the return should go. First, Meg picked up the turnip and set it beside the murmur. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the further had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the Saturday. A light wind came across camp. The surface tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the turtle, the turnip, and the further. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The turn had to go beside the burn. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the turtle one last look. The turkey stayed in place, and the return did not tip. A small turnip was still by the path. Meg moved it back beside the murmur. The red came close again. Meg gave it a pat and checked the further."
+            },
+            {
+              "id": "ur-06",
+              "number": 6,
+              "title": "UR 06 — The Nurse and the Pup",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the turnip. A fish sat near the path while Tom checked a small map. The map showed where the murmur and the further should go. First, Tom picked up the Saturday and set it beside the surface. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the turn had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the burn. A light wind came across camp. The hurt tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the turnip, the Saturday, and the turn. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The fur had to go beside the curl. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the turnip one last look. The murmur stayed in place, and the further did not tip. A small Saturday was still by the path. Tom moved it back beside the surface. The fish came close again. Tom gave it a pat and checked the turn."
+            },
+            {
+              "id": "ur-07",
+              "number": 7,
+              "title": "UR 07 — Surf by the Shore",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the Saturday. A chick sat near the path while Jill checked a small map. The map showed where the surface and the turn should go. First, Jill picked up the burn and set it beside the hurt. A back came close and watched. Jill gave it a pat and went back to the job. Next, the fur had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the curl. A light wind came across camp. The surf tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the Saturday, the burn, and the fur. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The burst had to go beside the curb. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the Saturday one last look. The surface stayed in place, and the turn did not tip. A small burn was still by the path. Jill moved it back beside the hurt. The chick came close again. Jill gave it a pat and checked the fur."
+            },
+            {
+              "id": "ur-08",
+              "number": 8,
+              "title": "UR 08 — The Curl in the Rope",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the burn. A back sat near the path while Nick checked a small map. The map showed where the hurt and the fur should go. First, Nick picked up the curl and set it beside the surf. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the burst had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the curb. A light wind came across camp. The church tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the burn, the curl, and the burst. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The nurse had to go beside the purse. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the burn one last look. The hurt stayed in place, and the fur did not tip. A small curl was still by the path. Nick moved it back beside the surf. The back came close again. Nick gave it a pat and checked the burst."
+            },
+            {
+              "id": "ur-09",
+              "number": 9,
+              "title": "UR 09 — A Burnt Turnip",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the curl. A ring sat near the path while Pam checked a small map. The map showed where the surf and the burst should go. First, Pam picked up the curb and set it beside the church. A black came close and watched. Pam gave it a pat and went back to the job. Next, the nurse had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the purse. A light wind came across camp. The purple tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the curl, the curb, and the nurse. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The turtle had to go beside the turkey. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the curl one last look. The surf stayed in place, and the burst did not tip. A small curb was still by the path. Pam moved it back beside the church. The ring came close again. Pam gave it a pat and checked the nurse."
+            },
+            {
+              "id": "ur-10",
+              "number": 10,
+              "title": "UR 10 — Return to Camp",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the curb. A black sat near the path while Gus checked a small map. The map showed where the church and the nurse should go. First, Gus picked up the purse and set it beside the purple. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the turtle had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the turkey. A light wind came across camp. The return tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the curb, the purse, and the turtle. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The turnip had to go beside the murmur. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the curb one last look. The church stayed in place, and the nurse did not tip. A small purse was still by the path. Gus moved it back beside the purple. The black came close again. Gus gave it a pat and checked the turtle."
+            },
+            {
+              "id": "ur-11",
+              "number": 11,
+              "title": "UR 11 — The Church by the Road",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the purse. A frog sat near the path while Dot checked a small map. The map showed where the purple and the turtle should go. First, Dot picked up the turkey and set it beside the return. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the turnip had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the murmur. A light wind came across camp. The further tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the purse, the turkey, and the turnip. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The Saturday had to go beside the surface. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the purse one last look. The purple stayed in place, and the turtle did not tip. A small turkey was still by the path. Dot moved it back beside the return. The frog came close again. Dot gave it a pat and checked the turnip."
+            },
+            {
+              "id": "ur-12",
+              "number": 12,
+              "title": "UR 12 — A Burst of Wind",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the turkey. A camp sat near the path while Ted checked a small map. The map showed where the return and the turnip should go. First, Ted picked up the murmur and set it beside the further. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the Saturday had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the surface. A light wind came across camp. The turn tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the turkey, the murmur, and the Saturday. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The burn had to go beside the hurt. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the turkey one last look. The return stayed in place, and the turnip did not tip. A small murmur was still by the path. Ted moved it back beside the further. The camp came close again. Ted gave it a pat and checked the Saturday."
+            },
+            {
+              "id": "ur-13",
+              "number": 13,
+              "title": "UR 13 — The Purple Turtle",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the murmur. A cake sat near the path while Max checked a small map. The map showed where the further and the Saturday should go. First, Max picked up the surface and set it beside the turn. A bike came close and watched. Max gave it a pat and went back to the job. Next, the burn had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the hurt. A light wind came across camp. The fur tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the murmur, the surface, and the burn. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The curl had to go beside the surf. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The play rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the murmur one last look. The further stayed in place, and the Saturday did not tip. A small surface was still by the path. Max moved it back beside the turn. The cake came close again. Max gave it a pat and checked the burn."
+            },
+            {
+              "id": "ur-14",
+              "number": 14,
+              "title": "UR 14 — Further down the Path",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the surface. A bike sat near the path while Liz checked a small map. The map showed where the turn and the burn should go. First, Liz picked up the hurt and set it beside the fur. A home came close and watched. Liz gave it a pat and went back to the job. Next, the curl had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the surf. A light wind came across camp. The burst tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the surface, the hurt, and the curl. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The curb had to go beside the church. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The play sat on a mat. The green rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the surface one last look. The turn stayed in place, and the burn did not tip. A small hurt was still by the path. Liz moved it back beside the fur. The bike came close again. Liz gave it a pat and checked the curl."
+            },
+            {
+              "id": "ur-15",
+              "number": 15,
+              "title": "UR 15 — Saturday at Camp",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the hurt. A home sat near the path while Cal checked a small map. The map showed where the fur and the curl should go. First, Cal picked up the surf and set it beside the burst. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the curb had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the church. A light wind came across camp. The nurse tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the hurt, the surf, and the curb. All three were set. The play came back, but it did not get in the way. Cal still had one last task. The purse had to go beside the purple. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The boat rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the hurt one last look. The fur stayed in place, and the curl did not tip. A small surf was still by the path. Cal moved it back beside the burst. The home came close again. Cal gave it a pat and checked the curb."
+            },
+            {
+              "id": "ur-16",
+              "number": 16,
+              "title": "UR 16 — The Surface of the Pond",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the surf. A cube sat near the path while Jen checked a small map. The map showed where the burst and the curb should go. First, Jen picked up the church and set it beside the nurse. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the purse had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the purple. A light wind came across camp. The turtle tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The play stayed nearby. After the rest, Jen checked the surf, the church, and the purse. All three were set. The green came back, but it did not get in the way. Jen still had one last task. The turkey had to go beside the return. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The boat sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the surf one last look. The burst stayed in place, and the curb did not tip. A small church was still by the path. Jen moved it back beside the nurse. The cube came close again. Jen gave it a pat and checked the purse."
+            },
+            {
+              "id": "ur-17",
+              "number": 17,
+              "title": "UR 17 — The Purse in the Cart",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the church. A rain sat near the path while Rob checked a small map. The map showed where the nurse and the purse should go. First, Rob picked up the purple and set it beside the turtle. A play came close and watched. Rob gave it a pat and went back to the job. Next, the turkey had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the return. A light wind came across camp. The turnip tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The green stayed nearby. After the rest, Rob checked the church, the purple, and the turkey. All three were set. The boat came back, but it did not get in the way. Rob still had one last task. The murmur had to go beside the further. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the church one last look. The nurse stayed in place, and the purse did not tip. A small purple was still by the path. Rob moved it back beside the turtle. The rain came close again. Rob gave it a pat and checked the turkey."
+            },
+            {
+              "id": "ur-18",
+              "number": 18,
+              "title": "UR 18 — A Murmur in the Shed",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the purple. A play sat near the path while Nell checked a small map. The map showed where the turtle and the turkey should go. First, Nell picked up the return and set it beside the turnip. A green came close and watched. Nell gave it a pat and went back to the job. Next, the murmur had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the further. A light wind came across camp. The Saturday tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The boat stayed nearby. After the rest, Nell checked the purple, the return, and the murmur. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The surface had to go beside the turn. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the purple one last look. The turtle stayed in place, and the turkey did not tip. A small return was still by the path. Nell moved it back beside the turnip. The play came close again. Nell gave it a pat and checked the murmur."
+            },
+            {
+              "id": "ur-19",
+              "number": 19,
+              "title": "UR 19 — Turn the Map",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the return. A green sat near the path while Bill checked a small map. The map showed where the turnip and the murmur should go. First, Bill picked up the further and set it beside the Saturday. A boat came close and watched. Bill gave it a pat and went back to the job. Next, the surface had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the turn. A light wind came across camp. The burn tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the return, the further, and the surface. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The hurt had to go beside the fur. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the return one last look. The turnip stayed in place, and the murmur did not tip. A small further was still by the path. Bill moved it back beside the Saturday. The green came close again. Bill gave it a pat and checked the surface."
+            },
+            {
+              "id": "ur-20",
+              "number": 20,
+              "title": "UR 20 — The Last Turtle",
+              "skill": "ur",
+              "skillLabel": "ur",
+              "targetPattern": "ur",
+              "reviewPatterns": [
+                "Units 1–5 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the further. A boat sat near the path while Jess checked a small map. The map showed where the Saturday and the surface should go. First, Jess picked up the turn and set it beside the burn. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the hurt had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the fur. A light wind came across camp. The curl tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the further, the turn, and the hurt. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The surf had to go beside the burst. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the further one last look. The Saturday stayed in place, and the surface did not tip. A small turn was still by the path. Jess moved it back beside the burn. The boat came close again. Jess gave it a pat and checked the hurt."
             }
           ]
         }
