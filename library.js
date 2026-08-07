@@ -1,5 +1,5 @@
 window.DFC_LIBRARY = {
-  "version": "3.0.0",
+  "version": "4.0.0",
   "name": "Decodable Fluency Center Library",
   "units": [
     {
@@ -5442,6 +5442,1449 @@ window.DFC_LIBRARY = {
               "status": "draft-review",
               "wordCount": 252,
               "text": "Jess had a job to do at camp. A camp sat by the sun. Jess had a belt in a pack and a wind by the path. The job looked simple, but Jess had to make a plan. First, Jess picked up the hand and set it next to the sand. A red came close and had a look. Jess gave it a pat and went back to work. Next, the pond had to be moved. It was not far, but it was in the wrong spot. Jess took it past the shed and put it by the tent. A quick wind hit the path. The lamp tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The fish stayed nearby. After the rest, Jess checked the camp, the hand, and the pond. All three were set. The chick came back, but it did not get in the way. Jess still had one last task. The jump had to go beside the milk. Jess did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the camp one last look. The belt stayed in place, and the wind did not tip. A small hand was still by the path. Jess moved it back beside the sand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "label": "Unit 4 — Silent e",
+      "order": 4,
+      "skills": [
+        {
+          "id": "a-e",
+          "label": "a_e",
+          "order": 1,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "a-e-01",
+              "number": 1,
+              "title": "A_E 01 — The Cake at the Gate",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Sam had a job to do near the cake. A cat sat by the path and watched. Sam had a game in a pack and a name by the gate. The job looked simple, but Sam had to make a careful plan. First, Sam picked up the same and set it beside the late. A pig came close and had a quick look. Sam gave it a pat and went back to work. Next, the gate had to be moved. It was not far, but it was in the wrong place. Sam took it past the shed and put it by the made. A light wind came across the path. The safe tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the cake, the same, and the gate. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The lake had to go beside the cape. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the cake one last look. The game stayed in place, and the name did not tip. A small same was still by the path. Sam moved it back beside the late."
+            },
+            {
+              "id": "a-e-02",
+              "number": 2,
+              "title": "A_E 02 — A Game by the Lake",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tim had a job to do near the same. A pig sat by the path and watched. Tim had a late in a pack and a gate by the gate. The job looked simple, but Tim had to make a careful plan. First, Tim picked up the made and set it beside the safe. A dog came close and had a quick look. Tim gave it a pat and went back to work. Next, the lake had to be moved. It was not far, but it was in the wrong place. Tim took it past the shed and put it by the cape. A light wind came across the path. The tape tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the same, the made, and the lake. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The case had to go beside the base. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the same one last look. The late stayed in place, and the gate did not tip. A small made was still by the path. Tim moved it back beside the safe."
+            },
+            {
+              "id": "a-e-03",
+              "number": 3,
+              "title": "A_E 03 — Same Name",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Kim had a job to do near the made. A dog sat by the path and watched. Kim had a safe in a pack and a lake by the gate. The job looked simple, but Kim had to make a careful plan. First, Kim picked up the cape and set it beside the tape. A sun came close and had a quick look. Kim gave it a pat and went back to work. Next, the case had to be moved. It was not far, but it was in the wrong place. Kim took it past the shed and put it by the base. A light wind came across the path. The race tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the made, the cape, and the case. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The wave had to go beside the save. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the made one last look. The safe stayed in place, and the lake did not tip. A small cape was still by the path. Kim moved it back beside the tape."
+            },
+            {
+              "id": "a-e-04",
+              "number": 4,
+              "title": "A_E 04 — The Safe Cape",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ben had a job to do near the cape. A sun sat by the path and watched. Ben had a tape in a pack and a case by the gate. The job looked simple, but Ben had to make a careful plan. First, Ben picked up the base and set it beside the race. A red came close and had a quick look. Ben gave it a pat and went back to work. Next, the wave had to be moved. It was not far, but it was in the wrong place. Ben took it past the shed and put it by the save. A light wind came across the path. The date tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the cape, the base, and the wave. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The shade had to go beside the plane. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the cape one last look. The tape stayed in place, and the case did not tip. A small base was still by the path. Ben moved it back beside the race."
+            },
+            {
+              "id": "a-e-05",
+              "number": 5,
+              "title": "A_E 05 — Late for the Race",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Meg had a job to do near the base. A red sat by the path and watched. Meg had a race in a pack and a wave by the gate. The job looked simple, but Meg had to make a careful plan. First, Meg picked up the save and set it beside the date. A fish came close and had a quick look. Meg gave it a pat and went back to work. Next, the shade had to be moved. It was not far, but it was in the wrong place. Meg took it past the shed and put it by the plane. A light wind came across the path. The grape tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the base, the save, and the shade. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The cake had to go beside the game. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the base one last look. The race stayed in place, and the wave did not tip. A small save was still by the path. Meg moved it back beside the date."
+            },
+            {
+              "id": "a-e-06",
+              "number": 6,
+              "title": "A_E 06 — A Grape on the Plate",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tom had a job to do near the save. A fish sat by the path and watched. Tom had a date in a pack and a shade by the gate. The job looked simple, but Tom had to make a careful plan. First, Tom picked up the plane and set it beside the grape. A chick came close and had a quick look. Tom gave it a pat and went back to work. Next, the cake had to be moved. It was not far, but it was in the wrong place. Tom took it past the shed and put it by the game. A light wind came across the path. The name tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the save, the plane, and the cake. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The same had to go beside the late. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the save one last look. The date stayed in place, and the shade did not tip. A small plane was still by the path. Tom moved it back beside the grape."
+            },
+            {
+              "id": "a-e-07",
+              "number": 7,
+              "title": "A_E 07 — The Tape on the Case",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jill had a job to do near the plane. A chick sat by the path and watched. Jill had a grape in a pack and a cake by the gate. The job looked simple, but Jill had to make a careful plan. First, Jill picked up the game and set it beside the name. A path came close and had a quick look. Jill gave it a pat and went back to work. Next, the same had to be moved. It was not far, but it was in the wrong place. Jill took it past the shed and put it by the late. A light wind came across the path. The gate tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the plane, the game, and the same. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The made had to go beside the safe. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The sink sat on a mat. The black rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the plane one last look. The grape stayed in place, and the cake did not tip. A small game was still by the path. Jill moved it back beside the name."
+            },
+            {
+              "id": "a-e-08",
+              "number": 8,
+              "title": "A_E 08 — Save the Cake",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nick had a job to do near the game. A path sat by the path and watched. Nick had a name in a pack and a same by the gate. The job looked simple, but Nick had to make a careful plan. First, Nick picked up the late and set it beside the gate. A back came close and had a quick look. Nick gave it a pat and went back to work. Next, the made had to be moved. It was not far, but it was in the wrong place. Nick took it past the shed and put it by the safe. A light wind came across the path. The lake tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the game, the late, and the made. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The cape had to go beside the tape. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the game one last look. The name stayed in place, and the same did not tip. A small late was still by the path. Nick moved it back beside the gate."
+            },
+            {
+              "id": "a-e-09",
+              "number": 9,
+              "title": "A_E 09 — The Plane by the Gate",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Pam had a job to do near the late. A back sat by the path and watched. Pam had a gate in a pack and a made by the gate. The job looked simple, but Pam had to make a careful plan. First, Pam picked up the safe and set it beside the lake. A ring came close and had a quick look. Pam gave it a pat and went back to work. Next, the cape had to be moved. It was not far, but it was in the wrong place. Pam took it past the shed and put it by the tape. A light wind came across the path. The case tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the late, the safe, and the cape. All three were set. The black came back, but it did not get in the way. Pam still had one last task. The base had to go beside the race. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The skip rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the late one last look. The gate stayed in place, and the made did not tip. A small safe was still by the path. Pam moved it back beside the lake."
+            },
+            {
+              "id": "a-e-10",
+              "number": 10,
+              "title": "A_E 10 — A Wave at the Lake",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Gus had a job to do near the safe. A ring sat by the path and watched. Gus had a lake in a pack and a cape by the gate. The job looked simple, but Gus had to make a careful plan. First, Gus picked up the tape and set it beside the case. A sink came close and had a quick look. Gus gave it a pat and went back to work. Next, the base had to be moved. It was not far, but it was in the wrong place. Gus took it past the shed and put it by the race. A light wind came across the path. The wave tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The black stayed nearby. After the rest, Gus checked the safe, the tape, and the base. All three were set. The frog came back, but it did not get in the way. Gus still had one last task. The save had to go beside the date. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The skip sat on a mat. The hand rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the safe one last look. The lake stayed in place, and the cape did not tip. A small tape was still by the path. Gus moved it back beside the case."
+            },
+            {
+              "id": "a-e-11",
+              "number": 11,
+              "title": "A_E 11 — The Name on the Bag",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Dot had a job to do near the tape. A sink sat by the path and watched. Dot had a case in a pack and a base by the gate. The job looked simple, but Dot had to make a careful plan. First, Dot picked up the race and set it beside the wave. A black came close and had a quick look. Dot gave it a pat and went back to work. Next, the save had to be moved. It was not far, but it was in the wrong place. Dot took it past the shed and put it by the date. A light wind came across the path. The shade tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The frog stayed nearby. After the rest, Dot checked the tape, the race, and the save. All three were set. The skip came back, but it did not get in the way. Dot still had one last task. The plane had to go beside the grape. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The hand sat on a mat. The camp rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the tape one last look. The case stayed in place, and the base did not tip. A small race was still by the path. Dot moved it back beside the wave."
+            },
+            {
+              "id": "a-e-12",
+              "number": 12,
+              "title": "A_E 12 — A Date at Camp",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ted had a job to do near the race. A black sat by the path and watched. Ted had a wave in a pack and a save by the gate. The job looked simple, but Ted had to make a careful plan. First, Ted picked up the date and set it beside the shade. A frog came close and had a quick look. Ted gave it a pat and went back to work. Next, the plane had to be moved. It was not far, but it was in the wrong place. Ted took it past the shed and put it by the grape. A light wind came across the path. The cake tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The skip stayed nearby. After the rest, Ted checked the race, the date, and the plane. All three were set. The hand came back, but it did not get in the way. Ted still had one last task. The game had to go beside the name. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The shop rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the race one last look. The wave stayed in place, and the save did not tip. A small date was still by the path. Ted moved it back beside the shade."
+            },
+            {
+              "id": "a-e-13",
+              "number": 13,
+              "title": "A_E 13 — The Shade by the Lake",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Max had a job to do near the date. A frog sat by the path and watched. Max had a shade in a pack and a plane by the gate. The job looked simple, but Max had to make a careful plan. First, Max picked up the grape and set it beside the cake. A skip came close and had a quick look. Max gave it a pat and went back to work. Next, the game had to be moved. It was not far, but it was in the wrong place. Max took it past the shed and put it by the name. A light wind came across the path. The same tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The hand stayed nearby. After the rest, Max checked the date, the grape, and the game. All three were set. The camp came back, but it did not get in the way. Max still had one last task. The late had to go beside the gate. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The shop sat on a mat. The rock rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the date one last look. The shade stayed in place, and the plane did not tip. A small grape was still by the path. Max moved it back beside the cake."
+            },
+            {
+              "id": "a-e-14",
+              "number": 14,
+              "title": "A_E 14 — The Base for the Game",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Liz had a job to do near the grape. A skip sat by the path and watched. Liz had a cake in a pack and a game by the gate. The job looked simple, but Liz had to make a careful plan. First, Liz picked up the name and set it beside the same. A hand came close and had a quick look. Liz gave it a pat and went back to work. Next, the late had to be moved. It was not far, but it was in the wrong place. Liz took it past the shed and put it by the gate. A light wind came across the path. The made tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The camp stayed nearby. After the rest, Liz checked the grape, the name, and the late. All three were set. The shop came back, but it did not get in the way. Liz still had one last task. The safe had to go beside the lake. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The rock sat on a mat. The nest rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the grape one last look. The cake stayed in place, and the game did not tip. A small name was still by the path. Liz moved it back beside the same."
+            },
+            {
+              "id": "a-e-15",
+              "number": 15,
+              "title": "A_E 15 — The Cape in the Shop",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Cal had a job to do near the name. A hand sat by the path and watched. Cal had a same in a pack and a late by the gate. The job looked simple, but Cal had to make a careful plan. First, Cal picked up the gate and set it beside the made. A camp came close and had a quick look. Cal gave it a pat and went back to work. Next, the safe had to be moved. It was not far, but it was in the wrong place. Cal took it past the shed and put it by the lake. A light wind came across the path. The cape tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The shop stayed nearby. After the rest, Cal checked the name, the gate, and the safe. All three were set. The rock came back, but it did not get in the way. Cal still had one last task. The tape had to go beside the case. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The nest sat on a mat. The flag rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the name one last look. The same stayed in place, and the late did not tip. A small gate was still by the path. Cal moved it back beside the made."
+            },
+            {
+              "id": "a-e-16",
+              "number": 16,
+              "title": "A_E 16 — A Race to the Gate",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jen had a job to do near the gate. A camp sat by the path and watched. Jen had a made in a pack and a safe by the gate. The job looked simple, but Jen had to make a careful plan. First, Jen picked up the lake and set it beside the cape. A shop came close and had a quick look. Jen gave it a pat and went back to work. Next, the tape had to be moved. It was not far, but it was in the wrong place. Jen took it past the shed and put it by the case. A light wind came across the path. The base tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The rock stayed nearby. After the rest, Jen checked the gate, the lake, and the tape. All three were set. The nest came back, but it did not get in the way. Jen still had one last task. The race had to go beside the wave. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The flag sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the gate one last look. The made stayed in place, and the safe did not tip. A small lake was still by the path. Jen moved it back beside the cape."
+            },
+            {
+              "id": "a-e-17",
+              "number": 17,
+              "title": "A_E 17 — Made at Camp",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Rob had a job to do near the lake. A shop sat by the path and watched. Rob had a cape in a pack and a tape by the gate. The job looked simple, but Rob had to make a careful plan. First, Rob picked up the case and set it beside the base. A rock came close and had a quick look. Rob gave it a pat and went back to work. Next, the race had to be moved. It was not far, but it was in the wrong place. Rob took it past the shed and put it by the wave. A light wind came across the path. The save tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The nest stayed nearby. After the rest, Rob checked the lake, the case, and the race. All three were set. The flag came back, but it did not get in the way. Rob still had one last task. The date had to go beside the shade. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the lake one last look. The cape stayed in place, and the tape did not tip. A small case was still by the path. Rob moved it back beside the base."
+            },
+            {
+              "id": "a-e-18",
+              "number": 18,
+              "title": "A_E 18 — The Safe Place",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nell had a job to do near the case. A rock sat by the path and watched. Nell had a base in a pack and a race by the gate. The job looked simple, but Nell had to make a careful plan. First, Nell picked up the wave and set it beside the save. A nest came close and had a quick look. Nell gave it a pat and went back to work. Next, the date had to be moved. It was not far, but it was in the wrong place. Nell took it past the shed and put it by the shade. A light wind came across the path. The plane tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The flag stayed nearby. After the rest, Nell checked the case, the wave, and the date. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The grape had to go beside the cake. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the case one last look. The base stayed in place, and the race did not tip. A small wave was still by the path. Nell moved it back beside the save."
+            },
+            {
+              "id": "a-e-19",
+              "number": 19,
+              "title": "A_E 19 — The Cake and the Grape",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Bill had a job to do near the wave. A nest sat by the path and watched. Bill had a save in a pack and a date by the gate. The job looked simple, but Bill had to make a careful plan. First, Bill picked up the shade and set it beside the plane. A flag came close and had a quick look. Bill gave it a pat and went back to work. Next, the grape had to be moved. It was not far, but it was in the wrong place. Bill took it past the shed and put it by the cake. A light wind came across the path. The game tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the wave, the shade, and the grape. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The name had to go beside the same. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the wave one last look. The save stayed in place, and the date did not tip. A small shade was still by the path. Bill moved it back beside the plane."
+            },
+            {
+              "id": "a-e-20",
+              "number": 20,
+              "title": "A_E 20 — The Last Game",
+              "skill": "a-e",
+              "skillLabel": "a_e",
+              "targetPattern": "a_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jess had a job to do near the shade. A flag sat by the path and watched. Jess had a plane in a pack and a grape by the gate. The job looked simple, but Jess had to make a careful plan. First, Jess picked up the cake and set it beside the game. A cat came close and had a quick look. Jess gave it a pat and went back to work. Next, the name had to be moved. It was not far, but it was in the wrong place. Jess took it past the shed and put it by the same. A light wind came across the path. The late tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the shade, the cake, and the name. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The gate had to go beside the made. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the shade one last look. The plane stayed in place, and the grape did not tip. A small cake was still by the path. Jess moved it back beside the game."
+            }
+          ]
+        },
+        {
+          "id": "i-e",
+          "label": "i_e",
+          "order": 2,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "i-e-01",
+              "number": 1,
+              "title": "I_E 01 — The Bike Ride",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Sam had a job to do near the bike. A cat sat by the path and watched. Sam had a kite in a pack and a ride by the gate. The job looked simple, but Sam had to make a careful plan. First, Sam picked up the side and set it beside the hide. A pig came close and had a quick look. Sam gave it a pat and went back to work. Next, the time had to be moved. It was not far, but it was in the wrong place. Sam took it past the shed and put it by the line. A light wind came across the path. The five tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the bike, the side, and the time. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The nine had to go beside the mile. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the bike one last look. The kite stayed in place, and the ride did not tip. A small side was still by the path. Sam moved it back beside the hide."
+            },
+            {
+              "id": "i-e-02",
+              "number": 2,
+              "title": "I_E 02 — A Kite in the Sky",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tim had a job to do near the side. A pig sat by the path and watched. Tim had a hide in a pack and a time by the gate. The job looked simple, but Tim had to make a careful plan. First, Tim picked up the line and set it beside the five. A dog came close and had a quick look. Tim gave it a pat and went back to work. Next, the nine had to be moved. It was not far, but it was in the wrong place. Tim took it past the shed and put it by the mile. A light wind came across the path. The smile tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the side, the line, and the nine. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The slide had to go beside the white. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the side one last look. The hide stayed in place, and the time did not tip. A small line was still by the path. Tim moved it back beside the five."
+            },
+            {
+              "id": "i-e-03",
+              "number": 3,
+              "title": "I_E 03 — Hide by the Side",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Kim had a job to do near the line. A dog sat by the path and watched. Kim had a five in a pack and a nine by the gate. The job looked simple, but Kim had to make a careful plan. First, Kim picked up the mile and set it beside the smile. A sun came close and had a quick look. Kim gave it a pat and went back to work. Next, the slide had to be moved. It was not far, but it was in the wrong place. Kim took it past the shed and put it by the white. A light wind came across the path. The drive tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the line, the mile, and the slide. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The prize had to go beside the shine. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the line one last look. The five stayed in place, and the nine did not tip. A small mile was still by the path. Kim moved it back beside the smile."
+            },
+            {
+              "id": "i-e-04",
+              "number": 4,
+              "title": "I_E 04 — Time for Five",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ben had a job to do near the mile. A sun sat by the path and watched. Ben had a smile in a pack and a slide by the gate. The job looked simple, but Ben had to make a careful plan. First, Ben picked up the white and set it beside the drive. A red came close and had a quick look. Ben gave it a pat and went back to work. Next, the prize had to be moved. It was not far, but it was in the wrong place. Ben took it past the shed and put it by the shine. A light wind came across the path. The stripe tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the mile, the white, and the prize. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The pipe had to go beside the hike. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the mile one last look. The smile stayed in place, and the slide did not tip. A small white was still by the path. Ben moved it back beside the drive."
+            },
+            {
+              "id": "i-e-05",
+              "number": 5,
+              "title": "I_E 05 — The Long Mile",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Meg had a job to do near the white. A red sat by the path and watched. Meg had a drive in a pack and a prize by the gate. The job looked simple, but Meg had to make a careful plan. First, Meg picked up the shine and set it beside the stripe. A fish came close and had a quick look. Meg gave it a pat and went back to work. Next, the pipe had to be moved. It was not far, but it was in the wrong place. Meg took it past the shed and put it by the hike. A light wind came across the path. The wide tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the white, the shine, and the pipe. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The bike had to go beside the kite. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the white one last look. The drive stayed in place, and the prize did not tip. A small shine was still by the path. Meg moved it back beside the stripe."
+            },
+            {
+              "id": "i-e-06",
+              "number": 6,
+              "title": "I_E 06 — A Smile on the Hike",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tom had a job to do near the shine. A fish sat by the path and watched. Tom had a stripe in a pack and a pipe by the gate. The job looked simple, but Tom had to make a careful plan. First, Tom picked up the hike and set it beside the wide. A chick came close and had a quick look. Tom gave it a pat and went back to work. Next, the bike had to be moved. It was not far, but it was in the wrong place. Tom took it past the shed and put it by the kite. A light wind came across the path. The ride tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the shine, the hike, and the bike. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The side had to go beside the hide. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the shine one last look. The stripe stayed in place, and the pipe did not tip. A small hike was still by the path. Tom moved it back beside the wide."
+            },
+            {
+              "id": "i-e-07",
+              "number": 7,
+              "title": "I_E 07 — The White Kite",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jill had a job to do near the hike. A chick sat by the path and watched. Jill had a wide in a pack and a bike by the gate. The job looked simple, but Jill had to make a careful plan. First, Jill picked up the kite and set it beside the ride. A path came close and had a quick look. Jill gave it a pat and went back to work. Next, the side had to be moved. It was not far, but it was in the wrong place. Jill took it past the shed and put it by the hide. A light wind came across the path. The time tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the hike, the kite, and the side. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The line had to go beside the five. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The sink sat on a mat. The black rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the hike one last look. The wide stayed in place, and the bike did not tip. A small kite was still by the path. Jill moved it back beside the ride."
+            },
+            {
+              "id": "i-e-08",
+              "number": 8,
+              "title": "I_E 08 — Drive to the Lake",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nick had a job to do near the kite. A path sat by the path and watched. Nick had a ride in a pack and a side by the gate. The job looked simple, but Nick had to make a careful plan. First, Nick picked up the hide and set it beside the time. A back came close and had a quick look. Nick gave it a pat and went back to work. Next, the line had to be moved. It was not far, but it was in the wrong place. Nick took it past the shed and put it by the five. A light wind came across the path. The nine tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the kite, the hide, and the line. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The mile had to go beside the smile. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the kite one last look. The ride stayed in place, and the side did not tip. A small hide was still by the path. Nick moved it back beside the time."
+            },
+            {
+              "id": "i-e-09",
+              "number": 9,
+              "title": "I_E 09 — The Prize at Nine",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Pam had a job to do near the hide. A back sat by the path and watched. Pam had a time in a pack and a line by the gate. The job looked simple, but Pam had to make a careful plan. First, Pam picked up the five and set it beside the nine. A ring came close and had a quick look. Pam gave it a pat and went back to work. Next, the mile had to be moved. It was not far, but it was in the wrong place. Pam took it past the shed and put it by the smile. A light wind came across the path. The slide tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the hide, the five, and the mile. All three were set. The black came back, but it did not get in the way. Pam still had one last task. The white had to go beside the drive. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The skip rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the hide one last look. The time stayed in place, and the line did not tip. A small five was still by the path. Pam moved it back beside the nine."
+            },
+            {
+              "id": "i-e-10",
+              "number": 10,
+              "title": "I_E 10 — A Wide Path",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Gus had a job to do near the five. A ring sat by the path and watched. Gus had a nine in a pack and a mile by the gate. The job looked simple, but Gus had to make a careful plan. First, Gus picked up the smile and set it beside the slide. A sink came close and had a quick look. Gus gave it a pat and went back to work. Next, the white had to be moved. It was not far, but it was in the wrong place. Gus took it past the shed and put it by the drive. A light wind came across the path. The prize tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The black stayed nearby. After the rest, Gus checked the five, the smile, and the white. All three were set. The frog came back, but it did not get in the way. Gus still had one last task. The shine had to go beside the stripe. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The skip sat on a mat. The hand rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the five one last look. The nine stayed in place, and the mile did not tip. A small smile was still by the path. Gus moved it back beside the slide."
+            },
+            {
+              "id": "i-e-11",
+              "number": 11,
+              "title": "I_E 11 — The Stripe on the Bike",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Dot had a job to do near the smile. A sink sat by the path and watched. Dot had a slide in a pack and a white by the gate. The job looked simple, but Dot had to make a careful plan. First, Dot picked up the drive and set it beside the prize. A black came close and had a quick look. Dot gave it a pat and went back to work. Next, the shine had to be moved. It was not far, but it was in the wrong place. Dot took it past the shed and put it by the stripe. A light wind came across the path. The pipe tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The frog stayed nearby. After the rest, Dot checked the smile, the drive, and the shine. All three were set. The skip came back, but it did not get in the way. Dot still had one last task. The hike had to go beside the wide. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The hand sat on a mat. The camp rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the smile one last look. The slide stayed in place, and the white did not tip. A small drive was still by the path. Dot moved it back beside the prize."
+            },
+            {
+              "id": "i-e-12",
+              "number": 12,
+              "title": "I_E 12 — The Pipe by the Shed",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ted had a job to do near the drive. A black sat by the path and watched. Ted had a prize in a pack and a shine by the gate. The job looked simple, but Ted had to make a careful plan. First, Ted picked up the stripe and set it beside the pipe. A frog came close and had a quick look. Ted gave it a pat and went back to work. Next, the hike had to be moved. It was not far, but it was in the wrong place. Ted took it past the shed and put it by the wide. A light wind came across the path. The bike tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The skip stayed nearby. After the rest, Ted checked the drive, the stripe, and the hike. All three were set. The hand came back, but it did not get in the way. Ted still had one last task. The kite had to go beside the ride. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The shop rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the drive one last look. The prize stayed in place, and the shine did not tip. A small stripe was still by the path. Ted moved it back beside the pipe."
+            },
+            {
+              "id": "i-e-13",
+              "number": 13,
+              "title": "I_E 13 — Slide by the Gate",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Max had a job to do near the stripe. A frog sat by the path and watched. Max had a pipe in a pack and a hike by the gate. The job looked simple, but Max had to make a careful plan. First, Max picked up the wide and set it beside the bike. A skip came close and had a quick look. Max gave it a pat and went back to work. Next, the kite had to be moved. It was not far, but it was in the wrong place. Max took it past the shed and put it by the ride. A light wind came across the path. The side tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The hand stayed nearby. After the rest, Max checked the stripe, the wide, and the kite. All three were set. The camp came back, but it did not get in the way. Max still had one last task. The hide had to go beside the time. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The shop sat on a mat. The rock rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the stripe one last look. The pipe stayed in place, and the hike did not tip. A small wide was still by the path. Max moved it back beside the bike."
+            },
+            {
+              "id": "i-e-14",
+              "number": 14,
+              "title": "I_E 14 — A Line on the Map",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Liz had a job to do near the wide. A skip sat by the path and watched. Liz had a bike in a pack and a kite by the gate. The job looked simple, but Liz had to make a careful plan. First, Liz picked up the ride and set it beside the side. A hand came close and had a quick look. Liz gave it a pat and went back to work. Next, the hide had to be moved. It was not far, but it was in the wrong place. Liz took it past the shed and put it by the time. A light wind came across the path. The line tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The camp stayed nearby. After the rest, Liz checked the wide, the ride, and the hide. All three were set. The shop came back, but it did not get in the way. Liz still had one last task. The five had to go beside the nine. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The rock sat on a mat. The nest rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the wide one last look. The bike stayed in place, and the kite did not tip. A small ride was still by the path. Liz moved it back beside the side."
+            },
+            {
+              "id": "i-e-15",
+              "number": 15,
+              "title": "I_E 15 — The Bike at Camp",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Cal had a job to do near the ride. A hand sat by the path and watched. Cal had a side in a pack and a hide by the gate. The job looked simple, but Cal had to make a careful plan. First, Cal picked up the time and set it beside the line. A camp came close and had a quick look. Cal gave it a pat and went back to work. Next, the five had to be moved. It was not far, but it was in the wrong place. Cal took it past the shed and put it by the nine. A light wind came across the path. The mile tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The shop stayed nearby. After the rest, Cal checked the ride, the time, and the five. All three were set. The rock came back, but it did not get in the way. Cal still had one last task. The smile had to go beside the slide. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The nest sat on a mat. The flag rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the ride one last look. The side stayed in place, and the hide did not tip. A small time was still by the path. Cal moved it back beside the line."
+            },
+            {
+              "id": "i-e-16",
+              "number": 16,
+              "title": "I_E 16 — Shine on the Lake",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jen had a job to do near the time. A camp sat by the path and watched. Jen had a line in a pack and a five by the gate. The job looked simple, but Jen had to make a careful plan. First, Jen picked up the nine and set it beside the mile. A shop came close and had a quick look. Jen gave it a pat and went back to work. Next, the smile had to be moved. It was not far, but it was in the wrong place. Jen took it past the shed and put it by the slide. A light wind came across the path. The white tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The rock stayed nearby. After the rest, Jen checked the time, the nine, and the smile. All three were set. The nest came back, but it did not get in the way. Jen still had one last task. The drive had to go beside the prize. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The flag sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the time one last look. The line stayed in place, and the five did not tip. A small nine was still by the path. Jen moved it back beside the mile."
+            },
+            {
+              "id": "i-e-17",
+              "number": 17,
+              "title": "I_E 17 — Five on a Hike",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Rob had a job to do near the nine. A shop sat by the path and watched. Rob had a mile in a pack and a smile by the gate. The job looked simple, but Rob had to make a careful plan. First, Rob picked up the slide and set it beside the white. A rock came close and had a quick look. Rob gave it a pat and went back to work. Next, the drive had to be moved. It was not far, but it was in the wrong place. Rob took it past the shed and put it by the prize. A light wind came across the path. The shine tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The nest stayed nearby. After the rest, Rob checked the nine, the slide, and the drive. All three were set. The flag came back, but it did not get in the way. Rob still had one last task. The stripe had to go beside the pipe. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the nine one last look. The mile stayed in place, and the smile did not tip. A small slide was still by the path. Rob moved it back beside the white."
+            },
+            {
+              "id": "i-e-18",
+              "number": 18,
+              "title": "I_E 18 — The Kite and the Wind",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nell had a job to do near the slide. A rock sat by the path and watched. Nell had a white in a pack and a drive by the gate. The job looked simple, but Nell had to make a careful plan. First, Nell picked up the prize and set it beside the shine. A nest came close and had a quick look. Nell gave it a pat and went back to work. Next, the stripe had to be moved. It was not far, but it was in the wrong place. Nell took it past the shed and put it by the pipe. A light wind came across the path. The hike tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The flag stayed nearby. After the rest, Nell checked the slide, the prize, and the stripe. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The wide had to go beside the bike. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the slide one last look. The white stayed in place, and the drive did not tip. A small prize was still by the path. Nell moved it back beside the shine."
+            },
+            {
+              "id": "i-e-19",
+              "number": 19,
+              "title": "I_E 19 — A Ride at Sunset",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Bill had a job to do near the prize. A nest sat by the path and watched. Bill had a shine in a pack and a stripe by the gate. The job looked simple, but Bill had to make a careful plan. First, Bill picked up the pipe and set it beside the hike. A flag came close and had a quick look. Bill gave it a pat and went back to work. Next, the wide had to be moved. It was not far, but it was in the wrong place. Bill took it past the shed and put it by the bike. A light wind came across the path. The kite tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the prize, the pipe, and the wide. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The ride had to go beside the side. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the prize one last look. The shine stayed in place, and the stripe did not tip. A small pipe was still by the path. Bill moved it back beside the hike."
+            },
+            {
+              "id": "i-e-20",
+              "number": 20,
+              "title": "I_E 20 — The Last Mile",
+              "skill": "i-e",
+              "skillLabel": "i_e",
+              "targetPattern": "i_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jess had a job to do near the pipe. A flag sat by the path and watched. Jess had a hike in a pack and a wide by the gate. The job looked simple, but Jess had to make a careful plan. First, Jess picked up the bike and set it beside the kite. A cat came close and had a quick look. Jess gave it a pat and went back to work. Next, the ride had to be moved. It was not far, but it was in the wrong place. Jess took it past the shed and put it by the side. A light wind came across the path. The hide tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the pipe, the bike, and the ride. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The time had to go beside the line. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the pipe one last look. The hike stayed in place, and the wide did not tip. A small bike was still by the path. Jess moved it back beside the kite."
+            }
+          ]
+        },
+        {
+          "id": "o-e",
+          "label": "o_e",
+          "order": 3,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "o-e-01",
+              "number": 1,
+              "title": "O_E 01 — The Rope by the Stone",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Sam had a job to do near the home. A cat sat by the path and watched. Sam had a hope in a pack and a rope by the gate. The job looked simple, but Sam had to make a careful plan. First, Sam picked up the note and set it beside the bone. A pig came close and had a quick look. Sam gave it a pat and went back to work. Next, the cone had to be moved. It was not far, but it was in the wrong place. Sam took it past the shed and put it by the rose. A light wind came across the path. The stone tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the home, the note, and the cone. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The hole had to go beside the pole. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the home one last look. The hope stayed in place, and the rope did not tip. A small note was still by the path. Sam moved it back beside the bone."
+            },
+            {
+              "id": "o-e-02",
+              "number": 2,
+              "title": "O_E 02 — A Note from Home",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tim had a job to do near the note. A pig sat by the path and watched. Tim had a bone in a pack and a cone by the gate. The job looked simple, but Tim had to make a careful plan. First, Tim picked up the rose and set it beside the stone. A dog came close and had a quick look. Tim gave it a pat and went back to work. Next, the hole had to be moved. It was not far, but it was in the wrong place. Tim took it past the shed and put it by the pole. A light wind came across the path. The joke tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the note, the rose, and the hole. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The mole had to go beside the rode. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the note one last look. The bone stayed in place, and the cone did not tip. A small rose was still by the path. Tim moved it back beside the stone."
+            },
+            {
+              "id": "o-e-03",
+              "number": 3,
+              "title": "O_E 03 — Hope at the Pole",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Kim had a job to do near the rose. A dog sat by the path and watched. Kim had a stone in a pack and a hole by the gate. The job looked simple, but Kim had to make a careful plan. First, Kim picked up the pole and set it beside the joke. A sun came close and had a quick look. Kim gave it a pat and went back to work. Next, the mole had to be moved. It was not far, but it was in the wrong place. Kim took it past the shed and put it by the rode. A light wind came across the path. The those tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the rose, the pole, and the mole. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The close had to go beside the smoke. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the rose one last look. The stone stayed in place, and the hole did not tip. A small pole was still by the path. Kim moved it back beside the joke."
+            },
+            {
+              "id": "o-e-04",
+              "number": 4,
+              "title": "O_E 04 — The Mole in the Hole",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ben had a job to do near the pole. A sun sat by the path and watched. Ben had a joke in a pack and a mole by the gate. The job looked simple, but Ben had to make a careful plan. First, Ben picked up the rode and set it beside the those. A red came close and had a quick look. Ben gave it a pat and went back to work. Next, the close had to be moved. It was not far, but it was in the wrong place. Ben took it past the shed and put it by the smoke. A light wind came across the path. The globe tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the pole, the rode, and the close. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The slope had to go beside the broke. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the pole one last look. The joke stayed in place, and the mole did not tip. A small rode was still by the path. Ben moved it back beside the those."
+            },
+            {
+              "id": "o-e-05",
+              "number": 5,
+              "title": "O_E 05 — A Rose by the Gate",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Meg had a job to do near the rode. A red sat by the path and watched. Meg had a those in a pack and a close by the gate. The job looked simple, but Meg had to make a careful plan. First, Meg picked up the smoke and set it beside the globe. A fish came close and had a quick look. Meg gave it a pat and went back to work. Next, the slope had to be moved. It was not far, but it was in the wrong place. Meg took it past the shed and put it by the broke. A light wind came across the path. The stove tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the rode, the smoke, and the slope. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The home had to go beside the hope. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the rode one last look. The those stayed in place, and the close did not tip. A small smoke was still by the path. Meg moved it back beside the globe."
+            },
+            {
+              "id": "o-e-06",
+              "number": 6,
+              "title": "O_E 06 — The Cone on the Slope",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tom had a job to do near the smoke. A fish sat by the path and watched. Tom had a globe in a pack and a slope by the gate. The job looked simple, but Tom had to make a careful plan. First, Tom picked up the broke and set it beside the stove. A chick came close and had a quick look. Tom gave it a pat and went back to work. Next, the home had to be moved. It was not far, but it was in the wrong place. Tom took it past the shed and put it by the hope. A light wind came across the path. The rope tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the smoke, the broke, and the home. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The note had to go beside the bone. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the smoke one last look. The globe stayed in place, and the slope did not tip. A small broke was still by the path. Tom moved it back beside the stove."
+            },
+            {
+              "id": "o-e-07",
+              "number": 7,
+              "title": "O_E 07 — Close to Home",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jill had a job to do near the broke. A chick sat by the path and watched. Jill had a stove in a pack and a home by the gate. The job looked simple, but Jill had to make a careful plan. First, Jill picked up the hope and set it beside the rope. A path came close and had a quick look. Jill gave it a pat and went back to work. Next, the note had to be moved. It was not far, but it was in the wrong place. Jill took it past the shed and put it by the bone. A light wind came across the path. The cone tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the broke, the hope, and the note. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The rose had to go beside the stone. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The sink sat on a mat. The black rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the broke one last look. The stove stayed in place, and the home did not tip. A small hope was still by the path. Jill moved it back beside the rope."
+            },
+            {
+              "id": "o-e-08",
+              "number": 8,
+              "title": "O_E 08 — A Joke at Camp",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nick had a job to do near the hope. A path sat by the path and watched. Nick had a rope in a pack and a note by the gate. The job looked simple, but Nick had to make a careful plan. First, Nick picked up the bone and set it beside the cone. A back came close and had a quick look. Nick gave it a pat and went back to work. Next, the rose had to be moved. It was not far, but it was in the wrong place. Nick took it past the shed and put it by the stone. A light wind came across the path. The hole tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the hope, the bone, and the rose. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The pole had to go beside the joke. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the hope one last look. The rope stayed in place, and the note did not tip. A small bone was still by the path. Nick moved it back beside the cone."
+            },
+            {
+              "id": "o-e-09",
+              "number": 9,
+              "title": "O_E 09 — The Globe in the Shop",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Pam had a job to do near the bone. A back sat by the path and watched. Pam had a cone in a pack and a rose by the gate. The job looked simple, but Pam had to make a careful plan. First, Pam picked up the stone and set it beside the hole. A ring came close and had a quick look. Pam gave it a pat and went back to work. Next, the pole had to be moved. It was not far, but it was in the wrong place. Pam took it past the shed and put it by the joke. A light wind came across the path. The mole tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the bone, the stone, and the pole. All three were set. The black came back, but it did not get in the way. Pam still had one last task. The rode had to go beside the those. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The skip rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the bone one last look. The cone stayed in place, and the rose did not tip. A small stone was still by the path. Pam moved it back beside the hole."
+            },
+            {
+              "id": "o-e-10",
+              "number": 10,
+              "title": "O_E 10 — The Bone by the Stone",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Gus had a job to do near the stone. A ring sat by the path and watched. Gus had a hole in a pack and a pole by the gate. The job looked simple, but Gus had to make a careful plan. First, Gus picked up the joke and set it beside the mole. A sink came close and had a quick look. Gus gave it a pat and went back to work. Next, the rode had to be moved. It was not far, but it was in the wrong place. Gus took it past the shed and put it by the those. A light wind came across the path. The close tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The black stayed nearby. After the rest, Gus checked the stone, the joke, and the rode. All three were set. The frog came back, but it did not get in the way. Gus still had one last task. The smoke had to go beside the globe. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The skip sat on a mat. The hand rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the stone one last look. The hole stayed in place, and the pole did not tip. A small joke was still by the path. Gus moved it back beside the mole."
+            },
+            {
+              "id": "o-e-11",
+              "number": 11,
+              "title": "O_E 11 — The Pole at the Pond",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Dot had a job to do near the joke. A sink sat by the path and watched. Dot had a mole in a pack and a rode by the gate. The job looked simple, but Dot had to make a careful plan. First, Dot picked up the those and set it beside the close. A black came close and had a quick look. Dot gave it a pat and went back to work. Next, the smoke had to be moved. It was not far, but it was in the wrong place. Dot took it past the shed and put it by the globe. A light wind came across the path. The slope tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The frog stayed nearby. After the rest, Dot checked the joke, the those, and the smoke. All three were set. The skip came back, but it did not get in the way. Dot still had one last task. The broke had to go beside the stove. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The hand sat on a mat. The camp rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the joke one last look. The mole stayed in place, and the rode did not tip. A small those was still by the path. Dot moved it back beside the close."
+            },
+            {
+              "id": "o-e-12",
+              "number": 12,
+              "title": "O_E 12 — A Ride Home",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ted had a job to do near the those. A black sat by the path and watched. Ted had a close in a pack and a smoke by the gate. The job looked simple, but Ted had to make a careful plan. First, Ted picked up the globe and set it beside the slope. A frog came close and had a quick look. Ted gave it a pat and went back to work. Next, the broke had to be moved. It was not far, but it was in the wrong place. Ted took it past the shed and put it by the stove. A light wind came across the path. The home tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The skip stayed nearby. After the rest, Ted checked the those, the globe, and the broke. All three were set. The hand came back, but it did not get in the way. Ted still had one last task. The hope had to go beside the rope. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The shop rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the those one last look. The close stayed in place, and the smoke did not tip. A small globe was still by the path. Ted moved it back beside the slope."
+            },
+            {
+              "id": "o-e-13",
+              "number": 13,
+              "title": "O_E 13 — The Smoke by the Stove",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Max had a job to do near the globe. A frog sat by the path and watched. Max had a slope in a pack and a broke by the gate. The job looked simple, but Max had to make a careful plan. First, Max picked up the stove and set it beside the home. A skip came close and had a quick look. Max gave it a pat and went back to work. Next, the hope had to be moved. It was not far, but it was in the wrong place. Max took it past the shed and put it by the rope. A light wind came across the path. The note tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The hand stayed nearby. After the rest, Max checked the globe, the stove, and the hope. All three were set. The camp came back, but it did not get in the way. Max still had one last task. The bone had to go beside the cone. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The shop sat on a mat. The rock rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the globe one last look. The slope stayed in place, and the broke did not tip. A small stove was still by the path. Max moved it back beside the home."
+            },
+            {
+              "id": "o-e-14",
+              "number": 14,
+              "title": "O_E 14 — Those Red Roses",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Liz had a job to do near the stove. A skip sat by the path and watched. Liz had a home in a pack and a hope by the gate. The job looked simple, but Liz had to make a careful plan. First, Liz picked up the rope and set it beside the note. A hand came close and had a quick look. Liz gave it a pat and went back to work. Next, the bone had to be moved. It was not far, but it was in the wrong place. Liz took it past the shed and put it by the cone. A light wind came across the path. The rose tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The camp stayed nearby. After the rest, Liz checked the stove, the rope, and the bone. All three were set. The shop came back, but it did not get in the way. Liz still had one last task. The stone had to go beside the hole. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The rock sat on a mat. The nest rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the stove one last look. The home stayed in place, and the hope did not tip. A small rope was still by the path. Liz moved it back beside the note."
+            },
+            {
+              "id": "o-e-15",
+              "number": 15,
+              "title": "O_E 15 — The Stone on the Path",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Cal had a job to do near the rope. A hand sat by the path and watched. Cal had a note in a pack and a bone by the gate. The job looked simple, but Cal had to make a careful plan. First, Cal picked up the cone and set it beside the rose. A camp came close and had a quick look. Cal gave it a pat and went back to work. Next, the stone had to be moved. It was not far, but it was in the wrong place. Cal took it past the shed and put it by the hole. A light wind came across the path. The pole tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The shop stayed nearby. After the rest, Cal checked the rope, the cone, and the stone. All three were set. The rock came back, but it did not get in the way. Cal still had one last task. The joke had to go beside the mole. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The nest sat on a mat. The flag rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the rope one last look. The note stayed in place, and the bone did not tip. A small cone was still by the path. Cal moved it back beside the rose."
+            },
+            {
+              "id": "o-e-16",
+              "number": 16,
+              "title": "O_E 16 — The Mole and the Rope",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jen had a job to do near the cone. A camp sat by the path and watched. Jen had a rose in a pack and a stone by the gate. The job looked simple, but Jen had to make a careful plan. First, Jen picked up the hole and set it beside the pole. A shop came close and had a quick look. Jen gave it a pat and went back to work. Next, the joke had to be moved. It was not far, but it was in the wrong place. Jen took it past the shed and put it by the mole. A light wind came across the path. The rode tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The rock stayed nearby. After the rest, Jen checked the cone, the hole, and the joke. All three were set. The nest came back, but it did not get in the way. Jen still had one last task. The those had to go beside the close. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The flag sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the cone one last look. The rose stayed in place, and the stone did not tip. A small hole was still by the path. Jen moved it back beside the pole."
+            },
+            {
+              "id": "o-e-17",
+              "number": 17,
+              "title": "O_E 17 — A Note on the Globe",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Rob had a job to do near the hole. A shop sat by the path and watched. Rob had a pole in a pack and a joke by the gate. The job looked simple, but Rob had to make a careful plan. First, Rob picked up the mole and set it beside the rode. A rock came close and had a quick look. Rob gave it a pat and went back to work. Next, the those had to be moved. It was not far, but it was in the wrong place. Rob took it past the shed and put it by the close. A light wind came across the path. The smoke tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The nest stayed nearby. After the rest, Rob checked the hole, the mole, and the those. All three were set. The flag came back, but it did not get in the way. Rob still had one last task. The globe had to go beside the slope. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the hole one last look. The pole stayed in place, and the joke did not tip. A small mole was still by the path. Rob moved it back beside the rode."
+            },
+            {
+              "id": "o-e-18",
+              "number": 18,
+              "title": "O_E 18 — The Broken Rope",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nell had a job to do near the mole. A rock sat by the path and watched. Nell had a rode in a pack and a those by the gate. The job looked simple, but Nell had to make a careful plan. First, Nell picked up the close and set it beside the smoke. A nest came close and had a quick look. Nell gave it a pat and went back to work. Next, the globe had to be moved. It was not far, but it was in the wrong place. Nell took it past the shed and put it by the slope. A light wind came across the path. The broke tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The flag stayed nearby. After the rest, Nell checked the mole, the close, and the globe. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The stove had to go beside the home. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the mole one last look. The rode stayed in place, and the those did not tip. A small close was still by the path. Nell moved it back beside the smoke."
+            },
+            {
+              "id": "o-e-19",
+              "number": 19,
+              "title": "O_E 19 — The Slope by the Lake",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Bill had a job to do near the close. A nest sat by the path and watched. Bill had a smoke in a pack and a globe by the gate. The job looked simple, but Bill had to make a careful plan. First, Bill picked up the slope and set it beside the broke. A flag came close and had a quick look. Bill gave it a pat and went back to work. Next, the stove had to be moved. It was not far, but it was in the wrong place. Bill took it past the shed and put it by the home. A light wind came across the path. The hope tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the close, the slope, and the stove. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The rope had to go beside the note. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the close one last look. The smoke stayed in place, and the globe did not tip. A small slope was still by the path. Bill moved it back beside the broke."
+            },
+            {
+              "id": "o-e-20",
+              "number": 20,
+              "title": "O_E 20 — The Last Ride Home",
+              "skill": "o-e",
+              "skillLabel": "o_e",
+              "targetPattern": "o_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jess had a job to do near the slope. A flag sat by the path and watched. Jess had a broke in a pack and a stove by the gate. The job looked simple, but Jess had to make a careful plan. First, Jess picked up the home and set it beside the hope. A cat came close and had a quick look. Jess gave it a pat and went back to work. Next, the rope had to be moved. It was not far, but it was in the wrong place. Jess took it past the shed and put it by the note. A light wind came across the path. The bone tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the slope, the home, and the rope. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The cone had to go beside the rose. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the slope one last look. The broke stayed in place, and the stove did not tip. A small home was still by the path. Jess moved it back beside the hope."
+            }
+          ]
+        },
+        {
+          "id": "u-e",
+          "label": "u_e",
+          "order": 4,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "u-e-01",
+              "number": 1,
+              "title": "U_E 01 — The Cube in the Tube",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Sam had a job to do near the cube. A cat sat by the path and watched. Sam had a tube in a pack and a cute by the gate. The job looked simple, but Sam had to make a careful plan. First, Sam picked up the mule and set it beside the rule. A pig came close and had a quick look. Sam gave it a pat and went back to work. Next, the June had to be moved. It was not far, but it was in the wrong place. Sam took it past the shed and put it by the tune. A light wind came across the path. The dune tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the cube, the mule, and the June. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The use had to go beside the huge. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the cube one last look. The tube stayed in place, and the cute did not tip. A small mule was still by the path. Sam moved it back beside the rule."
+            },
+            {
+              "id": "u-e-02",
+              "number": 2,
+              "title": "U_E 02 — A Cute Mule",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tim had a job to do near the mule. A pig sat by the path and watched. Tim had a rule in a pack and a June by the gate. The job looked simple, but Tim had to make a careful plan. First, Tim picked up the tune and set it beside the dune. A dog came close and had a quick look. Tim gave it a pat and went back to work. Next, the use had to be moved. It was not far, but it was in the wrong place. Tim took it past the shed and put it by the huge. A light wind came across the path. The fume tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the mule, the tune, and the use. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The rude had to go beside the mute. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the mule one last look. The rule stayed in place, and the June did not tip. A small tune was still by the path. Tim moved it back beside the dune."
+            },
+            {
+              "id": "u-e-03",
+              "number": 3,
+              "title": "U_E 03 — The Rule at Camp",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Kim had a job to do near the tune. A dog sat by the path and watched. Kim had a dune in a pack and a use by the gate. The job looked simple, but Kim had to make a careful plan. First, Kim picked up the huge and set it beside the fume. A sun came close and had a quick look. Kim gave it a pat and went back to work. Next, the rude had to be moved. It was not far, but it was in the wrong place. Kim took it past the shed and put it by the mute. A light wind came across the path. The flute tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the tune, the huge, and the rude. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The prune had to go beside the brute. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the tune one last look. The dune stayed in place, and the use did not tip. A small huge was still by the path. Kim moved it back beside the fume."
+            },
+            {
+              "id": "u-e-04",
+              "number": 4,
+              "title": "U_E 04 — June and the Flute",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ben had a job to do near the huge. A sun sat by the path and watched. Ben had a fume in a pack and a rude by the gate. The job looked simple, but Ben had to make a careful plan. First, Ben picked up the mute and set it beside the flute. A red came close and had a quick look. Ben gave it a pat and went back to work. Next, the prune had to be moved. It was not far, but it was in the wrong place. Ben took it past the shed and put it by the brute. A light wind came across the path. The fuse tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the huge, the mute, and the prune. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The dude had to go beside the muse. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the huge one last look. The fume stayed in place, and the rude did not tip. A small mute was still by the path. Ben moved it back beside the flute."
+            },
+            {
+              "id": "u-e-05",
+              "number": 5,
+              "title": "U_E 05 — A Tune by the Lake",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Meg had a job to do near the mute. A red sat by the path and watched. Meg had a flute in a pack and a prune by the gate. The job looked simple, but Meg had to make a careful plan. First, Meg picked up the brute and set it beside the fuse. A fish came close and had a quick look. Meg gave it a pat and went back to work. Next, the dude had to be moved. It was not far, but it was in the wrong place. Meg took it past the shed and put it by the muse. A light wind came across the path. The pure tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the mute, the brute, and the dude. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The cube had to go beside the tube. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the mute one last look. The flute stayed in place, and the prune did not tip. A small brute was still by the path. Meg moved it back beside the fuse."
+            },
+            {
+              "id": "u-e-06",
+              "number": 6,
+              "title": "U_E 06 — The Huge Cube",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Tom had a job to do near the brute. A fish sat by the path and watched. Tom had a fuse in a pack and a dude by the gate. The job looked simple, but Tom had to make a careful plan. First, Tom picked up the muse and set it beside the pure. A chick came close and had a quick look. Tom gave it a pat and went back to work. Next, the cube had to be moved. It was not far, but it was in the wrong place. Tom took it past the shed and put it by the tube. A light wind came across the path. The cute tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the brute, the muse, and the cube. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The mule had to go beside the rule. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the brute one last look. The fuse stayed in place, and the dude did not tip. A small muse was still by the path. Tom moved it back beside the pure."
+            },
+            {
+              "id": "u-e-07",
+              "number": 7,
+              "title": "U_E 07 — Use the Tube",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jill had a job to do near the muse. A chick sat by the path and watched. Jill had a pure in a pack and a cube by the gate. The job looked simple, but Jill had to make a careful plan. First, Jill picked up the tube and set it beside the cute. A path came close and had a quick look. Jill gave it a pat and went back to work. Next, the mule had to be moved. It was not far, but it was in the wrong place. Jill took it past the shed and put it by the rule. A light wind came across the path. The June tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the muse, the tube, and the mule. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The tune had to go beside the dune. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The sink sat on a mat. The black rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the muse one last look. The pure stayed in place, and the cube did not tip. A small tube was still by the path. Jill moved it back beside the cute."
+            },
+            {
+              "id": "u-e-08",
+              "number": 8,
+              "title": "U_E 08 — The Mule on the Dune",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nick had a job to do near the tube. A path sat by the path and watched. Nick had a cute in a pack and a mule by the gate. The job looked simple, but Nick had to make a careful plan. First, Nick picked up the rule and set it beside the June. A back came close and had a quick look. Nick gave it a pat and went back to work. Next, the tune had to be moved. It was not far, but it was in the wrong place. Nick took it past the shed and put it by the dune. A light wind came across the path. The use tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the tube, the rule, and the tune. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The huge had to go beside the fume. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the tube one last look. The cute stayed in place, and the mule did not tip. A small rule was still by the path. Nick moved it back beside the June."
+            },
+            {
+              "id": "u-e-09",
+              "number": 9,
+              "title": "U_E 09 — A Fuse in the Shop",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Pam had a job to do near the rule. A back sat by the path and watched. Pam had a June in a pack and a tune by the gate. The job looked simple, but Pam had to make a careful plan. First, Pam picked up the dune and set it beside the use. A ring came close and had a quick look. Pam gave it a pat and went back to work. Next, the huge had to be moved. It was not far, but it was in the wrong place. Pam took it past the shed and put it by the fume. A light wind came across the path. The rude tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the rule, the dune, and the huge. All three were set. The black came back, but it did not get in the way. Pam still had one last task. The mute had to go beside the flute. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The skip rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the rule one last look. The June stayed in place, and the tune did not tip. A small dune was still by the path. Pam moved it back beside the use."
+            },
+            {
+              "id": "u-e-10",
+              "number": 10,
+              "title": "U_E 10 — The Flute in the Case",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Gus had a job to do near the dune. A ring sat by the path and watched. Gus had a use in a pack and a huge by the gate. The job looked simple, but Gus had to make a careful plan. First, Gus picked up the fume and set it beside the rude. A sink came close and had a quick look. Gus gave it a pat and went back to work. Next, the mute had to be moved. It was not far, but it was in the wrong place. Gus took it past the shed and put it by the flute. A light wind came across the path. The prune tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The black stayed nearby. After the rest, Gus checked the dune, the fume, and the mute. All three were set. The frog came back, but it did not get in the way. Gus still had one last task. The brute had to go beside the fuse. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The skip sat on a mat. The hand rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the dune one last look. The use stayed in place, and the huge did not tip. A small fume was still by the path. Gus moved it back beside the rude."
+            },
+            {
+              "id": "u-e-11",
+              "number": 11,
+              "title": "U_E 11 — A Pure Tune",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Dot had a job to do near the fume. A sink sat by the path and watched. Dot had a rude in a pack and a mute by the gate. The job looked simple, but Dot had to make a careful plan. First, Dot picked up the flute and set it beside the prune. A black came close and had a quick look. Dot gave it a pat and went back to work. Next, the brute had to be moved. It was not far, but it was in the wrong place. Dot took it past the shed and put it by the fuse. A light wind came across the path. The dude tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The frog stayed nearby. After the rest, Dot checked the fume, the flute, and the brute. All three were set. The skip came back, but it did not get in the way. Dot still had one last task. The muse had to go beside the pure. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The hand sat on a mat. The camp rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the fume one last look. The rude stayed in place, and the mute did not tip. A small flute was still by the path. Dot moved it back beside the prune."
+            },
+            {
+              "id": "u-e-12",
+              "number": 12,
+              "title": "U_E 12 — The Prune in the Bag",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Ted had a job to do near the flute. A black sat by the path and watched. Ted had a prune in a pack and a brute by the gate. The job looked simple, but Ted had to make a careful plan. First, Ted picked up the fuse and set it beside the dude. A frog came close and had a quick look. Ted gave it a pat and went back to work. Next, the muse had to be moved. It was not far, but it was in the wrong place. Ted took it past the shed and put it by the pure. A light wind came across the path. The cube tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The skip stayed nearby. After the rest, Ted checked the flute, the fuse, and the muse. All three were set. The hand came back, but it did not get in the way. Ted still had one last task. The tube had to go beside the cute. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The shop rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the flute one last look. The prune stayed in place, and the brute did not tip. A small fuse was still by the path. Ted moved it back beside the dude."
+            },
+            {
+              "id": "u-e-13",
+              "number": 13,
+              "title": "U_E 13 — The Mute Bell",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Max had a job to do near the fuse. A frog sat by the path and watched. Max had a dude in a pack and a muse by the gate. The job looked simple, but Max had to make a careful plan. First, Max picked up the pure and set it beside the cube. A skip came close and had a quick look. Max gave it a pat and went back to work. Next, the tube had to be moved. It was not far, but it was in the wrong place. Max took it past the shed and put it by the cute. A light wind came across the path. The mule tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The hand stayed nearby. After the rest, Max checked the fuse, the pure, and the tube. All three were set. The camp came back, but it did not get in the way. Max still had one last task. The rule had to go beside the June. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The shop sat on a mat. The rock rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the fuse one last look. The dude stayed in place, and the muse did not tip. A small pure was still by the path. Max moved it back beside the cube."
+            },
+            {
+              "id": "u-e-14",
+              "number": 14,
+              "title": "U_E 14 — The Dude with the Cube",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Liz had a job to do near the pure. A skip sat by the path and watched. Liz had a cube in a pack and a tube by the gate. The job looked simple, but Liz had to make a careful plan. First, Liz picked up the cute and set it beside the mule. A hand came close and had a quick look. Liz gave it a pat and went back to work. Next, the rule had to be moved. It was not far, but it was in the wrong place. Liz took it past the shed and put it by the June. A light wind came across the path. The tune tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The camp stayed nearby. After the rest, Liz checked the pure, the cute, and the rule. All three were set. The shop came back, but it did not get in the way. Liz still had one last task. The dune had to go beside the use. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The rock sat on a mat. The nest rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the pure one last look. The cube stayed in place, and the tube did not tip. A small cute was still by the path. Liz moved it back beside the mule."
+            },
+            {
+              "id": "u-e-15",
+              "number": 15,
+              "title": "U_E 15 — A Huge Job",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Cal had a job to do near the cute. A hand sat by the path and watched. Cal had a mule in a pack and a rule by the gate. The job looked simple, but Cal had to make a careful plan. First, Cal picked up the June and set it beside the tune. A camp came close and had a quick look. Cal gave it a pat and went back to work. Next, the dune had to be moved. It was not far, but it was in the wrong place. Cal took it past the shed and put it by the use. A light wind came across the path. The huge tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The shop stayed nearby. After the rest, Cal checked the cute, the June, and the dune. All three were set. The rock came back, but it did not get in the way. Cal still had one last task. The fume had to go beside the rude. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The nest sat on a mat. The flag rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the cute one last look. The mule stayed in place, and the rule did not tip. A small June was still by the path. Cal moved it back beside the tune."
+            },
+            {
+              "id": "u-e-16",
+              "number": 16,
+              "title": "U_E 16 — The Tube by the Gate",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jen had a job to do near the June. A camp sat by the path and watched. Jen had a tune in a pack and a dune by the gate. The job looked simple, but Jen had to make a careful plan. First, Jen picked up the use and set it beside the huge. A shop came close and had a quick look. Jen gave it a pat and went back to work. Next, the fume had to be moved. It was not far, but it was in the wrong place. Jen took it past the shed and put it by the rude. A light wind came across the path. The mute tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The rock stayed nearby. After the rest, Jen checked the June, the use, and the fume. All three were set. The nest came back, but it did not get in the way. Jen still had one last task. The flute had to go beside the prune. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The flag sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the June one last look. The tune stayed in place, and the dune did not tip. A small use was still by the path. Jen moved it back beside the huge."
+            },
+            {
+              "id": "u-e-17",
+              "number": 17,
+              "title": "U_E 17 — The Mule and the Rope",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Rob had a job to do near the use. A shop sat by the path and watched. Rob had a huge in a pack and a fume by the gate. The job looked simple, but Rob had to make a careful plan. First, Rob picked up the rude and set it beside the mute. A rock came close and had a quick look. Rob gave it a pat and went back to work. Next, the flute had to be moved. It was not far, but it was in the wrong place. Rob took it past the shed and put it by the prune. A light wind came across the path. The brute tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The nest stayed nearby. After the rest, Rob checked the use, the rude, and the flute. All three were set. The flag came back, but it did not get in the way. Rob still had one last task. The fuse had to go beside the dude. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the use one last look. The huge stayed in place, and the fume did not tip. A small rude was still by the path. Rob moved it back beside the mute."
+            },
+            {
+              "id": "u-e-18",
+              "number": 18,
+              "title": "U_E 18 — A Tune at Sunset",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Nell had a job to do near the rude. A rock sat by the path and watched. Nell had a mute in a pack and a flute by the gate. The job looked simple, but Nell had to make a careful plan. First, Nell picked up the prune and set it beside the brute. A nest came close and had a quick look. Nell gave it a pat and went back to work. Next, the fuse had to be moved. It was not far, but it was in the wrong place. Nell took it past the shed and put it by the dude. A light wind came across the path. The muse tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The flag stayed nearby. After the rest, Nell checked the rude, the prune, and the fuse. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The pure had to go beside the cube. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the rude one last look. The mute stayed in place, and the flute did not tip. A small prune was still by the path. Nell moved it back beside the brute."
+            },
+            {
+              "id": "u-e-19",
+              "number": 19,
+              "title": "U_E 19 — Use the Map",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Bill had a job to do near the prune. A nest sat by the path and watched. Bill had a brute in a pack and a fuse by the gate. The job looked simple, but Bill had to make a careful plan. First, Bill picked up the dude and set it beside the muse. A flag came close and had a quick look. Bill gave it a pat and went back to work. Next, the pure had to be moved. It was not far, but it was in the wrong place. Bill took it past the shed and put it by the cube. A light wind came across the path. The tube tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the prune, the dude, and the pure. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The cute had to go beside the mule. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the prune one last look. The brute stayed in place, and the fuse did not tip. A small dude was still by the path. Bill moved it back beside the muse."
+            },
+            {
+              "id": "u-e-20",
+              "number": 20,
+              "title": "U_E 20 — The Last Cube",
+              "skill": "u-e",
+              "skillLabel": "u_e",
+              "targetPattern": "u_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 257,
+              "text": "Jess had a job to do near the dude. A flag sat by the path and watched. Jess had a muse in a pack and a pure by the gate. The job looked simple, but Jess had to make a careful plan. First, Jess picked up the cube and set it beside the tube. A cat came close and had a quick look. Jess gave it a pat and went back to work. Next, the cute had to be moved. It was not far, but it was in the wrong place. Jess took it past the shed and put it by the mule. A light wind came across the path. The rule tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the dude, the cube, and the cute. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The June had to go beside the tune. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the dude one last look. The muse stayed in place, and the pure did not tip. A small cube was still by the path. Jess moved it back beside the tube."
             }
           ]
         }
