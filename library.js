@@ -1,5 +1,5 @@
 window.DFC_LIBRARY = {
-  "version": "8.0.0",
+  "version": "9.0.0",
   "name": "Decodable Fluency Center Library",
   "units": [
     {
@@ -15414,6 +15414,2325 @@ window.DFC_LIBRARY = {
               "status": "draft-review",
               "wordCount": 262,
               "text": "Jess had a plan for the day. The main job involved the hoes. A bird sat near the path while Jess checked a small map. The map showed where the doe and the oboe should go. First, Jess picked up the toe and set it beside the hoe. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the doe had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the foe. A light wind came across camp. The Joe tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the hoes, the toe, and the doe. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The woe had to go beside the oboe. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the hoes one last look. The doe stayed in place, and the oboe did not tip. A small toe was still by the path. Jess moved it back beside the hoe. The bird came close again. Jess gave it a pat and checked the doe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit-9",
+      "label": "Unit 9 — Multisyllable & Syllable Types",
+      "order": 9,
+      "skills": [
+        {
+          "id": "closed-syllables",
+          "label": "Closed syllables",
+          "order": 1,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "closed-syllables-01",
+              "number": 1,
+              "title": "CLOSED SYLLABLES 01 — The Rabbit at Sunset",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the rabbit. A cat sat near the path while Sam checked a small map. The map showed where the basket and the picnic should go. First, Sam picked up the sunset and set it beside the kitten. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the napkin had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the plastic. A light wind came across camp. The magnet tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the rabbit, the sunset, and the napkin. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The helmet had to go beside the dentist. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the rabbit one last look. The basket stayed in place, and the picnic did not tip. A small sunset was still by the path. Sam moved it back beside the kitten. The cat came close again. Sam gave it a pat and checked the napkin."
+            },
+            {
+              "id": "closed-syllables-02",
+              "number": 2,
+              "title": "CLOSED SYLLABLES 02 — A Basket for the Picnic",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the sunset. A pig sat near the path while Tim checked a small map. The map showed where the kitten and the napkin should go. First, Tim picked up the plastic and set it beside the magnet. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the helmet had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the dentist. A light wind came across camp. The cactus tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the sunset, the plastic, and the helmet. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The pumpkin had to go beside the sandwich. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the sunset one last look. The kitten stayed in place, and the napkin did not tip. A small plastic was still by the path. Tim moved it back beside the magnet. The pig came close again. Tim gave it a pat and checked the helmet."
+            },
+            {
+              "id": "closed-syllables-03",
+              "number": 3,
+              "title": "CLOSED SYLLABLES 03 — The Kitten and the Napkin",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the plastic. A dog sat near the path while Kim checked a small map. The map showed where the magnet and the helmet should go. First, Kim picked up the dentist and set it beside the cactus. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the pumpkin had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the sandwich. A light wind came across camp. The contest tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the plastic, the dentist, and the pumpkin. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The problem had to go beside the fabric. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the plastic one last look. The magnet stayed in place, and the helmet did not tip. A small dentist was still by the path. Kim moved it back beside the cactus. The dog came close again. Kim gave it a pat and checked the pumpkin."
+            },
+            {
+              "id": "closed-syllables-04",
+              "number": 4,
+              "title": "CLOSED SYLLABLES 04 — The Plastic Magnet",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the dentist. A sun sat near the path while Ben checked a small map. The map showed where the cactus and the pumpkin should go. First, Ben picked up the sandwich and set it beside the contest. A red came close and watched. Ben gave it a pat and went back to the job. Next, the problem had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the fabric. A light wind came across camp. The public tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the dentist, the sandwich, and the problem. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The finish had to go beside the limit. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the dentist one last look. The cactus stayed in place, and the pumpkin did not tip. A small sandwich was still by the path. Ben moved it back beside the contest. The sun came close again. Ben gave it a pat and checked the problem."
+            },
+            {
+              "id": "closed-syllables-05",
+              "number": 5,
+              "title": "CLOSED SYLLABLES 05 — A Helmet for the Trip",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the sandwich. A red sat near the path while Meg checked a small map. The map showed where the contest and the problem should go. First, Meg picked up the fabric and set it beside the public. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the finish had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the limit. A light wind came across camp. The visit tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the sandwich, the fabric, and the finish. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The rabbit had to go beside the basket. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the sandwich one last look. The contest stayed in place, and the problem did not tip. A small fabric was still by the path. Meg moved it back beside the public. The red came close again. Meg gave it a pat and checked the finish."
+            },
+            {
+              "id": "closed-syllables-06",
+              "number": 6,
+              "title": "CLOSED SYLLABLES 06 — The Dentist Visit",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the fabric. A fish sat near the path while Tom checked a small map. The map showed where the public and the finish should go. First, Tom picked up the limit and set it beside the visit. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the rabbit had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the basket. A light wind came across camp. The picnic tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the fabric, the limit, and the rabbit. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The sunset had to go beside the kitten. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the fabric one last look. The public stayed in place, and the finish did not tip. A small limit was still by the path. Tom moved it back beside the visit. The fish came close again. Tom gave it a pat and checked the rabbit."
+            },
+            {
+              "id": "closed-syllables-07",
+              "number": 7,
+              "title": "CLOSED SYLLABLES 07 — The Cactus by the Path",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the limit. A chick sat near the path while Jill checked a small map. The map showed where the visit and the rabbit should go. First, Jill picked up the basket and set it beside the picnic. A back came close and watched. Jill gave it a pat and went back to the job. Next, the sunset had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the kitten. A light wind came across camp. The napkin tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the limit, the basket, and the sunset. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The plastic had to go beside the magnet. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the limit one last look. The visit stayed in place, and the rabbit did not tip. A small basket was still by the path. Jill moved it back beside the picnic. The chick came close again. Jill gave it a pat and checked the sunset."
+            },
+            {
+              "id": "closed-syllables-08",
+              "number": 8,
+              "title": "CLOSED SYLLABLES 08 — A Pumpkin at Camp",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the basket. A back sat near the path while Nick checked a small map. The map showed where the picnic and the sunset should go. First, Nick picked up the kitten and set it beside the napkin. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the plastic had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the magnet. A light wind came across camp. The helmet tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the basket, the kitten, and the plastic. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The dentist had to go beside the cactus. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the basket one last look. The picnic stayed in place, and the sunset did not tip. A small kitten was still by the path. Nick moved it back beside the napkin. The back came close again. Nick gave it a pat and checked the plastic."
+            },
+            {
+              "id": "closed-syllables-09",
+              "number": 9,
+              "title": "CLOSED SYLLABLES 09 — The Sandwich Contest",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the kitten. A ring sat near the path while Pam checked a small map. The map showed where the napkin and the plastic should go. First, Pam picked up the magnet and set it beside the helmet. A black came close and watched. Pam gave it a pat and went back to the job. Next, the dentist had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the cactus. A light wind came across camp. The pumpkin tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the kitten, the magnet, and the dentist. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The sandwich had to go beside the contest. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the kitten one last look. The napkin stayed in place, and the plastic did not tip. A small magnet was still by the path. Pam moved it back beside the helmet. The ring came close again. Pam gave it a pat and checked the dentist."
+            },
+            {
+              "id": "closed-syllables-10",
+              "number": 10,
+              "title": "CLOSED SYLLABLES 10 — A Problem with the Basket",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the magnet. A black sat near the path while Gus checked a small map. The map showed where the helmet and the dentist should go. First, Gus picked up the cactus and set it beside the pumpkin. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the sandwich had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the contest. A light wind came across camp. The problem tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the magnet, the cactus, and the sandwich. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The fabric had to go beside the public. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the magnet one last look. The helmet stayed in place, and the dentist did not tip. A small cactus was still by the path. Gus moved it back beside the pumpkin. The black came close again. Gus gave it a pat and checked the sandwich."
+            },
+            {
+              "id": "closed-syllables-11",
+              "number": 11,
+              "title": "CLOSED SYLLABLES 11 — The Fabric in the Bag",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the cactus. A frog sat near the path while Dot checked a small map. The map showed where the pumpkin and the sandwich should go. First, Dot picked up the contest and set it beside the problem. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the fabric had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the public. A light wind came across camp. The finish tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the cactus, the contest, and the fabric. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The limit had to go beside the visit. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the cactus one last look. The pumpkin stayed in place, and the sandwich did not tip. A small contest was still by the path. Dot moved it back beside the problem. The frog came close again. Dot gave it a pat and checked the fabric."
+            },
+            {
+              "id": "closed-syllables-12",
+              "number": 12,
+              "title": "CLOSED SYLLABLES 12 — A Public Picnic",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the contest. A camp sat near the path while Ted checked a small map. The map showed where the problem and the fabric should go. First, Ted picked up the public and set it beside the finish. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the limit had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the visit. A light wind came across camp. The rabbit tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the contest, the public, and the limit. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The basket had to go beside the picnic. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the contest one last look. The problem stayed in place, and the fabric did not tip. A small public was still by the path. Ted moved it back beside the finish. The camp came close again. Ted gave it a pat and checked the limit."
+            },
+            {
+              "id": "closed-syllables-13",
+              "number": 13,
+              "title": "CLOSED SYLLABLES 13 — Finish the Job",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the public. A cake sat near the path while Max checked a small map. The map showed where the finish and the limit should go. First, Max picked up the visit and set it beside the rabbit. A bike came close and watched. Max gave it a pat and went back to the job. Next, the basket had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the picnic. A light wind came across camp. The sunset tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the public, the visit, and the basket. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The kitten had to go beside the napkin. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the public one last look. The finish stayed in place, and the limit did not tip. A small visit was still by the path. Max moved it back beside the rabbit. The cake came close again. Max gave it a pat and checked the basket."
+            },
+            {
+              "id": "closed-syllables-14",
+              "number": 14,
+              "title": "CLOSED SYLLABLES 14 — The Limit on the Map",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the visit. A bike sat near the path while Liz checked a small map. The map showed where the rabbit and the basket should go. First, Liz picked up the picnic and set it beside the sunset. A home came close and watched. Liz gave it a pat and went back to the job. Next, the kitten had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the napkin. A light wind came across camp. The plastic tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the visit, the picnic, and the kitten. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The magnet had to go beside the helmet. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the visit one last look. The rabbit stayed in place, and the basket did not tip. A small picnic was still by the path. Liz moved it back beside the sunset. The bike came close again. Liz gave it a pat and checked the kitten."
+            },
+            {
+              "id": "closed-syllables-15",
+              "number": 15,
+              "title": "CLOSED SYLLABLES 15 — A Visit at Sunset",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the picnic. A home sat near the path while Cal checked a small map. The map showed where the sunset and the kitten should go. First, Cal picked up the napkin and set it beside the plastic. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the magnet had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the helmet. A light wind came across camp. The dentist tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the picnic, the napkin, and the magnet. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The cactus had to go beside the pumpkin. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the picnic one last look. The sunset stayed in place, and the kitten did not tip. A small napkin was still by the path. Cal moved it back beside the plastic. The home came close again. Cal gave it a pat and checked the magnet."
+            },
+            {
+              "id": "closed-syllables-16",
+              "number": 16,
+              "title": "CLOSED SYLLABLES 16 — The Magnet and the Rabbit",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the napkin. A cube sat near the path while Jen checked a small map. The map showed where the plastic and the magnet should go. First, Jen picked up the helmet and set it beside the dentist. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the cactus had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the pumpkin. A light wind came across camp. The sandwich tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the napkin, the helmet, and the cactus. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The contest had to go beside the problem. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the napkin one last look. The plastic stayed in place, and the magnet did not tip. A small helmet was still by the path. Jen moved it back beside the dentist. The cube came close again. Jen gave it a pat and checked the cactus."
+            },
+            {
+              "id": "closed-syllables-17",
+              "number": 17,
+              "title": "CLOSED SYLLABLES 17 — The Picnic Basket",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the helmet. A rain sat near the path while Rob checked a small map. The map showed where the dentist and the cactus should go. First, Rob picked up the pumpkin and set it beside the sandwich. A green came close and watched. Rob gave it a pat and went back to the job. Next, the contest had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the problem. A light wind came across camp. The fabric tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the helmet, the pumpkin, and the contest. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The public had to go beside the finish. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the helmet one last look. The dentist stayed in place, and the cactus did not tip. A small pumpkin was still by the path. Rob moved it back beside the sandwich. The rain came close again. Rob gave it a pat and checked the contest."
+            },
+            {
+              "id": "closed-syllables-18",
+              "number": 18,
+              "title": "CLOSED SYLLABLES 18 — The Helmet at Camp",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the pumpkin. A green sat near the path while Nell checked a small map. The map showed where the sandwich and the contest should go. First, Nell picked up the problem and set it beside the fabric. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the public had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the finish. A light wind came across camp. The limit tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the pumpkin, the problem, and the public. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The visit had to go beside the rabbit. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the pumpkin one last look. The sandwich stayed in place, and the contest did not tip. A small problem was still by the path. Nell moved it back beside the fabric. The green came close again. Nell gave it a pat and checked the public."
+            },
+            {
+              "id": "closed-syllables-19",
+              "number": 19,
+              "title": "CLOSED SYLLABLES 19 — The Pumpkin Patch",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the problem. A farm sat near the path while Bill checked a small map. The map showed where the fabric and the public should go. First, Bill picked up the finish and set it beside the limit. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the visit had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the rabbit. A light wind came across camp. The basket tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the problem, the finish, and the visit. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The picnic had to go beside the sunset. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the problem one last look. The fabric stayed in place, and the public did not tip. A small finish was still by the path. Bill moved it back beside the limit. The farm came close again. Bill gave it a pat and checked the visit."
+            },
+            {
+              "id": "closed-syllables-20",
+              "number": 20,
+              "title": "CLOSED SYLLABLES 20 — The Last Visit",
+              "skill": "closed-syllables",
+              "skillLabel": "Closed syllables",
+              "targetPattern": "Closed syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the finish. A bird sat near the path while Jess checked a small map. The map showed where the limit and the visit should go. First, Jess picked up the rabbit and set it beside the basket. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the picnic had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the sunset. A light wind came across camp. The kitten tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the finish, the rabbit, and the picnic. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The napkin had to go beside the plastic. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the finish one last look. The limit stayed in place, and the visit did not tip. A small rabbit was still by the path. Jess moved it back beside the basket. The bird came close again. Jess gave it a pat and checked the picnic."
+            }
+          ]
+        },
+        {
+          "id": "open-syllables",
+          "label": "Open syllables",
+          "order": 2,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "open-syllables-01",
+              "number": 1,
+              "title": "OPEN SYLLABLES 01 — The Robot at Camp",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the robot. A cat sat near the path while Sam checked a small map. The map showed where the music and the tulip should go. First, Sam picked up the pilot and set it beside the basic. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the hotel had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the paper. A light wind came across camp. The zero tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the robot, the pilot, and the hotel. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The unit had to go beside the human. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the robot one last look. The music stayed in place, and the tulip did not tip. A small pilot was still by the path. Sam moved it back beside the basic. The cat came close again. Sam gave it a pat and checked the hotel."
+            },
+            {
+              "id": "open-syllables-02",
+              "number": 2,
+              "title": "OPEN SYLLABLES 02 — Music by the Lake",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the pilot. A pig sat near the path while Tim checked a small map. The map showed where the basic and the hotel should go. First, Tim picked up the paper and set it beside the zero. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the unit had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the human. A light wind came across camp. The silent tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the pilot, the paper, and the unit. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The final had to go beside the local. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the pilot one last look. The basic stayed in place, and the hotel did not tip. A small paper was still by the path. Tim moved it back beside the zero. The pig came close again. Tim gave it a pat and checked the unit."
+            },
+            {
+              "id": "open-syllables-03",
+              "number": 3,
+              "title": "OPEN SYLLABLES 03 — A Tulip by the Path",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the paper. A dog sat near the path while Kim checked a small map. The map showed where the zero and the unit should go. First, Kim picked up the human and set it beside the silent. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the final had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the local. A light wind came across camp. The student tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the paper, the human, and the final. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The moment had to go beside the focus. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the paper one last look. The zero stayed in place, and the unit did not tip. A small human was still by the path. Kim moved it back beside the silent. The dog came close again. Kim gave it a pat and checked the final."
+            },
+            {
+              "id": "open-syllables-04",
+              "number": 4,
+              "title": "OPEN SYLLABLES 04 — The Pilot's Map",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the human. A sun sat near the path while Ben checked a small map. The map showed where the silent and the final should go. First, Ben picked up the local and set it beside the student. A red came close and watched. Ben gave it a pat and went back to the job. Next, the moment had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the focus. A light wind came across camp. The bonus tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the human, the local, and the moment. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The label had to go beside the tiny. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the human one last look. The silent stayed in place, and the final did not tip. A small local was still by the path. Ben moved it back beside the student. The sun came close again. Ben gave it a pat and checked the moment."
+            },
+            {
+              "id": "open-syllables-05",
+              "number": 5,
+              "title": "OPEN SYLLABLES 05 — A Basic Plan",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the local. A red sat near the path while Meg checked a small map. The map showed where the student and the moment should go. First, Meg picked up the focus and set it beside the bonus. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the label had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the tiny. A light wind came across camp. The hero tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the local, the focus, and the label. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The robot had to go beside the music. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the local one last look. The student stayed in place, and the moment did not tip. A small focus was still by the path. Meg moved it back beside the bonus. The red came close again. Meg gave it a pat and checked the label."
+            },
+            {
+              "id": "open-syllables-06",
+              "number": 6,
+              "title": "OPEN SYLLABLES 06 — The Hotel by the Road",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the focus. A fish sat near the path while Tom checked a small map. The map showed where the bonus and the label should go. First, Tom picked up the tiny and set it beside the hero. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the robot had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the music. A light wind came across camp. The tulip tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the focus, the tiny, and the robot. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The pilot had to go beside the basic. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the focus one last look. The bonus stayed in place, and the label did not tip. A small tiny was still by the path. Tom moved it back beside the hero. The fish came close again. Tom gave it a pat and checked the robot."
+            },
+            {
+              "id": "open-syllables-07",
+              "number": 7,
+              "title": "OPEN SYLLABLES 07 — The Paper on the Desk",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the tiny. A chick sat near the path while Jill checked a small map. The map showed where the hero and the robot should go. First, Jill picked up the music and set it beside the tulip. A back came close and watched. Jill gave it a pat and went back to the job. Next, the pilot had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the basic. A light wind came across camp. The hotel tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the tiny, the music, and the pilot. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The paper had to go beside the zero. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the tiny one last look. The hero stayed in place, and the robot did not tip. A small music was still by the path. Jill moved it back beside the tulip. The chick came close again. Jill gave it a pat and checked the pilot."
+            },
+            {
+              "id": "open-syllables-08",
+              "number": 8,
+              "title": "OPEN SYLLABLES 08 — Zero on the Score",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the music. A back sat near the path while Nick checked a small map. The map showed where the tulip and the pilot should go. First, Nick picked up the basic and set it beside the hotel. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the paper had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the zero. A light wind came across camp. The unit tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the music, the basic, and the paper. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The human had to go beside the silent. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the music one last look. The tulip stayed in place, and the pilot did not tip. A small basic was still by the path. Nick moved it back beside the hotel. The back came close again. Nick gave it a pat and checked the paper."
+            },
+            {
+              "id": "open-syllables-09",
+              "number": 9,
+              "title": "OPEN SYLLABLES 09 — A Unit at Camp",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the basic. A ring sat near the path while Pam checked a small map. The map showed where the hotel and the paper should go. First, Pam picked up the zero and set it beside the unit. A black came close and watched. Pam gave it a pat and went back to the job. Next, the human had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the silent. A light wind came across camp. The final tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the basic, the zero, and the human. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The local had to go beside the student. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the basic one last look. The hotel stayed in place, and the paper did not tip. A small zero was still by the path. Pam moved it back beside the unit. The ring came close again. Pam gave it a pat and checked the human."
+            },
+            {
+              "id": "open-syllables-10",
+              "number": 10,
+              "title": "OPEN SYLLABLES 10 — The Human Robot",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the zero. A black sat near the path while Gus checked a small map. The map showed where the unit and the human should go. First, Gus picked up the silent and set it beside the final. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the local had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the student. A light wind came across camp. The moment tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the zero, the silent, and the local. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The focus had to go beside the bonus. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the zero one last look. The unit stayed in place, and the human did not tip. A small silent was still by the path. Gus moved it back beside the final. The black came close again. Gus gave it a pat and checked the local."
+            },
+            {
+              "id": "open-syllables-11",
+              "number": 11,
+              "title": "OPEN SYLLABLES 11 — A Silent Moment",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the silent. A frog sat near the path while Dot checked a small map. The map showed where the final and the local should go. First, Dot picked up the student and set it beside the moment. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the focus had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the bonus. A light wind came across camp. The label tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the silent, the student, and the focus. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The tiny had to go beside the hero. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the silent one last look. The final stayed in place, and the local did not tip. A small student was still by the path. Dot moved it back beside the moment. The frog came close again. Dot gave it a pat and checked the focus."
+            },
+            {
+              "id": "open-syllables-12",
+              "number": 12,
+              "title": "OPEN SYLLABLES 12 — The Final Map",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the student. A camp sat near the path while Ted checked a small map. The map showed where the moment and the focus should go. First, Ted picked up the bonus and set it beside the label. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the tiny had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the hero. A light wind came across camp. The robot tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the student, the bonus, and the tiny. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The music had to go beside the tulip. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the student one last look. The moment stayed in place, and the focus did not tip. A small bonus was still by the path. Ted moved it back beside the label. The camp came close again. Ted gave it a pat and checked the tiny."
+            },
+            {
+              "id": "open-syllables-13",
+              "number": 13,
+              "title": "OPEN SYLLABLES 13 — The Local Shop",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the bonus. A cake sat near the path while Max checked a small map. The map showed where the label and the tiny should go. First, Max picked up the hero and set it beside the robot. A bike came close and watched. Max gave it a pat and went back to the job. Next, the music had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the tulip. A light wind came across camp. The pilot tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the bonus, the hero, and the music. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The basic had to go beside the hotel. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the bonus one last look. The label stayed in place, and the tiny did not tip. A small hero was still by the path. Max moved it back beside the robot. The cake came close again. Max gave it a pat and checked the music."
+            },
+            {
+              "id": "open-syllables-14",
+              "number": 14,
+              "title": "OPEN SYLLABLES 14 — The Student at Camp",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the hero. A bike sat near the path while Liz checked a small map. The map showed where the robot and the music should go. First, Liz picked up the tulip and set it beside the pilot. A home came close and watched. Liz gave it a pat and went back to the job. Next, the basic had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the hotel. A light wind came across camp. The paper tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the hero, the tulip, and the basic. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The zero had to go beside the unit. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the hero one last look. The robot stayed in place, and the music did not tip. A small tulip was still by the path. Liz moved it back beside the pilot. The bike came close again. Liz gave it a pat and checked the basic."
+            },
+            {
+              "id": "open-syllables-15",
+              "number": 15,
+              "title": "OPEN SYLLABLES 15 — Focus on the Task",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the tulip. A home sat near the path while Cal checked a small map. The map showed where the pilot and the basic should go. First, Cal picked up the hotel and set it beside the paper. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the zero had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the unit. A light wind came across camp. The human tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the tulip, the hotel, and the zero. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The silent had to go beside the final. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the tulip one last look. The pilot stayed in place, and the basic did not tip. A small hotel was still by the path. Cal moved it back beside the paper. The home came close again. Cal gave it a pat and checked the zero."
+            },
+            {
+              "id": "open-syllables-16",
+              "number": 16,
+              "title": "OPEN SYLLABLES 16 — A Bonus Job",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the hotel. A cube sat near the path while Jen checked a small map. The map showed where the paper and the zero should go. First, Jen picked up the unit and set it beside the human. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the silent had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the final. A light wind came across camp. The local tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the hotel, the unit, and the silent. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The student had to go beside the moment. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the hotel one last look. The paper stayed in place, and the zero did not tip. A small unit was still by the path. Jen moved it back beside the human. The cube came close again. Jen gave it a pat and checked the silent."
+            },
+            {
+              "id": "open-syllables-17",
+              "number": 17,
+              "title": "OPEN SYLLABLES 17 — The Label on the Bag",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the unit. A rain sat near the path while Rob checked a small map. The map showed where the human and the silent should go. First, Rob picked up the final and set it beside the local. A green came close and watched. Rob gave it a pat and went back to the job. Next, the student had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the moment. A light wind came across camp. The focus tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the unit, the final, and the student. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The bonus had to go beside the label. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the unit one last look. The human stayed in place, and the silent did not tip. A small final was still by the path. Rob moved it back beside the local. The rain came close again. Rob gave it a pat and checked the student."
+            },
+            {
+              "id": "open-syllables-18",
+              "number": 18,
+              "title": "OPEN SYLLABLES 18 — The Tiny Hero",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the final. A green sat near the path while Nell checked a small map. The map showed where the local and the student should go. First, Nell picked up the moment and set it beside the focus. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the bonus had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the label. A light wind came across camp. The tiny tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the final, the moment, and the bonus. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The hero had to go beside the robot. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the final one last look. The local stayed in place, and the student did not tip. A small moment was still by the path. Nell moved it back beside the focus. The green came close again. Nell gave it a pat and checked the bonus."
+            },
+            {
+              "id": "open-syllables-19",
+              "number": 19,
+              "title": "OPEN SYLLABLES 19 — The Hero at Camp",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the moment. A farm sat near the path while Bill checked a small map. The map showed where the focus and the bonus should go. First, Bill picked up the label and set it beside the tiny. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the hero had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the robot. A light wind came across camp. The music tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the moment, the label, and the hero. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The tulip had to go beside the pilot. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the moment one last look. The focus stayed in place, and the bonus did not tip. A small label was still by the path. Bill moved it back beside the tiny. The farm came close again. Bill gave it a pat and checked the hero."
+            },
+            {
+              "id": "open-syllables-20",
+              "number": 20,
+              "title": "OPEN SYLLABLES 20 — The Last Paper",
+              "skill": "open-syllables",
+              "skillLabel": "Open syllables",
+              "targetPattern": "Open syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the label. A bird sat near the path while Jess checked a small map. The map showed where the tiny and the hero should go. First, Jess picked up the robot and set it beside the music. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the tulip had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the pilot. A light wind came across camp. The basic tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the label, the robot, and the tulip. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The hotel had to go beside the paper. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the label one last look. The tiny stayed in place, and the hero did not tip. A small robot was still by the path. Jess moved it back beside the music. The bird came close again. Jess gave it a pat and checked the tulip."
+            }
+          ]
+        },
+        {
+          "id": "vce-syllables",
+          "label": "VCE syllables",
+          "order": 3,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "vce-syllables-01",
+              "number": 1,
+              "title": "VCE SYLLABLES 01 — Sunshine at Camp",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the sunshine. A cat sat near the path while Sam checked a small map. The map showed where the inside and the mistake should go. First, Sam picked up the complete and set it beside the invite. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the explode had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the athlete. A light wind came across camp. The compete tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the sunshine, the complete, and the explode. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The remote had to go beside the escape. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the sunshine one last look. The inside stayed in place, and the mistake did not tip. A small complete was still by the path. Sam moved it back beside the invite. The cat came close again. Sam gave it a pat and checked the explode."
+            },
+            {
+              "id": "vce-syllables-02",
+              "number": 2,
+              "title": "VCE SYLLABLES 02 — The Inside Map",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the complete. A pig sat near the path while Tim checked a small map. The map showed where the invite and the explode should go. First, Tim picked up the athlete and set it beside the compete. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the remote had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the escape. A light wind came across camp. The cupcake tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the complete, the athlete, and the remote. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The bedtime had to go beside the lifetime. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the complete one last look. The invite stayed in place, and the explode did not tip. A small athlete was still by the path. Tim moved it back beside the compete. The pig came close again. Tim gave it a pat and checked the remote."
+            },
+            {
+              "id": "vce-syllables-03",
+              "number": 3,
+              "title": "VCE SYLLABLES 03 — A Small Mistake",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the athlete. A dog sat near the path while Kim checked a small map. The map showed where the compete and the remote should go. First, Kim picked up the escape and set it beside the cupcake. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the bedtime had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the lifetime. A light wind came across camp. The homemade tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the athlete, the escape, and the bedtime. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The reptile had to go beside the combine. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the athlete one last look. The compete stayed in place, and the remote did not tip. A small escape was still by the path. Kim moved it back beside the cupcake. The dog came close again. Kim gave it a pat and checked the bedtime."
+            },
+            {
+              "id": "vce-syllables-04",
+              "number": 4,
+              "title": "VCE SYLLABLES 04 — Complete the Job",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the escape. A sun sat near the path while Ben checked a small map. The map showed where the cupcake and the bedtime should go. First, Ben picked up the lifetime and set it beside the homemade. A red came close and watched. Ben gave it a pat and went back to the job. Next, the reptile had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the combine. A light wind came across camp. The confide tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the escape, the lifetime, and the reptile. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The translate had to go beside the inflate. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the escape one last look. The cupcake stayed in place, and the bedtime did not tip. A small lifetime was still by the path. Ben moved it back beside the homemade. The sun came close again. Ben gave it a pat and checked the reptile."
+            },
+            {
+              "id": "vce-syllables-05",
+              "number": 5,
+              "title": "VCE SYLLABLES 05 — Invite the Team",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the lifetime. A red sat near the path while Meg checked a small map. The map showed where the homemade and the reptile should go. First, Meg picked up the combine and set it beside the confide. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the translate had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the inflate. A light wind came across camp. The athome tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the lifetime, the combine, and the translate. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The sunshine had to go beside the inside. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the lifetime one last look. The homemade stayed in place, and the reptile did not tip. A small combine was still by the path. Meg moved it back beside the confide. The red came close again. Meg gave it a pat and checked the translate."
+            },
+            {
+              "id": "vce-syllables-06",
+              "number": 6,
+              "title": "VCE SYLLABLES 06 — The Exploding Balloon",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the combine. A fish sat near the path while Tom checked a small map. The map showed where the confide and the translate should go. First, Tom picked up the inflate and set it beside the athome. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the sunshine had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the inside. A light wind came across camp. The mistake tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the combine, the inflate, and the sunshine. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The complete had to go beside the invite. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the combine one last look. The confide stayed in place, and the translate did not tip. A small inflate was still by the path. Tom moved it back beside the athome. The fish came close again. Tom gave it a pat and checked the sunshine."
+            },
+            {
+              "id": "vce-syllables-07",
+              "number": 7,
+              "title": "VCE SYLLABLES 07 — The Athlete at Camp",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the inflate. A chick sat near the path while Jill checked a small map. The map showed where the athome and the sunshine should go. First, Jill picked up the inside and set it beside the mistake. A back came close and watched. Jill gave it a pat and went back to the job. Next, the complete had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the invite. A light wind came across camp. The explode tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the inflate, the inside, and the complete. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The athlete had to go beside the compete. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the inflate one last look. The athome stayed in place, and the sunshine did not tip. A small inside was still by the path. Jill moved it back beside the mistake. The chick came close again. Jill gave it a pat and checked the complete."
+            },
+            {
+              "id": "vce-syllables-08",
+              "number": 8,
+              "title": "VCE SYLLABLES 08 — Compete at the Game",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the inside. A back sat near the path while Nick checked a small map. The map showed where the mistake and the complete should go. First, Nick picked up the invite and set it beside the explode. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the athlete had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the compete. A light wind came across camp. The remote tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the inside, the invite, and the athlete. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The escape had to go beside the cupcake. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the inside one last look. The mistake stayed in place, and the complete did not tip. A small invite was still by the path. Nick moved it back beside the explode. The back came close again. Nick gave it a pat and checked the athlete."
+            },
+            {
+              "id": "vce-syllables-09",
+              "number": 9,
+              "title": "VCE SYLLABLES 09 — The Remote Gate",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the invite. A ring sat near the path while Pam checked a small map. The map showed where the explode and the athlete should go. First, Pam picked up the compete and set it beside the remote. A black came close and watched. Pam gave it a pat and went back to the job. Next, the escape had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the cupcake. A light wind came across camp. The bedtime tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the invite, the compete, and the escape. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The lifetime had to go beside the homemade. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the invite one last look. The explode stayed in place, and the athlete did not tip. A small compete was still by the path. Pam moved it back beside the remote. The ring came close again. Pam gave it a pat and checked the escape."
+            },
+            {
+              "id": "vce-syllables-10",
+              "number": 10,
+              "title": "VCE SYLLABLES 10 — Escape the Mud",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the compete. A black sat near the path while Gus checked a small map. The map showed where the remote and the escape should go. First, Gus picked up the cupcake and set it beside the bedtime. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the lifetime had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the homemade. A light wind came across camp. The reptile tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the compete, the cupcake, and the lifetime. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The combine had to go beside the confide. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the compete one last look. The remote stayed in place, and the escape did not tip. A small cupcake was still by the path. Gus moved it back beside the bedtime. The black came close again. Gus gave it a pat and checked the lifetime."
+            },
+            {
+              "id": "vce-syllables-11",
+              "number": 11,
+              "title": "VCE SYLLABLES 11 — The Cupcake at Lunch",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the cupcake. A frog sat near the path while Dot checked a small map. The map showed where the bedtime and the lifetime should go. First, Dot picked up the homemade and set it beside the reptile. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the combine had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the confide. A light wind came across camp. The translate tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the cupcake, the homemade, and the combine. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The inflate had to go beside the athome. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the cupcake one last look. The bedtime stayed in place, and the lifetime did not tip. A small homemade was still by the path. Dot moved it back beside the reptile. The frog came close again. Dot gave it a pat and checked the combine."
+            },
+            {
+              "id": "vce-syllables-12",
+              "number": 12,
+              "title": "VCE SYLLABLES 12 — Bedtime at Camp",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the homemade. A camp sat near the path while Ted checked a small map. The map showed where the reptile and the combine should go. First, Ted picked up the confide and set it beside the translate. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the inflate had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the athome. A light wind came across camp. The sunshine tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the homemade, the confide, and the inflate. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The inside had to go beside the mistake. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the homemade one last look. The reptile stayed in place, and the combine did not tip. A small confide was still by the path. Ted moved it back beside the translate. The camp came close again. Ted gave it a pat and checked the inflate."
+            },
+            {
+              "id": "vce-syllables-13",
+              "number": 13,
+              "title": "VCE SYLLABLES 13 — A Lifetime Plan",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the confide. A cake sat near the path while Max checked a small map. The map showed where the translate and the inflate should go. First, Max picked up the athome and set it beside the sunshine. A bike came close and watched. Max gave it a pat and went back to the job. Next, the inside had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the mistake. A light wind came across camp. The complete tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the confide, the athome, and the inside. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The invite had to go beside the explode. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the confide one last look. The translate stayed in place, and the inflate did not tip. A small athome was still by the path. Max moved it back beside the sunshine. The cake came close again. Max gave it a pat and checked the inside."
+            },
+            {
+              "id": "vce-syllables-14",
+              "number": 14,
+              "title": "VCE SYLLABLES 14 — The Homemade Sign",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the athome. A bike sat near the path while Liz checked a small map. The map showed where the sunshine and the inside should go. First, Liz picked up the mistake and set it beside the complete. A home came close and watched. Liz gave it a pat and went back to the job. Next, the invite had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the explode. A light wind came across camp. The athlete tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the athome, the mistake, and the invite. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The compete had to go beside the remote. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the athome one last look. The sunshine stayed in place, and the inside did not tip. A small mistake was still by the path. Liz moved it back beside the complete. The bike came close again. Liz gave it a pat and checked the invite."
+            },
+            {
+              "id": "vce-syllables-15",
+              "number": 15,
+              "title": "VCE SYLLABLES 15 — The Reptile by the Pond",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the mistake. A home sat near the path while Cal checked a small map. The map showed where the complete and the invite should go. First, Cal picked up the explode and set it beside the athlete. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the compete had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the remote. A light wind came across camp. The escape tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the mistake, the explode, and the compete. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The cupcake had to go beside the bedtime. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the mistake one last look. The complete stayed in place, and the invite did not tip. A small explode was still by the path. Cal moved it back beside the athlete. The home came close again. Cal gave it a pat and checked the compete."
+            },
+            {
+              "id": "vce-syllables-16",
+              "number": 16,
+              "title": "VCE SYLLABLES 16 — Combine the Parts",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the explode. A cube sat near the path while Jen checked a small map. The map showed where the athlete and the compete should go. First, Jen picked up the remote and set it beside the escape. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the cupcake had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the bedtime. A light wind came across camp. The lifetime tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the explode, the remote, and the cupcake. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The homemade had to go beside the reptile. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the explode one last look. The athlete stayed in place, and the compete did not tip. A small remote was still by the path. Jen moved it back beside the escape. The cube came close again. Jen gave it a pat and checked the cupcake."
+            },
+            {
+              "id": "vce-syllables-17",
+              "number": 17,
+              "title": "VCE SYLLABLES 17 — Confide in a Friend",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the remote. A rain sat near the path while Rob checked a small map. The map showed where the escape and the cupcake should go. First, Rob picked up the bedtime and set it beside the lifetime. A green came close and watched. Rob gave it a pat and went back to the job. Next, the homemade had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the reptile. A light wind came across camp. The combine tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the remote, the bedtime, and the homemade. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The confide had to go beside the translate. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the remote one last look. The escape stayed in place, and the cupcake did not tip. A small bedtime was still by the path. Rob moved it back beside the lifetime. The rain came close again. Rob gave it a pat and checked the homemade."
+            },
+            {
+              "id": "vce-syllables-18",
+              "number": 18,
+              "title": "VCE SYLLABLES 18 — Translate the Note",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the bedtime. A green sat near the path while Nell checked a small map. The map showed where the lifetime and the homemade should go. First, Nell picked up the reptile and set it beside the combine. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the confide had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the translate. A light wind came across camp. The inflate tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the bedtime, the reptile, and the confide. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The athome had to go beside the sunshine. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the bedtime one last look. The lifetime stayed in place, and the homemade did not tip. A small reptile was still by the path. Nell moved it back beside the combine. The green came close again. Nell gave it a pat and checked the confide."
+            },
+            {
+              "id": "vce-syllables-19",
+              "number": 19,
+              "title": "VCE SYLLABLES 19 — Inflate the Ball",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the reptile. A farm sat near the path while Bill checked a small map. The map showed where the combine and the confide should go. First, Bill picked up the translate and set it beside the inflate. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the athome had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the sunshine. A light wind came across camp. The inside tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the reptile, the translate, and the athome. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The mistake had to go beside the complete. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the reptile one last look. The combine stayed in place, and the confide did not tip. A small translate was still by the path. Bill moved it back beside the inflate. The farm came close again. Bill gave it a pat and checked the athome."
+            },
+            {
+              "id": "vce-syllables-20",
+              "number": 20,
+              "title": "VCE SYLLABLES 20 — The Last Sunshine",
+              "skill": "vce-syllables",
+              "skillLabel": "VCE syllables",
+              "targetPattern": "VCE syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the translate. A bird sat near the path while Jess checked a small map. The map showed where the inflate and the athome should go. First, Jess picked up the sunshine and set it beside the inside. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the mistake had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the complete. A light wind came across camp. The invite tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the translate, the sunshine, and the mistake. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The explode had to go beside the athlete. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the translate one last look. The inflate stayed in place, and the athome did not tip. A small sunshine was still by the path. Jess moved it back beside the inside. The bird came close again. Jess gave it a pat and checked the mistake."
+            }
+          ]
+        },
+        {
+          "id": "vowel-team-syllables",
+          "label": "Vowel team syllables",
+          "order": 4,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "vowel-team-syllables-01",
+              "number": 1,
+              "title": "VOWEL TEAM SYLLABLES 01 — The Raincoat by the Door",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the raincoat. A cat sat near the path while Sam checked a small map. The map showed where the seaside and the daylight should go. First, Sam picked up the boatman and set it beside the teacher. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the reading had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the playground. A light wind came across camp. The weekday tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the raincoat, the boatman, and the reading. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The snowman had to go beside the mailbox. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the raincoat one last look. The seaside stayed in place, and the daylight did not tip. A small boatman was still by the path. Sam moved it back beside the teacher. The cat came close again. Sam gave it a pat and checked the reading."
+            },
+            {
+              "id": "vowel-team-syllables-02",
+              "number": 2,
+              "title": "VOWEL TEAM SYLLABLES 02 — A Seaside Trip",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the boatman. A pig sat near the path while Tim checked a small map. The map showed where the teacher and the reading should go. First, Tim picked up the playground and set it beside the weekday. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the snowman had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the mailbox. A light wind came across camp. The peanut tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the boatman, the playground, and the snowman. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The toaster had to go beside the railroad. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the boatman one last look. The teacher stayed in place, and the reading did not tip. A small playground was still by the path. Tim moved it back beside the weekday. The pig came close again. Tim gave it a pat and checked the snowman."
+            },
+            {
+              "id": "vowel-team-syllables-03",
+              "number": 3,
+              "title": "VOWEL TEAM SYLLABLES 03 — Daylight at Camp",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the playground. A dog sat near the path while Kim checked a small map. The map showed where the weekday and the snowman should go. First, Kim picked up the mailbox and set it beside the peanut. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the toaster had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the railroad. A light wind came across camp. The dreaming tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the playground, the mailbox, and the toaster. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The meeting had to go beside the floating. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the playground one last look. The weekday stayed in place, and the snowman did not tip. A small mailbox was still by the path. Kim moved it back beside the peanut. The dog came close again. Kim gave it a pat and checked the toaster."
+            },
+            {
+              "id": "vowel-team-syllables-04",
+              "number": 4,
+              "title": "VOWEL TEAM SYLLABLES 04 — The Boatman",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the mailbox. A sun sat near the path while Ben checked a small map. The map showed where the peanut and the toaster should go. First, Ben picked up the railroad and set it beside the dreaming. A red came close and watched. Ben gave it a pat and went back to the job. Next, the meeting had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the floating. A light wind came across camp. The coastal tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the mailbox, the railroad, and the meeting. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The sunbeam had to go beside the daydream. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the mailbox one last look. The peanut stayed in place, and the toaster did not tip. A small railroad was still by the path. Ben moved it back beside the dreaming. The sun came close again. Ben gave it a pat and checked the meeting."
+            },
+            {
+              "id": "vowel-team-syllables-05",
+              "number": 5,
+              "title": "VOWEL TEAM SYLLABLES 05 — The Teacher's Note",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the railroad. A red sat near the path while Meg checked a small map. The map showed where the dreaming and the meeting should go. First, Meg picked up the floating and set it beside the coastal. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the sunbeam had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the daydream. A light wind came across camp. The roadside tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the railroad, the floating, and the sunbeam. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The raincoat had to go beside the seaside. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the railroad one last look. The dreaming stayed in place, and the meeting did not tip. A small floating was still by the path. Meg moved it back beside the coastal. The red came close again. Meg gave it a pat and checked the sunbeam."
+            },
+            {
+              "id": "vowel-team-syllables-06",
+              "number": 6,
+              "title": "VOWEL TEAM SYLLABLES 06 — Reading by the Lake",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the floating. A fish sat near the path while Tom checked a small map. The map showed where the coastal and the sunbeam should go. First, Tom picked up the daydream and set it beside the roadside. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the raincoat had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the seaside. A light wind came across camp. The daylight tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the floating, the daydream, and the raincoat. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The boatman had to go beside the teacher. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the floating one last look. The coastal stayed in place, and the sunbeam did not tip. A small daydream was still by the path. Tom moved it back beside the roadside. The fish came close again. Tom gave it a pat and checked the raincoat."
+            },
+            {
+              "id": "vowel-team-syllables-07",
+              "number": 7,
+              "title": "VOWEL TEAM SYLLABLES 07 — The Playground Job",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the daydream. A chick sat near the path while Jill checked a small map. The map showed where the roadside and the raincoat should go. First, Jill picked up the seaside and set it beside the daylight. A back came close and watched. Jill gave it a pat and went back to the job. Next, the boatman had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the teacher. A light wind came across camp. The reading tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the daydream, the seaside, and the boatman. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The playground had to go beside the weekday. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the daydream one last look. The roadside stayed in place, and the raincoat did not tip. A small seaside was still by the path. Jill moved it back beside the daylight. The chick came close again. Jill gave it a pat and checked the boatman."
+            },
+            {
+              "id": "vowel-team-syllables-08",
+              "number": 8,
+              "title": "VOWEL TEAM SYLLABLES 08 — A Weekday Trip",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the seaside. A back sat near the path while Nick checked a small map. The map showed where the daylight and the boatman should go. First, Nick picked up the teacher and set it beside the reading. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the playground had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the weekday. A light wind came across camp. The snowman tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the seaside, the teacher, and the playground. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The mailbox had to go beside the peanut. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the seaside one last look. The daylight stayed in place, and the boatman did not tip. A small teacher was still by the path. Nick moved it back beside the reading. The back came close again. Nick gave it a pat and checked the playground."
+            },
+            {
+              "id": "vowel-team-syllables-09",
+              "number": 9,
+              "title": "VOWEL TEAM SYLLABLES 09 — The Snowman at Camp",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the teacher. A ring sat near the path while Pam checked a small map. The map showed where the reading and the playground should go. First, Pam picked up the weekday and set it beside the snowman. A black came close and watched. Pam gave it a pat and went back to the job. Next, the mailbox had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the peanut. A light wind came across camp. The toaster tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the teacher, the weekday, and the mailbox. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The railroad had to go beside the dreaming. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the teacher one last look. The reading stayed in place, and the playground did not tip. A small weekday was still by the path. Pam moved it back beside the snowman. The ring came close again. Pam gave it a pat and checked the mailbox."
+            },
+            {
+              "id": "vowel-team-syllables-10",
+              "number": 10,
+              "title": "VOWEL TEAM SYLLABLES 10 — The Mailbox by the Road",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the weekday. A black sat near the path while Gus checked a small map. The map showed where the snowman and the mailbox should go. First, Gus picked up the peanut and set it beside the toaster. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the railroad had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the dreaming. A light wind came across camp. The meeting tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the weekday, the peanut, and the railroad. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The floating had to go beside the coastal. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the weekday one last look. The snowman stayed in place, and the mailbox did not tip. A small peanut was still by the path. Gus moved it back beside the toaster. The black came close again. Gus gave it a pat and checked the railroad."
+            },
+            {
+              "id": "vowel-team-syllables-11",
+              "number": 11,
+              "title": "VOWEL TEAM SYLLABLES 11 — The Peanut Snack",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the peanut. A frog sat near the path while Dot checked a small map. The map showed where the toaster and the railroad should go. First, Dot picked up the dreaming and set it beside the meeting. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the floating had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the coastal. A light wind came across camp. The sunbeam tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the peanut, the dreaming, and the floating. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The daydream had to go beside the roadside. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the peanut one last look. The toaster stayed in place, and the railroad did not tip. A small dreaming was still by the path. Dot moved it back beside the meeting. The frog came close again. Dot gave it a pat and checked the floating."
+            },
+            {
+              "id": "vowel-team-syllables-12",
+              "number": 12,
+              "title": "VOWEL TEAM SYLLABLES 12 — The Toaster at Camp",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the dreaming. A camp sat near the path while Ted checked a small map. The map showed where the meeting and the floating should go. First, Ted picked up the coastal and set it beside the sunbeam. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the daydream had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the roadside. A light wind came across camp. The raincoat tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the dreaming, the coastal, and the daydream. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The seaside had to go beside the daylight. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the dreaming one last look. The meeting stayed in place, and the floating did not tip. A small coastal was still by the path. Ted moved it back beside the sunbeam. The camp came close again. Ted gave it a pat and checked the daydream."
+            },
+            {
+              "id": "vowel-team-syllables-13",
+              "number": 13,
+              "title": "VOWEL TEAM SYLLABLES 13 — The Railroad Map",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the coastal. A cake sat near the path while Max checked a small map. The map showed where the sunbeam and the daydream should go. First, Max picked up the roadside and set it beside the raincoat. A bike came close and watched. Max gave it a pat and went back to the job. Next, the seaside had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the daylight. A light wind came across camp. The boatman tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the coastal, the roadside, and the seaside. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The teacher had to go beside the reading. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the coastal one last look. The sunbeam stayed in place, and the daydream did not tip. A small roadside was still by the path. Max moved it back beside the raincoat. The cake came close again. Max gave it a pat and checked the seaside."
+            },
+            {
+              "id": "vowel-team-syllables-14",
+              "number": 14,
+              "title": "VOWEL TEAM SYLLABLES 14 — A Dreaming Pup",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the roadside. A bike sat near the path while Liz checked a small map. The map showed where the raincoat and the seaside should go. First, Liz picked up the daylight and set it beside the boatman. A home came close and watched. Liz gave it a pat and went back to the job. Next, the teacher had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the reading. A light wind came across camp. The playground tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the roadside, the daylight, and the teacher. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The weekday had to go beside the snowman. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the roadside one last look. The raincoat stayed in place, and the seaside did not tip. A small daylight was still by the path. Liz moved it back beside the boatman. The bike came close again. Liz gave it a pat and checked the teacher."
+            },
+            {
+              "id": "vowel-team-syllables-15",
+              "number": 15,
+              "title": "VOWEL TEAM SYLLABLES 15 — The Meeting at Noon",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the daylight. A home sat near the path while Cal checked a small map. The map showed where the boatman and the teacher should go. First, Cal picked up the reading and set it beside the playground. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the weekday had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the snowman. A light wind came across camp. The mailbox tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the daylight, the reading, and the weekday. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The peanut had to go beside the toaster. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the daylight one last look. The boatman stayed in place, and the teacher did not tip. A small reading was still by the path. Cal moved it back beside the playground. The home came close again. Cal gave it a pat and checked the weekday."
+            },
+            {
+              "id": "vowel-team-syllables-16",
+              "number": 16,
+              "title": "VOWEL TEAM SYLLABLES 16 — Floating by the Dock",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the reading. A cube sat near the path while Jen checked a small map. The map showed where the playground and the weekday should go. First, Jen picked up the snowman and set it beside the mailbox. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the peanut had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the toaster. A light wind came across camp. The railroad tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the reading, the snowman, and the peanut. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The dreaming had to go beside the meeting. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the reading one last look. The playground stayed in place, and the weekday did not tip. A small snowman was still by the path. Jen moved it back beside the mailbox. The cube came close again. Jen gave it a pat and checked the peanut."
+            },
+            {
+              "id": "vowel-team-syllables-17",
+              "number": 17,
+              "title": "VOWEL TEAM SYLLABLES 17 — The Coastal Path",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the snowman. A rain sat near the path while Rob checked a small map. The map showed where the mailbox and the peanut should go. First, Rob picked up the toaster and set it beside the railroad. A green came close and watched. Rob gave it a pat and went back to the job. Next, the dreaming had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the meeting. A light wind came across camp. The floating tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the snowman, the toaster, and the dreaming. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The coastal had to go beside the sunbeam. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the snowman one last look. The mailbox stayed in place, and the peanut did not tip. A small toaster was still by the path. Rob moved it back beside the railroad. The rain came close again. Rob gave it a pat and checked the dreaming."
+            },
+            {
+              "id": "vowel-team-syllables-18",
+              "number": 18,
+              "title": "VOWEL TEAM SYLLABLES 18 — A Sunbeam in the Tent",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the toaster. A green sat near the path while Nell checked a small map. The map showed where the railroad and the dreaming should go. First, Nell picked up the meeting and set it beside the floating. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the coastal had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the sunbeam. A light wind came across camp. The daydream tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the toaster, the meeting, and the coastal. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The roadside had to go beside the raincoat. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the toaster one last look. The railroad stayed in place, and the dreaming did not tip. A small meeting was still by the path. Nell moved it back beside the floating. The green came close again. Nell gave it a pat and checked the coastal."
+            },
+            {
+              "id": "vowel-team-syllables-19",
+              "number": 19,
+              "title": "VOWEL TEAM SYLLABLES 19 — The Daydream",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the meeting. A farm sat near the path while Bill checked a small map. The map showed where the floating and the coastal should go. First, Bill picked up the sunbeam and set it beside the daydream. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the roadside had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the raincoat. A light wind came across camp. The seaside tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the meeting, the sunbeam, and the roadside. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The daylight had to go beside the boatman. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the meeting one last look. The floating stayed in place, and the coastal did not tip. A small sunbeam was still by the path. Bill moved it back beside the daydream. The farm came close again. Bill gave it a pat and checked the roadside."
+            },
+            {
+              "id": "vowel-team-syllables-20",
+              "number": 20,
+              "title": "VOWEL TEAM SYLLABLES 20 — The Roadside Stop",
+              "skill": "vowel-team-syllables",
+              "skillLabel": "Vowel team syllables",
+              "targetPattern": "Vowel team syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the sunbeam. A bird sat near the path while Jess checked a small map. The map showed where the daydream and the roadside should go. First, Jess picked up the raincoat and set it beside the seaside. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the daylight had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the boatman. A light wind came across camp. The teacher tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the sunbeam, the raincoat, and the daylight. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The reading had to go beside the playground. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the sunbeam one last look. The daydream stayed in place, and the roadside did not tip. A small raincoat was still by the path. Jess moved it back beside the seaside. The bird came close again. Jess gave it a pat and checked the daylight."
+            }
+          ]
+        },
+        {
+          "id": "r-controlled-syllables",
+          "label": "R-controlled syllables",
+          "order": 5,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "r-controlled-syllables-01",
+              "number": 1,
+              "title": "R-CONTROLLED SYLLABLES 01 — The Farmer's Garden",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the farmer. A cat sat near the path while Sam checked a small map. The map showed where the garden and the market should go. First, Sam picked up the corner and set it beside the birthday. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the morning had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the person. A light wind came across camp. The purple tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the farmer, the corner, and the morning. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The winter had to go beside the thirty. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the farmer one last look. The garden stayed in place, and the market did not tip. A small corner was still by the path. Sam moved it back beside the birthday. The cat came close again. Sam gave it a pat and checked the morning."
+            },
+            {
+              "id": "r-controlled-syllables-02",
+              "number": 2,
+              "title": "R-CONTROLLED SYLLABLES 02 — The Market at the Corner",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the corner. A pig sat near the path while Tim checked a small map. The map showed where the birthday and the morning should go. First, Tim picked up the person and set it beside the purple. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the winter had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the thirty. A light wind came across camp. The turkey tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the corner, the person, and the winter. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The artist had to go beside the carpet. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the corner one last look. The birthday stayed in place, and the morning did not tip. A small person was still by the path. Tim moved it back beside the purple. The pig came close again. Tim gave it a pat and checked the winter."
+            },
+            {
+              "id": "r-controlled-syllables-03",
+              "number": 3,
+              "title": "R-CONTROLLED SYLLABLES 03 — A Birthday Morning",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the person. A dog sat near the path while Kim checked a small map. The map showed where the purple and the winter should go. First, Kim picked up the thirty and set it beside the turkey. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the artist had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the carpet. A light wind came across camp. The forest tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the person, the thirty, and the artist. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The harvest had to go beside the partner. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the person one last look. The purple stayed in place, and the winter did not tip. A small thirty was still by the path. Kim moved it back beside the turkey. The dog came close again. Kim gave it a pat and checked the artist."
+            },
+            {
+              "id": "r-controlled-syllables-04",
+              "number": 4,
+              "title": "R-CONTROLLED SYLLABLES 04 — The Purple Carpet",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the thirty. A sun sat near the path while Ben checked a small map. The map showed where the turkey and the artist should go. First, Ben picked up the carpet and set it beside the forest. A red came close and watched. Ben gave it a pat and went back to the job. Next, the harvest had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the partner. A light wind came across camp. The service tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the thirty, the carpet, and the harvest. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The return had to go beside the target. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the thirty one last look. The turkey stayed in place, and the artist did not tip. A small carpet was still by the path. Ben moved it back beside the forest. The sun came close again. Ben gave it a pat and checked the harvest."
+            },
+            {
+              "id": "r-controlled-syllables-05",
+              "number": 5,
+              "title": "R-CONTROLLED SYLLABLES 05 — Winter at Camp",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the carpet. A red sat near the path while Meg checked a small map. The map showed where the forest and the harvest should go. First, Meg picked up the partner and set it beside the service. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the return had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the target. A light wind came across camp. The stormy tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the carpet, the partner, and the return. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The farmer had to go beside the garden. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the carpet one last look. The forest stayed in place, and the harvest did not tip. A small partner was still by the path. Meg moved it back beside the service. The red came close again. Meg gave it a pat and checked the return."
+            },
+            {
+              "id": "r-controlled-syllables-06",
+              "number": 6,
+              "title": "R-CONTROLLED SYLLABLES 06 — Thirty Steps",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the partner. A fish sat near the path while Tom checked a small map. The map showed where the service and the return should go. First, Tom picked up the target and set it beside the stormy. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the farmer had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the garden. A light wind came across camp. The market tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the partner, the target, and the farmer. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The corner had to go beside the birthday. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the partner one last look. The service stayed in place, and the return did not tip. A small target was still by the path. Tom moved it back beside the stormy. The fish came close again. Tom gave it a pat and checked the farmer."
+            },
+            {
+              "id": "r-controlled-syllables-07",
+              "number": 7,
+              "title": "R-CONTROLLED SYLLABLES 07 — The Turkey in the Forest",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the target. A chick sat near the path while Jill checked a small map. The map showed where the stormy and the farmer should go. First, Jill picked up the garden and set it beside the market. A back came close and watched. Jill gave it a pat and went back to the job. Next, the corner had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the birthday. A light wind came across camp. The morning tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the target, the garden, and the corner. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The person had to go beside the purple. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the target one last look. The stormy stayed in place, and the farmer did not tip. A small garden was still by the path. Jill moved it back beside the market. The chick came close again. Jill gave it a pat and checked the corner."
+            },
+            {
+              "id": "r-controlled-syllables-08",
+              "number": 8,
+              "title": "R-CONTROLLED SYLLABLES 08 — The Artist at Camp",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the garden. A back sat near the path while Nick checked a small map. The map showed where the market and the corner should go. First, Nick picked up the birthday and set it beside the morning. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the person had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the purple. A light wind came across camp. The winter tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the garden, the birthday, and the person. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The thirty had to go beside the turkey. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the garden one last look. The market stayed in place, and the corner did not tip. A small birthday was still by the path. Nick moved it back beside the morning. The back came close again. Nick gave it a pat and checked the person."
+            },
+            {
+              "id": "r-controlled-syllables-09",
+              "number": 9,
+              "title": "R-CONTROLLED SYLLABLES 09 — The Harvest Cart",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the birthday. A ring sat near the path while Pam checked a small map. The map showed where the morning and the person should go. First, Pam picked up the purple and set it beside the winter. A black came close and watched. Pam gave it a pat and went back to the job. Next, the thirty had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the turkey. A light wind came across camp. The artist tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the birthday, the purple, and the thirty. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The carpet had to go beside the forest. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the birthday one last look. The morning stayed in place, and the person did not tip. A small purple was still by the path. Pam moved it back beside the winter. The ring came close again. Pam gave it a pat and checked the thirty."
+            },
+            {
+              "id": "r-controlled-syllables-10",
+              "number": 10,
+              "title": "R-CONTROLLED SYLLABLES 10 — A Partner for the Job",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the purple. A black sat near the path while Gus checked a small map. The map showed where the winter and the thirty should go. First, Gus picked up the turkey and set it beside the artist. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the carpet had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the forest. A light wind came across camp. The harvest tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the purple, the turkey, and the carpet. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The partner had to go beside the service. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the purple one last look. The winter stayed in place, and the thirty did not tip. A small turkey was still by the path. Gus moved it back beside the artist. The black came close again. Gus gave it a pat and checked the carpet."
+            },
+            {
+              "id": "r-controlled-syllables-11",
+              "number": 11,
+              "title": "R-CONTROLLED SYLLABLES 11 — The Service Plan",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the turkey. A frog sat near the path while Dot checked a small map. The map showed where the artist and the carpet should go. First, Dot picked up the forest and set it beside the harvest. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the partner had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the service. A light wind came across camp. The return tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the turkey, the forest, and the partner. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The target had to go beside the stormy. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the turkey one last look. The artist stayed in place, and the carpet did not tip. A small forest was still by the path. Dot moved it back beside the harvest. The frog came close again. Dot gave it a pat and checked the partner."
+            },
+            {
+              "id": "r-controlled-syllables-12",
+              "number": 12,
+              "title": "R-CONTROLLED SYLLABLES 12 — Return to the Market",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the forest. A camp sat near the path while Ted checked a small map. The map showed where the harvest and the partner should go. First, Ted picked up the service and set it beside the return. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the target had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the stormy. A light wind came across camp. The farmer tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the forest, the service, and the target. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The garden had to go beside the market. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the forest one last look. The harvest stayed in place, and the partner did not tip. A small service was still by the path. Ted moved it back beside the return. The camp came close again. Ted gave it a pat and checked the target."
+            },
+            {
+              "id": "r-controlled-syllables-13",
+              "number": 13,
+              "title": "R-CONTROLLED SYLLABLES 13 — The Target by the Barn",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the service. A cake sat near the path while Max checked a small map. The map showed where the return and the target should go. First, Max picked up the stormy and set it beside the farmer. A bike came close and watched. Max gave it a pat and went back to the job. Next, the garden had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the market. A light wind came across camp. The corner tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the service, the stormy, and the garden. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The birthday had to go beside the morning. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the service one last look. The return stayed in place, and the target did not tip. A small stormy was still by the path. Max moved it back beside the farmer. The cake came close again. Max gave it a pat and checked the garden."
+            },
+            {
+              "id": "r-controlled-syllables-14",
+              "number": 14,
+              "title": "R-CONTROLLED SYLLABLES 14 — A Stormy Morning",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the stormy. A bike sat near the path while Liz checked a small map. The map showed where the farmer and the garden should go. First, Liz picked up the market and set it beside the corner. A home came close and watched. Liz gave it a pat and went back to the job. Next, the birthday had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the morning. A light wind came across camp. The person tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the stormy, the market, and the birthday. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The purple had to go beside the winter. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the stormy one last look. The farmer stayed in place, and the garden did not tip. A small market was still by the path. Liz moved it back beside the corner. The bike came close again. Liz gave it a pat and checked the birthday."
+            },
+            {
+              "id": "r-controlled-syllables-15",
+              "number": 15,
+              "title": "R-CONTROLLED SYLLABLES 15 — The Corner Garden",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the market. A home sat near the path while Cal checked a small map. The map showed where the corner and the birthday should go. First, Cal picked up the morning and set it beside the person. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the purple had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the winter. A light wind came across camp. The thirty tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the market, the morning, and the purple. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The turkey had to go beside the artist. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the market one last look. The corner stayed in place, and the birthday did not tip. A small morning was still by the path. Cal moved it back beside the person. The home came close again. Cal gave it a pat and checked the purple."
+            },
+            {
+              "id": "r-controlled-syllables-16",
+              "number": 16,
+              "title": "R-CONTROLLED SYLLABLES 16 — The Farmer and the Artist",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the morning. A cube sat near the path while Jen checked a small map. The map showed where the person and the purple should go. First, Jen picked up the winter and set it beside the thirty. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the turkey had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the artist. A light wind came across camp. The carpet tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the morning, the winter, and the turkey. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The forest had to go beside the harvest. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the morning one last look. The person stayed in place, and the purple did not tip. A small winter was still by the path. Jen moved it back beside the thirty. The cube came close again. Jen gave it a pat and checked the turkey."
+            },
+            {
+              "id": "r-controlled-syllables-17",
+              "number": 17,
+              "title": "R-CONTROLLED SYLLABLES 17 — The Winter Market",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the winter. A rain sat near the path while Rob checked a small map. The map showed where the thirty and the turkey should go. First, Rob picked up the artist and set it beside the carpet. A green came close and watched. Rob gave it a pat and went back to the job. Next, the forest had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the harvest. A light wind came across camp. The partner tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the winter, the artist, and the forest. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The service had to go beside the return. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the winter one last look. The thirty stayed in place, and the turkey did not tip. A small artist was still by the path. Rob moved it back beside the carpet. The rain came close again. Rob gave it a pat and checked the forest."
+            },
+            {
+              "id": "r-controlled-syllables-18",
+              "number": 18,
+              "title": "R-CONTROLLED SYLLABLES 18 — A Purple Target",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the artist. A green sat near the path while Nell checked a small map. The map showed where the carpet and the forest should go. First, Nell picked up the harvest and set it beside the partner. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the service had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the return. A light wind came across camp. The target tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the artist, the harvest, and the service. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The stormy had to go beside the farmer. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the artist one last look. The carpet stayed in place, and the forest did not tip. A small harvest was still by the path. Nell moved it back beside the partner. The green came close again. Nell gave it a pat and checked the service."
+            },
+            {
+              "id": "r-controlled-syllables-19",
+              "number": 19,
+              "title": "R-CONTROLLED SYLLABLES 19 — The Turkey and the Carpet",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the harvest. A farm sat near the path while Bill checked a small map. The map showed where the partner and the service should go. First, Bill picked up the return and set it beside the target. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the stormy had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the farmer. A light wind came across camp. The garden tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the harvest, the return, and the stormy. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The market had to go beside the corner. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the harvest one last look. The partner stayed in place, and the service did not tip. A small return was still by the path. Bill moved it back beside the target. The farm came close again. Bill gave it a pat and checked the stormy."
+            },
+            {
+              "id": "r-controlled-syllables-20",
+              "number": 20,
+              "title": "R-CONTROLLED SYLLABLES 20 — The Last Harvest",
+              "skill": "r-controlled-syllables",
+              "skillLabel": "R-controlled syllables",
+              "targetPattern": "R-controlled syllables",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the return. A bird sat near the path while Jess checked a small map. The map showed where the target and the stormy should go. First, Jess picked up the farmer and set it beside the garden. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the market had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the corner. A light wind came across camp. The birthday tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the return, the farmer, and the market. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The morning had to go beside the person. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the return one last look. The target stayed in place, and the stormy did not tip. A small farmer was still by the path. Jess moved it back beside the garden. The bird came close again. Jess gave it a pat and checked the market."
+            }
+          ]
+        },
+        {
+          "id": "consonant-le",
+          "label": "Consonant-le",
+          "order": 6,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "consonant-le-01",
+              "number": 1,
+              "title": "CONSONANT-LE 01 — The Little Table",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the little. A cat sat near the path while Sam checked a small map. The map showed where the table and the candle should go. First, Sam picked up the purple and set it beside the turtle. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the bottle had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the puzzle. A light wind came across camp. The simple tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the little, the purple, and the bottle. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The apple had to go beside the middle. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the little one last look. The table stayed in place, and the candle did not tip. A small purple was still by the path. Sam moved it back beside the turtle. The cat came close again. Sam gave it a pat and checked the bottle."
+            },
+            {
+              "id": "consonant-le-02",
+              "number": 2,
+              "title": "CONSONANT-LE 02 — A Candle at Camp",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the purple. A pig sat near the path while Tim checked a small map. The map showed where the turtle and the bottle should go. First, Tim picked up the puzzle and set it beside the simple. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the apple had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the middle. A light wind came across camp. The jungle tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the purple, the puzzle, and the apple. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The handle had to go beside the bubble. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the purple one last look. The turtle stayed in place, and the bottle did not tip. A small puzzle was still by the path. Tim moved it back beside the simple. The pig came close again. Tim gave it a pat and checked the apple."
+            },
+            {
+              "id": "consonant-le-03",
+              "number": 3,
+              "title": "CONSONANT-LE 03 — The Purple Turtle",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the puzzle. A dog sat near the path while Kim checked a small map. The map showed where the simple and the apple should go. First, Kim picked up the middle and set it beside the jungle. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the handle had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the bubble. A light wind came across camp. The maple tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the puzzle, the middle, and the handle. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The rattle had to go beside the giggle. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the puzzle one last look. The simple stayed in place, and the apple did not tip. A small middle was still by the path. Kim moved it back beside the jungle. The dog came close again. Kim gave it a pat and checked the handle."
+            },
+            {
+              "id": "consonant-le-04",
+              "number": 4,
+              "title": "CONSONANT-LE 04 — The Bottle by the Pond",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the middle. A sun sat near the path while Ben checked a small map. The map showed where the jungle and the handle should go. First, Ben picked up the bubble and set it beside the maple. A red came close and watched. Ben gave it a pat and went back to the job. Next, the rattle had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the giggle. A light wind came across camp. The uncle tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the middle, the bubble, and the rattle. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The cradle had to go beside the staple. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the middle one last look. The jungle stayed in place, and the handle did not tip. A small bubble was still by the path. Ben moved it back beside the maple. The sun came close again. Ben gave it a pat and checked the rattle."
+            },
+            {
+              "id": "consonant-le-05",
+              "number": 5,
+              "title": "CONSONANT-LE 05 — A Puzzle on the Table",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the bubble. A red sat near the path while Meg checked a small map. The map showed where the maple and the rattle should go. First, Meg picked up the giggle and set it beside the uncle. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the cradle had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the staple. A light wind came across camp. The circle tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the bubble, the giggle, and the cradle. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The little had to go beside the table. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the bubble one last look. The maple stayed in place, and the rattle did not tip. A small giggle was still by the path. Meg moved it back beside the uncle. The red came close again. Meg gave it a pat and checked the cradle."
+            },
+            {
+              "id": "consonant-le-06",
+              "number": 6,
+              "title": "CONSONANT-LE 06 — The Simple Plan",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the giggle. A fish sat near the path while Tom checked a small map. The map showed where the uncle and the cradle should go. First, Tom picked up the staple and set it beside the circle. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the little had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the table. A light wind came across camp. The candle tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the giggle, the staple, and the little. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The purple had to go beside the turtle. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the giggle one last look. The uncle stayed in place, and the cradle did not tip. A small staple was still by the path. Tom moved it back beside the circle. The fish came close again. Tom gave it a pat and checked the little."
+            },
+            {
+              "id": "consonant-le-07",
+              "number": 7,
+              "title": "CONSONANT-LE 07 — The Apple in the Bag",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the staple. A chick sat near the path while Jill checked a small map. The map showed where the circle and the little should go. First, Jill picked up the table and set it beside the candle. A back came close and watched. Jill gave it a pat and went back to the job. Next, the purple had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the turtle. A light wind came across camp. The bottle tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the staple, the table, and the purple. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The puzzle had to go beside the simple. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the staple one last look. The circle stayed in place, and the little did not tip. A small table was still by the path. Jill moved it back beside the candle. The chick came close again. Jill gave it a pat and checked the purple."
+            },
+            {
+              "id": "consonant-le-08",
+              "number": 8,
+              "title": "CONSONANT-LE 08 — The Middle of the Path",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the table. A back sat near the path while Nick checked a small map. The map showed where the candle and the purple should go. First, Nick picked up the turtle and set it beside the bottle. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the puzzle had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the simple. A light wind came across camp. The apple tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the table, the turtle, and the puzzle. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The middle had to go beside the jungle. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the table one last look. The candle stayed in place, and the purple did not tip. A small turtle was still by the path. Nick moved it back beside the bottle. The back came close again. Nick gave it a pat and checked the puzzle."
+            },
+            {
+              "id": "consonant-le-09",
+              "number": 9,
+              "title": "CONSONANT-LE 09 — The Jungle Map",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the turtle. A ring sat near the path while Pam checked a small map. The map showed where the bottle and the puzzle should go. First, Pam picked up the simple and set it beside the apple. A black came close and watched. Pam gave it a pat and went back to the job. Next, the middle had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the jungle. A light wind came across camp. The handle tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the turtle, the simple, and the middle. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The bubble had to go beside the maple. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the turtle one last look. The bottle stayed in place, and the puzzle did not tip. A small simple was still by the path. Pam moved it back beside the apple. The ring came close again. Pam gave it a pat and checked the middle."
+            },
+            {
+              "id": "consonant-le-10",
+              "number": 10,
+              "title": "CONSONANT-LE 10 — The Handle on the Cart",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the simple. A black sat near the path while Gus checked a small map. The map showed where the apple and the middle should go. First, Gus picked up the jungle and set it beside the handle. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the bubble had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the maple. A light wind came across camp. The rattle tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the simple, the jungle, and the bubble. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The giggle had to go beside the uncle. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the simple one last look. The apple stayed in place, and the middle did not tip. A small jungle was still by the path. Gus moved it back beside the handle. The black came close again. Gus gave it a pat and checked the bubble."
+            },
+            {
+              "id": "consonant-le-11",
+              "number": 11,
+              "title": "CONSONANT-LE 11 — A Bubble in the Pond",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the jungle. A frog sat near the path while Dot checked a small map. The map showed where the handle and the bubble should go. First, Dot picked up the maple and set it beside the rattle. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the giggle had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the uncle. A light wind came across camp. The cradle tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the jungle, the maple, and the giggle. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The staple had to go beside the circle. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the jungle one last look. The handle stayed in place, and the bubble did not tip. A small maple was still by the path. Dot moved it back beside the rattle. The frog came close again. Dot gave it a pat and checked the giggle."
+            },
+            {
+              "id": "consonant-le-12",
+              "number": 12,
+              "title": "CONSONANT-LE 12 — The Maple Tree",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the maple. A camp sat near the path while Ted checked a small map. The map showed where the rattle and the giggle should go. First, Ted picked up the uncle and set it beside the cradle. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the staple had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the circle. A light wind came across camp. The little tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the maple, the uncle, and the staple. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The table had to go beside the candle. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the maple one last look. The rattle stayed in place, and the giggle did not tip. A small uncle was still by the path. Ted moved it back beside the cradle. The camp came close again. Ted gave it a pat and checked the staple."
+            },
+            {
+              "id": "consonant-le-13",
+              "number": 13,
+              "title": "CONSONANT-LE 13 — The Rattle in the Shed",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the uncle. A cake sat near the path while Max checked a small map. The map showed where the cradle and the staple should go. First, Max picked up the circle and set it beside the little. A bike came close and watched. Max gave it a pat and went back to the job. Next, the table had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the candle. A light wind came across camp. The purple tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the uncle, the circle, and the table. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The turtle had to go beside the bottle. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the uncle one last look. The cradle stayed in place, and the staple did not tip. A small circle was still by the path. Max moved it back beside the little. The cake came close again. Max gave it a pat and checked the table."
+            },
+            {
+              "id": "consonant-le-14",
+              "number": 14,
+              "title": "CONSONANT-LE 14 — A Giggle at Camp",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the circle. A bike sat near the path while Liz checked a small map. The map showed where the little and the table should go. First, Liz picked up the candle and set it beside the purple. A home came close and watched. Liz gave it a pat and went back to the job. Next, the turtle had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the bottle. A light wind came across camp. The puzzle tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the circle, the candle, and the turtle. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The simple had to go beside the apple. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the circle one last look. The little stayed in place, and the table did not tip. A small candle was still by the path. Liz moved it back beside the purple. The bike came close again. Liz gave it a pat and checked the turtle."
+            },
+            {
+              "id": "consonant-le-15",
+              "number": 15,
+              "title": "CONSONANT-LE 15 — Uncle at the Lake",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the candle. A home sat near the path while Cal checked a small map. The map showed where the purple and the turtle should go. First, Cal picked up the bottle and set it beside the puzzle. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the simple had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the apple. A light wind came across camp. The middle tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the candle, the bottle, and the simple. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The jungle had to go beside the handle. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the candle one last look. The purple stayed in place, and the turtle did not tip. A small bottle was still by the path. Cal moved it back beside the puzzle. The home came close again. Cal gave it a pat and checked the simple."
+            },
+            {
+              "id": "consonant-le-16",
+              "number": 16,
+              "title": "CONSONANT-LE 16 — The Cradle by the Tent",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the bottle. A cube sat near the path while Jen checked a small map. The map showed where the puzzle and the simple should go. First, Jen picked up the apple and set it beside the middle. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the jungle had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the handle. A light wind came across camp. The bubble tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the bottle, the apple, and the jungle. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The maple had to go beside the rattle. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the bottle one last look. The puzzle stayed in place, and the simple did not tip. A small apple was still by the path. Jen moved it back beside the middle. The cube came close again. Jen gave it a pat and checked the jungle."
+            },
+            {
+              "id": "consonant-le-17",
+              "number": 17,
+              "title": "CONSONANT-LE 17 — The Staple on the Paper",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the apple. A rain sat near the path while Rob checked a small map. The map showed where the middle and the jungle should go. First, Rob picked up the handle and set it beside the bubble. A green came close and watched. Rob gave it a pat and went back to the job. Next, the maple had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the rattle. A light wind came across camp. The giggle tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the apple, the handle, and the maple. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The uncle had to go beside the cradle. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the apple one last look. The middle stayed in place, and the jungle did not tip. A small handle was still by the path. Rob moved it back beside the bubble. The rain came close again. Rob gave it a pat and checked the maple."
+            },
+            {
+              "id": "consonant-le-18",
+              "number": 18,
+              "title": "CONSONANT-LE 18 — The Circle on the Map",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the handle. A green sat near the path while Nell checked a small map. The map showed where the bubble and the maple should go. First, Nell picked up the rattle and set it beside the giggle. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the uncle had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the cradle. A light wind came across camp. The staple tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the handle, the rattle, and the uncle. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The circle had to go beside the little. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the handle one last look. The bubble stayed in place, and the maple did not tip. A small rattle was still by the path. Nell moved it back beside the giggle. The green came close again. Nell gave it a pat and checked the uncle."
+            },
+            {
+              "id": "consonant-le-19",
+              "number": 19,
+              "title": "CONSONANT-LE 19 — The Turtle and the Apple",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the rattle. A farm sat near the path while Bill checked a small map. The map showed where the giggle and the uncle should go. First, Bill picked up the cradle and set it beside the staple. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the circle had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the little. A light wind came across camp. The table tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the rattle, the cradle, and the circle. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The candle had to go beside the purple. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the rattle one last look. The giggle stayed in place, and the uncle did not tip. A small cradle was still by the path. Bill moved it back beside the staple. The farm came close again. Bill gave it a pat and checked the circle."
+            },
+            {
+              "id": "consonant-le-20",
+              "number": 20,
+              "title": "CONSONANT-LE 20 — The Last Puzzle",
+              "skill": "consonant-le",
+              "skillLabel": "Consonant-le",
+              "targetPattern": "Consonant-le",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the cradle. A bird sat near the path while Jess checked a small map. The map showed where the staple and the circle should go. First, Jess picked up the little and set it beside the table. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the candle had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the purple. A light wind came across camp. The turtle tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the cradle, the little, and the candle. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The bottle had to go beside the puzzle. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the cradle one last look. The staple stayed in place, and the circle did not tip. A small little was still by the path. Jess moved it back beside the table. The bird came close again. Jess gave it a pat and checked the candle."
+            }
+          ]
+        },
+        {
+          "id": "two-syllable-mixed",
+          "label": "Two-syllable mixed",
+          "order": 7,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "two-syllable-mixed-01",
+              "number": 1,
+              "title": "TWO-SYLLABLE MIXED 01 — Sunset at Camp",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the sunset. A cat sat near the path while Sam checked a small map. The map showed where the robot and the raincoat should go. First, Sam picked up the farmer and set it beside the little. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the cupcake had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the picnic. A light wind came across camp. The hotel tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the sunset, the farmer, and the cupcake. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The teacher had to go beside the garden. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the sunset one last look. The robot stayed in place, and the raincoat did not tip. A small farmer was still by the path. Sam moved it back beside the little. The cat came close again. Sam gave it a pat and checked the cupcake."
+            },
+            {
+              "id": "two-syllable-mixed-02",
+              "number": 2,
+              "title": "TWO-SYLLABLE MIXED 02 — The Robot and the Raincoat",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the farmer. A pig sat near the path while Tim checked a small map. The map showed where the little and the cupcake should go. First, Tim picked up the picnic and set it beside the hotel. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the teacher had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the garden. A light wind came across camp. The kitten tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the farmer, the picnic, and the teacher. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The paper had to go beside the daylight. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the farmer one last look. The little stayed in place, and the cupcake did not tip. A small picnic was still by the path. Tim moved it back beside the hotel. The pig came close again. Tim gave it a pat and checked the teacher."
+            },
+            {
+              "id": "two-syllable-mixed-03",
+              "number": 3,
+              "title": "TWO-SYLLABLE MIXED 03 — The Farmer's Cupcake",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the picnic. A dog sat near the path while Kim checked a small map. The map showed where the hotel and the teacher should go. First, Kim picked up the garden and set it beside the kitten. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the paper had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the daylight. A light wind came across camp. The market tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the picnic, the garden, and the paper. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The turtle had to go beside the inside. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the picnic one last look. The hotel stayed in place, and the teacher did not tip. A small garden was still by the path. Kim moved it back beside the kitten. The dog came close again. Kim gave it a pat and checked the paper."
+            },
+            {
+              "id": "two-syllable-mixed-04",
+              "number": 4,
+              "title": "TWO-SYLLABLE MIXED 04 — A Picnic at the Hotel",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the garden. A sun sat near the path while Ben checked a small map. The map showed where the kitten and the paper should go. First, Ben picked up the daylight and set it beside the market. A red came close and watched. Ben gave it a pat and went back to the job. Next, the turtle had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the inside. A light wind came across camp. The napkin tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the garden, the daylight, and the turtle. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The music had to go beside the mailbox. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the garden one last look. The kitten stayed in place, and the paper did not tip. A small daylight was still by the path. Ben moved it back beside the market. The sun came close again. Ben gave it a pat and checked the turtle."
+            },
+            {
+              "id": "two-syllable-mixed-05",
+              "number": 5,
+              "title": "TWO-SYLLABLE MIXED 05 — The Teacher's Garden",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the daylight. A red sat near the path while Meg checked a small map. The map showed where the market and the turtle should go. First, Meg picked up the inside and set it beside the napkin. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the music had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the mailbox. A light wind came across camp. The purple tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the daylight, the inside, and the music. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The sunset had to go beside the robot. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the daylight one last look. The market stayed in place, and the turtle did not tip. A small inside was still by the path. Meg moved it back beside the napkin. The red came close again. Meg gave it a pat and checked the music."
+            },
+            {
+              "id": "two-syllable-mixed-06",
+              "number": 6,
+              "title": "TWO-SYLLABLE MIXED 06 — The Kitten and the Paper",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the inside. A fish sat near the path while Tom checked a small map. The map showed where the napkin and the music should go. First, Tom picked up the mailbox and set it beside the purple. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the sunset had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the robot. A light wind came across camp. The raincoat tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the inside, the mailbox, and the sunset. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The farmer had to go beside the little. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the inside one last look. The napkin stayed in place, and the music did not tip. A small mailbox was still by the path. Tom moved it back beside the purple. The fish came close again. Tom gave it a pat and checked the sunset."
+            },
+            {
+              "id": "two-syllable-mixed-07",
+              "number": 7,
+              "title": "TWO-SYLLABLE MIXED 07 — Daylight at the Market",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the mailbox. A chick sat near the path while Jill checked a small map. The map showed where the purple and the sunset should go. First, Jill picked up the robot and set it beside the raincoat. A back came close and watched. Jill gave it a pat and went back to the job. Next, the farmer had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the little. A light wind came across camp. The cupcake tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the mailbox, the robot, and the farmer. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The picnic had to go beside the hotel. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the mailbox one last look. The purple stayed in place, and the sunset did not tip. A small robot was still by the path. Jill moved it back beside the raincoat. The chick came close again. Jill gave it a pat and checked the farmer."
+            },
+            {
+              "id": "two-syllable-mixed-08",
+              "number": 8,
+              "title": "TWO-SYLLABLE MIXED 08 — The Turtle Inside",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the robot. A back sat near the path while Nick checked a small map. The map showed where the raincoat and the farmer should go. First, Nick picked up the little and set it beside the cupcake. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the picnic had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the hotel. A light wind came across camp. The teacher tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the robot, the little, and the picnic. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The garden had to go beside the kitten. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the robot one last look. The raincoat stayed in place, and the farmer did not tip. A small little was still by the path. Nick moved it back beside the cupcake. The back came close again. Nick gave it a pat and checked the picnic."
+            },
+            {
+              "id": "two-syllable-mixed-09",
+              "number": 9,
+              "title": "TWO-SYLLABLE MIXED 09 — The Napkin by the Music Stand",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the little. A ring sat near the path while Pam checked a small map. The map showed where the cupcake and the picnic should go. First, Pam picked up the hotel and set it beside the teacher. A black came close and watched. Pam gave it a pat and went back to the job. Next, the garden had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the kitten. A light wind came across camp. The paper tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the little, the hotel, and the garden. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The daylight had to go beside the market. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the little one last look. The cupcake stayed in place, and the picnic did not tip. A small hotel was still by the path. Pam moved it back beside the teacher. The ring came close again. Pam gave it a pat and checked the garden."
+            },
+            {
+              "id": "two-syllable-mixed-10",
+              "number": 10,
+              "title": "TWO-SYLLABLE MIXED 10 — The Purple Mailbox",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the hotel. A black sat near the path while Gus checked a small map. The map showed where the teacher and the garden should go. First, Gus picked up the kitten and set it beside the paper. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the daylight had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the market. A light wind came across camp. The turtle tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the hotel, the kitten, and the daylight. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The inside had to go beside the napkin. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the hotel one last look. The teacher stayed in place, and the garden did not tip. A small kitten was still by the path. Gus moved it back beside the paper. The black came close again. Gus gave it a pat and checked the daylight."
+            },
+            {
+              "id": "two-syllable-mixed-11",
+              "number": 11,
+              "title": "TWO-SYLLABLE MIXED 11 — The Robot at Sunset",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the kitten. A frog sat near the path while Dot checked a small map. The map showed where the paper and the daylight should go. First, Dot picked up the market and set it beside the turtle. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the inside had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the napkin. A light wind came across camp. The music tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the kitten, the market, and the inside. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The mailbox had to go beside the purple. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the kitten one last look. The paper stayed in place, and the daylight did not tip. A small market was still by the path. Dot moved it back beside the turtle. The frog came close again. Dot gave it a pat and checked the inside."
+            },
+            {
+              "id": "two-syllable-mixed-12",
+              "number": 12,
+              "title": "TWO-SYLLABLE MIXED 12 — A Raincoat for the Farmer",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the market. A camp sat near the path while Ted checked a small map. The map showed where the turtle and the inside should go. First, Ted picked up the napkin and set it beside the music. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the mailbox had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the purple. A light wind came across camp. The sunset tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the market, the napkin, and the mailbox. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The robot had to go beside the raincoat. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the market one last look. The turtle stayed in place, and the inside did not tip. A small napkin was still by the path. Ted moved it back beside the music. The camp came close again. Ted gave it a pat and checked the mailbox."
+            },
+            {
+              "id": "two-syllable-mixed-13",
+              "number": 13,
+              "title": "TWO-SYLLABLE MIXED 13 — The Cupcake Picnic",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the napkin. A cake sat near the path while Max checked a small map. The map showed where the music and the mailbox should go. First, Max picked up the purple and set it beside the sunset. A bike came close and watched. Max gave it a pat and went back to the job. Next, the robot had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the raincoat. A light wind came across camp. The farmer tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the napkin, the purple, and the robot. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The little had to go beside the cupcake. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the napkin one last look. The music stayed in place, and the mailbox did not tip. A small purple was still by the path. Max moved it back beside the sunset. The cake came close again. Max gave it a pat and checked the robot."
+            },
+            {
+              "id": "two-syllable-mixed-14",
+              "number": 14,
+              "title": "TWO-SYLLABLE MIXED 14 — The Hotel Teacher",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the purple. A bike sat near the path while Liz checked a small map. The map showed where the sunset and the robot should go. First, Liz picked up the raincoat and set it beside the farmer. A home came close and watched. Liz gave it a pat and went back to the job. Next, the little had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the cupcake. A light wind came across camp. The picnic tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the purple, the raincoat, and the little. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The hotel had to go beside the teacher. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the purple one last look. The sunset stayed in place, and the robot did not tip. A small raincoat was still by the path. Liz moved it back beside the farmer. The bike came close again. Liz gave it a pat and checked the little."
+            },
+            {
+              "id": "two-syllable-mixed-15",
+              "number": 15,
+              "title": "TWO-SYLLABLE MIXED 15 — A Garden for the Kitten",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the raincoat. A home sat near the path while Cal checked a small map. The map showed where the farmer and the little should go. First, Cal picked up the cupcake and set it beside the picnic. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the hotel had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the teacher. A light wind came across camp. The garden tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the raincoat, the cupcake, and the hotel. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The kitten had to go beside the paper. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the raincoat one last look. The farmer stayed in place, and the little did not tip. A small cupcake was still by the path. Cal moved it back beside the picnic. The home came close again. Cal gave it a pat and checked the hotel."
+            },
+            {
+              "id": "two-syllable-mixed-16",
+              "number": 16,
+              "title": "TWO-SYLLABLE MIXED 16 — Paper in Daylight",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the cupcake. A cube sat near the path while Jen checked a small map. The map showed where the picnic and the hotel should go. First, Jen picked up the teacher and set it beside the garden. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the kitten had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the paper. A light wind came across camp. The daylight tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the cupcake, the teacher, and the kitten. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The market had to go beside the turtle. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the cupcake one last look. The picnic stayed in place, and the hotel did not tip. A small teacher was still by the path. Jen moved it back beside the garden. The cube came close again. Jen gave it a pat and checked the kitten."
+            },
+            {
+              "id": "two-syllable-mixed-17",
+              "number": 17,
+              "title": "TWO-SYLLABLE MIXED 17 — The Market Turtle",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the teacher. A rain sat near the path while Rob checked a small map. The map showed where the garden and the kitten should go. First, Rob picked up the paper and set it beside the daylight. A green came close and watched. Rob gave it a pat and went back to the job. Next, the market had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the turtle. A light wind came across camp. The inside tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the teacher, the paper, and the market. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The napkin had to go beside the music. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the teacher one last look. The garden stayed in place, and the kitten did not tip. A small paper was still by the path. Rob moved it back beside the daylight. The rain came close again. Rob gave it a pat and checked the market."
+            },
+            {
+              "id": "two-syllable-mixed-18",
+              "number": 18,
+              "title": "TWO-SYLLABLE MIXED 18 — Inside the Mailbox",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the paper. A green sat near the path while Nell checked a small map. The map showed where the daylight and the market should go. First, Nell picked up the turtle and set it beside the inside. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the napkin had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the music. A light wind came across camp. The mailbox tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the paper, the turtle, and the napkin. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The purple had to go beside the sunset. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the paper one last look. The daylight stayed in place, and the market did not tip. A small turtle was still by the path. Nell moved it back beside the inside. The green came close again. Nell gave it a pat and checked the napkin."
+            },
+            {
+              "id": "two-syllable-mixed-19",
+              "number": 19,
+              "title": "TWO-SYLLABLE MIXED 19 — Music at Sunset",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the turtle. A farm sat near the path while Bill checked a small map. The map showed where the inside and the napkin should go. First, Bill picked up the music and set it beside the mailbox. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the purple had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the sunset. A light wind came across camp. The robot tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the turtle, the music, and the purple. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The raincoat had to go beside the farmer. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the turtle one last look. The inside stayed in place, and the napkin did not tip. A small music was still by the path. Bill moved it back beside the mailbox. The farm came close again. Bill gave it a pat and checked the purple."
+            },
+            {
+              "id": "two-syllable-mixed-20",
+              "number": 20,
+              "title": "TWO-SYLLABLE MIXED 20 — The Last Two-Syllable Trip",
+              "skill": "two-syllable-mixed",
+              "skillLabel": "Two-syllable mixed",
+              "targetPattern": "Two-syllable mixed",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the music. A bird sat near the path while Jess checked a small map. The map showed where the mailbox and the purple should go. First, Jess picked up the sunset and set it beside the robot. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the raincoat had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the farmer. A light wind came across camp. The little tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the music, the sunset, and the raincoat. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The cupcake had to go beside the picnic. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the music one last look. The mailbox stayed in place, and the purple did not tip. A small sunset was still by the path. Jess moved it back beside the robot. The bird came close again. Jess gave it a pat and checked the raincoat."
+            }
+          ]
+        },
+        {
+          "id": "three-syllable",
+          "label": "Three-syllable words",
+          "order": 8,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "three-syllable-01",
+              "number": 1,
+              "title": "THREE-SYLLABLE WORDS 01 — The Animal at Camp",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Sam had a plan for the day. The main job involved the animal. A cat sat near the path while Sam checked a small map. The map showed where the banana and the computer should go. First, Sam picked up the tomato and set it beside the family. A pig came close and watched. Sam gave it a pat and went back to the job. Next, the calendar had to be moved. It was not far, but it was in the wrong place. Sam carried it past the shed and put it by the holiday. A light wind came across camp. The elephant tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the animal, the tomato, and the calendar. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The hospital had to go beside the remember. Sam did the job step by step and did not rush. At last, the path was clear and the work was done. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy day, but the plan had worked. Sam gave the animal one last look. The banana stayed in place, and the computer did not tip. A small tomato was still by the path. Sam moved it back beside the family. The cat came close again. Sam gave it a pat and checked the calendar."
+            },
+            {
+              "id": "three-syllable-02",
+              "number": 2,
+              "title": "THREE-SYLLABLE WORDS 02 — A Banana for Lunch",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tim had a plan for the day. The main job involved the tomato. A pig sat near the path while Tim checked a small map. The map showed where the family and the calendar should go. First, Tim picked up the holiday and set it beside the elephant. A dog came close and watched. Tim gave it a pat and went back to the job. Next, the hospital had to be moved. It was not far, but it was in the wrong place. Tim carried it past the shed and put it by the remember. A light wind came across camp. The adventure tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the tomato, the holiday, and the hospital. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The energy had to go beside the important. Tim did the job step by step and did not rush. At last, the path was clear and the work was done. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy day, but the plan had worked. Tim gave the tomato one last look. The family stayed in place, and the calendar did not tip. A small holiday was still by the path. Tim moved it back beside the elephant. The pig came close again. Tim gave it a pat and checked the hospital."
+            },
+            {
+              "id": "three-syllable-03",
+              "number": 3,
+              "title": "THREE-SYLLABLE WORDS 03 — The Computer Map",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Kim had a plan for the day. The main job involved the holiday. A dog sat near the path while Kim checked a small map. The map showed where the elephant and the hospital should go. First, Kim picked up the remember and set it beside the adventure. A sun came close and watched. Kim gave it a pat and went back to the job. Next, the energy had to be moved. It was not far, but it was in the wrong place. Kim carried it past the shed and put it by the important. A light wind came across camp. The telephone tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the holiday, the remember, and the energy. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The butterfly had to go beside the yesterday. Kim did the job step by step and did not rush. At last, the path was clear and the work was done. The chick sat on a mat. The back rested by the shed. Kim smiled. It had been a busy day, but the plan had worked. Kim gave the holiday one last look. The elephant stayed in place, and the hospital did not tip. A small remember was still by the path. Kim moved it back beside the adventure. The dog came close again. Kim gave it a pat and checked the energy."
+            },
+            {
+              "id": "three-syllable-04",
+              "number": 4,
+              "title": "THREE-SYLLABLE WORDS 04 — The Tomato Garden",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ben had a plan for the day. The main job involved the remember. A sun sat near the path while Ben checked a small map. The map showed where the adventure and the energy should go. First, Ben picked up the important and set it beside the telephone. A red came close and watched. Ben gave it a pat and went back to the job. Next, the butterfly had to be moved. It was not far, but it was in the wrong place. Ben carried it past the shed and put it by the yesterday. A light wind came across camp. The Saturday tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the remember, the important, and the butterfly. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The wonderful had to go beside the exercise. Ben did the job step by step and did not rush. At last, the path was clear and the work was done. The back sat on a mat. The ring rested by the shed. Ben smiled. It had been a busy day, but the plan had worked. Ben gave the remember one last look. The adventure stayed in place, and the energy did not tip. A small important was still by the path. Ben moved it back beside the telephone. The sun came close again. Ben gave it a pat and checked the butterfly."
+            },
+            {
+              "id": "three-syllable-05",
+              "number": 5,
+              "title": "THREE-SYLLABLE WORDS 05 — A Family Trip",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Meg had a plan for the day. The main job involved the important. A red sat near the path while Meg checked a small map. The map showed where the telephone and the butterfly should go. First, Meg picked up the yesterday and set it beside the Saturday. A fish came close and watched. Meg gave it a pat and went back to the job. Next, the wonderful had to be moved. It was not far, but it was in the wrong place. Meg carried it past the shed and put it by the exercise. A light wind came across camp. The together tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the important, the yesterday, and the wonderful. All three were set. The back came back, but it did not get in the way. Meg still had one last task. The animal had to go beside the banana. Meg did the job step by step and did not rush. At last, the path was clear and the work was done. The ring sat on a mat. The black rested by the shed. Meg smiled. It had been a busy day, but the plan had worked. Meg gave the important one last look. The telephone stayed in place, and the butterfly did not tip. A small yesterday was still by the path. Meg moved it back beside the Saturday. The red came close again. Meg gave it a pat and checked the wonderful."
+            },
+            {
+              "id": "three-syllable-06",
+              "number": 6,
+              "title": "THREE-SYLLABLE WORDS 06 — The Calendar at Camp",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Tom had a plan for the day. The main job involved the yesterday. A fish sat near the path while Tom checked a small map. The map showed where the Saturday and the wonderful should go. First, Tom picked up the exercise and set it beside the together. A chick came close and watched. Tom gave it a pat and went back to the job. Next, the animal had to be moved. It was not far, but it was in the wrong place. Tom carried it past the shed and put it by the banana. A light wind came across camp. The computer tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The back stayed nearby. After the rest, Tom checked the yesterday, the exercise, and the animal. All three were set. The ring came back, but it did not get in the way. Tom still had one last task. The tomato had to go beside the family. Tom did the job step by step and did not rush. At last, the path was clear and the work was done. The black sat on a mat. The frog rested by the shed. Tom smiled. It had been a busy day, but the plan had worked. Tom gave the yesterday one last look. The Saturday stayed in place, and the wonderful did not tip. A small exercise was still by the path. Tom moved it back beside the together. The fish came close again. Tom gave it a pat and checked the animal."
+            },
+            {
+              "id": "three-syllable-07",
+              "number": 7,
+              "title": "THREE-SYLLABLE WORDS 07 — The Holiday Plan",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jill had a plan for the day. The main job involved the exercise. A chick sat near the path while Jill checked a small map. The map showed where the together and the animal should go. First, Jill picked up the banana and set it beside the computer. A back came close and watched. Jill gave it a pat and went back to the job. Next, the tomato had to be moved. It was not far, but it was in the wrong place. Jill carried it past the shed and put it by the family. A light wind came across camp. The calendar tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The ring stayed nearby. After the rest, Jill checked the exercise, the banana, and the tomato. All three were set. The black came back, but it did not get in the way. Jill still had one last task. The holiday had to go beside the elephant. Jill did the job step by step and did not rush. At last, the path was clear and the work was done. The frog sat on a mat. The camp rested by the shed. Jill smiled. It had been a busy day, but the plan had worked. Jill gave the exercise one last look. The together stayed in place, and the animal did not tip. A small banana was still by the path. Jill moved it back beside the computer. The chick came close again. Jill gave it a pat and checked the tomato."
+            },
+            {
+              "id": "three-syllable-08",
+              "number": 8,
+              "title": "THREE-SYLLABLE WORDS 08 — The Elephant Story",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nick had a plan for the day. The main job involved the banana. A back sat near the path while Nick checked a small map. The map showed where the computer and the tomato should go. First, Nick picked up the family and set it beside the calendar. A ring came close and watched. Nick gave it a pat and went back to the job. Next, the holiday had to be moved. It was not far, but it was in the wrong place. Nick carried it past the shed and put it by the elephant. A light wind came across camp. The hospital tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The black stayed nearby. After the rest, Nick checked the banana, the family, and the holiday. All three were set. The frog came back, but it did not get in the way. Nick still had one last task. The remember had to go beside the adventure. Nick did the job step by step and did not rush. At last, the path was clear and the work was done. The camp sat on a mat. The cake rested by the shed. Nick smiled. It had been a busy day, but the plan had worked. Nick gave the banana one last look. The computer stayed in place, and the tomato did not tip. A small family was still by the path. Nick moved it back beside the calendar. The back came close again. Nick gave it a pat and checked the holiday."
+            },
+            {
+              "id": "three-syllable-09",
+              "number": 9,
+              "title": "THREE-SYLLABLE WORDS 09 — The Hospital Visit",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Pam had a plan for the day. The main job involved the family. A ring sat near the path while Pam checked a small map. The map showed where the calendar and the holiday should go. First, Pam picked up the elephant and set it beside the hospital. A black came close and watched. Pam gave it a pat and went back to the job. Next, the remember had to be moved. It was not far, but it was in the wrong place. Pam carried it past the shed and put it by the adventure. A light wind came across camp. The energy tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The frog stayed nearby. After the rest, Pam checked the family, the elephant, and the remember. All three were set. The camp came back, but it did not get in the way. Pam still had one last task. The important had to go beside the telephone. Pam did the job step by step and did not rush. At last, the path was clear and the work was done. The cake sat on a mat. The bike rested by the shed. Pam smiled. It had been a busy day, but the plan had worked. Pam gave the family one last look. The calendar stayed in place, and the holiday did not tip. A small elephant was still by the path. Pam moved it back beside the hospital. The ring came close again. Pam gave it a pat and checked the remember."
+            },
+            {
+              "id": "three-syllable-10",
+              "number": 10,
+              "title": "THREE-SYLLABLE WORDS 10 — Remember the Map",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Gus had a plan for the day. The main job involved the elephant. A black sat near the path while Gus checked a small map. The map showed where the hospital and the remember should go. First, Gus picked up the adventure and set it beside the energy. A frog came close and watched. Gus gave it a pat and went back to the job. Next, the important had to be moved. It was not far, but it was in the wrong place. Gus carried it past the shed and put it by the telephone. A light wind came across camp. The butterfly tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The camp stayed nearby. After the rest, Gus checked the elephant, the adventure, and the important. All three were set. The cake came back, but it did not get in the way. Gus still had one last task. The yesterday had to go beside the Saturday. Gus did the job step by step and did not rush. At last, the path was clear and the work was done. The bike sat on a mat. The home rested by the shed. Gus smiled. It had been a busy day, but the plan had worked. Gus gave the elephant one last look. The hospital stayed in place, and the remember did not tip. A small adventure was still by the path. Gus moved it back beside the energy. The black came close again. Gus gave it a pat and checked the important."
+            },
+            {
+              "id": "three-syllable-11",
+              "number": 11,
+              "title": "THREE-SYLLABLE WORDS 11 — The Adventure Trail",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Dot had a plan for the day. The main job involved the adventure. A frog sat near the path while Dot checked a small map. The map showed where the energy and the important should go. First, Dot picked up the telephone and set it beside the butterfly. A camp came close and watched. Dot gave it a pat and went back to the job. Next, the yesterday had to be moved. It was not far, but it was in the wrong place. Dot carried it past the shed and put it by the Saturday. A light wind came across camp. The wonderful tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The cake stayed nearby. After the rest, Dot checked the adventure, the telephone, and the yesterday. All three were set. The bike came back, but it did not get in the way. Dot still had one last task. The exercise had to go beside the together. Dot did the job step by step and did not rush. At last, the path was clear and the work was done. The home sat on a mat. The cube rested by the shed. Dot smiled. It had been a busy day, but the plan had worked. Dot gave the adventure one last look. The energy stayed in place, and the important did not tip. A small telephone was still by the path. Dot moved it back beside the butterfly. The frog came close again. Dot gave it a pat and checked the yesterday."
+            },
+            {
+              "id": "three-syllable-12",
+              "number": 12,
+              "title": "THREE-SYLLABLE WORDS 12 — Energy for the Hike",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Ted had a plan for the day. The main job involved the telephone. A camp sat near the path while Ted checked a small map. The map showed where the butterfly and the yesterday should go. First, Ted picked up the Saturday and set it beside the wonderful. A cake came close and watched. Ted gave it a pat and went back to the job. Next, the exercise had to be moved. It was not far, but it was in the wrong place. Ted carried it past the shed and put it by the together. A light wind came across camp. The animal tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The bike stayed nearby. After the rest, Ted checked the telephone, the Saturday, and the exercise. All three were set. The home came back, but it did not get in the way. Ted still had one last task. The banana had to go beside the computer. Ted did the job step by step and did not rush. At last, the path was clear and the work was done. The cube sat on a mat. The rain rested by the shed. Ted smiled. It had been a busy day, but the plan had worked. Ted gave the telephone one last look. The butterfly stayed in place, and the yesterday did not tip. A small Saturday was still by the path. Ted moved it back beside the wonderful. The camp came close again. Ted gave it a pat and checked the exercise."
+            },
+            {
+              "id": "three-syllable-13",
+              "number": 13,
+              "title": "THREE-SYLLABLE WORDS 13 — An Important Note",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Max had a plan for the day. The main job involved the Saturday. A cake sat near the path while Max checked a small map. The map showed where the wonderful and the exercise should go. First, Max picked up the together and set it beside the animal. A bike came close and watched. Max gave it a pat and went back to the job. Next, the banana had to be moved. It was not far, but it was in the wrong place. Max carried it past the shed and put it by the computer. A light wind came across camp. The tomato tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The home stayed nearby. After the rest, Max checked the Saturday, the together, and the banana. All three were set. The cube came back, but it did not get in the way. Max still had one last task. The family had to go beside the calendar. Max did the job step by step and did not rush. At last, the path was clear and the work was done. The rain sat on a mat. The green rested by the shed. Max smiled. It had been a busy day, but the plan had worked. Max gave the Saturday one last look. The wonderful stayed in place, and the exercise did not tip. A small together was still by the path. Max moved it back beside the animal. The cake came close again. Max gave it a pat and checked the banana."
+            },
+            {
+              "id": "three-syllable-14",
+              "number": 14,
+              "title": "THREE-SYLLABLE WORDS 14 — The Telephone Call",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Liz had a plan for the day. The main job involved the together. A bike sat near the path while Liz checked a small map. The map showed where the animal and the banana should go. First, Liz picked up the computer and set it beside the tomato. A home came close and watched. Liz gave it a pat and went back to the job. Next, the family had to be moved. It was not far, but it was in the wrong place. Liz carried it past the shed and put it by the calendar. A light wind came across camp. The holiday tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The cube stayed nearby. After the rest, Liz checked the together, the computer, and the family. All three were set. The rain came back, but it did not get in the way. Liz still had one last task. The elephant had to go beside the hospital. Liz did the job step by step and did not rush. At last, the path was clear and the work was done. The green sat on a mat. The farm rested by the shed. Liz smiled. It had been a busy day, but the plan had worked. Liz gave the together one last look. The animal stayed in place, and the banana did not tip. A small computer was still by the path. Liz moved it back beside the tomato. The bike came close again. Liz gave it a pat and checked the family."
+            },
+            {
+              "id": "three-syllable-15",
+              "number": 15,
+              "title": "THREE-SYLLABLE WORDS 15 — The Butterfly by the Lake",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Cal had a plan for the day. The main job involved the computer. A home sat near the path while Cal checked a small map. The map showed where the tomato and the family should go. First, Cal picked up the calendar and set it beside the holiday. A cube came close and watched. Cal gave it a pat and went back to the job. Next, the elephant had to be moved. It was not far, but it was in the wrong place. Cal carried it past the shed and put it by the hospital. A light wind came across camp. The remember tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The rain stayed nearby. After the rest, Cal checked the computer, the calendar, and the elephant. All three were set. The green came back, but it did not get in the way. Cal still had one last task. The adventure had to go beside the energy. Cal did the job step by step and did not rush. At last, the path was clear and the work was done. The farm sat on a mat. The bird rested by the shed. Cal smiled. It had been a busy day, but the plan had worked. Cal gave the computer one last look. The tomato stayed in place, and the family did not tip. A small calendar was still by the path. Cal moved it back beside the holiday. The home came close again. Cal gave it a pat and checked the elephant."
+            },
+            {
+              "id": "three-syllable-16",
+              "number": 16,
+              "title": "THREE-SYLLABLE WORDS 16 — Yesterday at Camp",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jen had a plan for the day. The main job involved the calendar. A cube sat near the path while Jen checked a small map. The map showed where the holiday and the elephant should go. First, Jen picked up the hospital and set it beside the remember. A rain came close and watched. Jen gave it a pat and went back to the job. Next, the adventure had to be moved. It was not far, but it was in the wrong place. Jen carried it past the shed and put it by the energy. A light wind came across camp. The important tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The green stayed nearby. After the rest, Jen checked the calendar, the hospital, and the adventure. All three were set. The farm came back, but it did not get in the way. Jen still had one last task. The telephone had to go beside the butterfly. Jen did the job step by step and did not rush. At last, the path was clear and the work was done. The bird sat on a mat. The cat rested by the shed. Jen smiled. It had been a busy day, but the plan had worked. Jen gave the calendar one last look. The holiday stayed in place, and the elephant did not tip. A small hospital was still by the path. Jen moved it back beside the remember. The cube came close again. Jen gave it a pat and checked the adventure."
+            },
+            {
+              "id": "three-syllable-17",
+              "number": 17,
+              "title": "THREE-SYLLABLE WORDS 17 — Saturday on the Trail",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Rob had a plan for the day. The main job involved the hospital. A rain sat near the path while Rob checked a small map. The map showed where the remember and the adventure should go. First, Rob picked up the energy and set it beside the important. A green came close and watched. Rob gave it a pat and went back to the job. Next, the telephone had to be moved. It was not far, but it was in the wrong place. Rob carried it past the shed and put it by the butterfly. A light wind came across camp. The yesterday tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The farm stayed nearby. After the rest, Rob checked the hospital, the energy, and the telephone. All three were set. The bird came back, but it did not get in the way. Rob still had one last task. The Saturday had to go beside the wonderful. Rob did the job step by step and did not rush. At last, the path was clear and the work was done. The cat sat on a mat. The pig rested by the shed. Rob smiled. It had been a busy day, but the plan had worked. Rob gave the hospital one last look. The remember stayed in place, and the adventure did not tip. A small energy was still by the path. Rob moved it back beside the important. The rain came close again. Rob gave it a pat and checked the telephone."
+            },
+            {
+              "id": "three-syllable-18",
+              "number": 18,
+              "title": "THREE-SYLLABLE WORDS 18 — A Wonderful Day",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Nell had a plan for the day. The main job involved the energy. A green sat near the path while Nell checked a small map. The map showed where the important and the telephone should go. First, Nell picked up the butterfly and set it beside the yesterday. A farm came close and watched. Nell gave it a pat and went back to the job. Next, the Saturday had to be moved. It was not far, but it was in the wrong place. Nell carried it past the shed and put it by the wonderful. A light wind came across camp. The exercise tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The bird stayed nearby. After the rest, Nell checked the energy, the butterfly, and the Saturday. All three were set. The cat came back, but it did not get in the way. Nell still had one last task. The together had to go beside the animal. Nell did the job step by step and did not rush. At last, the path was clear and the work was done. The pig sat on a mat. The dog rested by the shed. Nell smiled. It had been a busy day, but the plan had worked. Nell gave the energy one last look. The important stayed in place, and the telephone did not tip. A small butterfly was still by the path. Nell moved it back beside the yesterday. The green came close again. Nell gave it a pat and checked the Saturday."
+            },
+            {
+              "id": "three-syllable-19",
+              "number": 19,
+              "title": "THREE-SYLLABLE WORDS 19 — Exercise at Camp",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Bill had a plan for the day. The main job involved the butterfly. A farm sat near the path while Bill checked a small map. The map showed where the yesterday and the Saturday should go. First, Bill picked up the wonderful and set it beside the exercise. A bird came close and watched. Bill gave it a pat and went back to the job. Next, the together had to be moved. It was not far, but it was in the wrong place. Bill carried it past the shed and put it by the animal. A light wind came across camp. The banana tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The cat stayed nearby. After the rest, Bill checked the butterfly, the wonderful, and the together. All three were set. The pig came back, but it did not get in the way. Bill still had one last task. The computer had to go beside the tomato. Bill did the job step by step and did not rush. At last, the path was clear and the work was done. The dog sat on a mat. The sun rested by the shed. Bill smiled. It had been a busy day, but the plan had worked. Bill gave the butterfly one last look. The yesterday stayed in place, and the Saturday did not tip. A small wonderful was still by the path. Bill moved it back beside the exercise. The farm came close again. Bill gave it a pat and checked the together."
+            },
+            {
+              "id": "three-syllable-20",
+              "number": 20,
+              "title": "THREE-SYLLABLE WORDS 20 — The Last Trip Together",
+              "skill": "three-syllable",
+              "skillLabel": "Three-syllable words",
+              "targetPattern": "Three-syllable words",
+              "reviewPatterns": [
+                "Units 1–8 cumulative review"
+              ],
+              "status": "draft-review",
+              "wordCount": 262,
+              "text": "Jess had a plan for the day. The main job involved the wonderful. A bird sat near the path while Jess checked a small map. The map showed where the exercise and the together should go. First, Jess picked up the animal and set it beside the banana. A cat came close and watched. Jess gave it a pat and went back to the job. Next, the computer had to be moved. It was not far, but it was in the wrong place. Jess carried it past the shed and put it by the tomato. A light wind came across camp. The family tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the wonderful, the animal, and the computer. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The calendar had to go beside the holiday. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy day, but the plan had worked. Jess gave the wonderful one last look. The exercise stayed in place, and the together did not tip. A small animal was still by the path. Jess moved it back beside the banana. The bird came close again. Jess gave it a pat and checked the computer."
             }
           ]
         }
