@@ -1,5 +1,5 @@
 window.DFC_LIBRARY = {
-  "version": "4.0.0",
+  "version": "4.1.0",
   "name": "Decodable Fluency Center Library",
   "units": [
     {
@@ -6885,6 +6885,415 @@ window.DFC_LIBRARY = {
               "status": "draft-review",
               "wordCount": 257,
               "text": "Jess had a job to do near the dude. A flag sat by the path and watched. Jess had a muse in a pack and a pure by the gate. The job looked simple, but Jess had to make a careful plan. First, Jess picked up the cube and set it beside the tube. A cat came close and had a quick look. Jess gave it a pat and went back to work. Next, the cute had to be moved. It was not far, but it was in the wrong place. Jess took it past the shed and put it by the mule. A light wind came across the path. The rule tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jess checked the dude, the cube, and the cute. All three were set. The dog came back, but it did not get in the way. Jess still had one last task. The June had to go beside the tune. Jess did the job step by step and did not rush. At last, the path was clear and the work was done. The sun sat on a mat. The red rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the dude one last look. The muse stayed in place, and the pure did not tip. A small cube was still by the path. Jess moved it back beside the tube."
+            }
+          ]
+        },
+        {
+          "id": "e-e",
+          "label": "e_e",
+          "order": 5,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "e-e-01",
+              "number": 1,
+              "title": "E_E 01 — These Red Flags",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Sam had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A cat sat by the path while Sam looked at a note. The note had the word these on it. Sam read the note and went to the next task. A small scene had been set by the gate. The theme had to be placed beside the scene. Sam did not rush. First, Sam checked the map. Then Sam moved the complete to a safe place. A pig came close and watched. Sam gave it a pat and went back to work. Next, Sam had to complete a second task. The compete was near the shed, and the athlete was by the path. A light wind came across camp. The delete tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the these, the complete, and the delete. All three were in place. These jobs were almost complete. The sun came back, but it did not get in the way. Sam still had one last task. The concrete had to go beside the extreme. Sam did the work step by step. At last, the scene was complete and the path was clear. The red sat on a mat. The fish rested by the shed. Sam smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-02",
+              "number": 2,
+              "title": "E_E 02 — The Theme at Camp",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tim had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A pig sat by the path while Tim looked at a note. The note had the word complete on it. Tim read the note and went to the next task. A small scene had been set by the gate. The compete had to be placed beside the athlete. Tim did not rush. First, Tim checked the map. Then Tim moved the delete to a safe place. A dog came close and watched. Tim gave it a pat and went back to work. Next, Tim had to complete a second task. The concrete was near the shed, and the extreme was by the path. A light wind came across camp. The Chinese tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the complete, the delete, and the Chinese. All three were in place. These jobs were almost complete. The red came back, but it did not get in the way. Tim still had one last task. The Japanese had to go beside the Eve. Tim did the work step by step. At last, the scene was complete and the path was clear. The fish sat on a mat. The chick rested by the shed. Tim smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-03",
+              "number": 3,
+              "title": "E_E 03 — A Scene by the Lake",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Kim had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A dog sat by the path while Kim looked at a note. The note had the word delete on it. Kim read the note and went to the next task. A small scene had been set by the gate. The concrete had to be placed beside the extreme. Kim did not rush. First, Kim checked the map. Then Kim moved the Chinese to a safe place. A sun came close and watched. Kim gave it a pat and went back to work. Next, Kim had to complete a second task. The Japanese was near the shed, and the Eve was by the path. A light wind came across camp. The Steve tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the delete, the Chinese, and the Steve. All three were in place. These jobs were almost complete. The fish came back, but it did not get in the way. Kim still had one last task. The gene had to go beside the scheme. Kim did the work step by step. At last, the scene was complete and the path was clear. The chick sat on a mat. The path rested by the shed. Kim smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-04",
+              "number": 4,
+              "title": "E_E 04 — Complete the Map",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ben had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A sun sat by the path while Ben looked at a note. The note had the word Chinese on it. Ben read the note and went to the next task. A small scene had been set by the gate. The Japanese had to be placed beside the Eve. Ben did not rush. First, Ben checked the map. Then Ben moved the Steve to a safe place. A red came close and watched. Ben gave it a pat and went back to work. Next, Ben had to complete a second task. The gene was near the shed, and the scheme was by the path. A light wind came across camp. The severe tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the Chinese, the Steve, and the severe. All three were in place. These jobs were almost complete. The chick came back, but it did not get in the way. Ben still had one last task. The supreme had to go beside the convene. Ben did the work step by step. At last, the scene was complete and the path was clear. The path sat on a mat. The back rested by the shed. Ben smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-05",
+              "number": 5,
+              "title": "E_E 05 — Compete at the Game",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Meg had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A red sat by the path while Meg looked at a note. The note had the word Steve on it. Meg read the note and went to the next task. A small scene had been set by the gate. The gene had to be placed beside the scheme. Meg did not rush. First, Meg checked the map. Then Meg moved the severe to a safe place. A fish came close and watched. Meg gave it a pat and went back to work. Next, Meg had to complete a second task. The supreme was near the shed, and the convene was by the path. A light wind came across camp. The stampede tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the Steve, the severe, and the stampede. All three were in place. These jobs were almost complete. The path came back, but it did not get in the way. Meg still had one last task. The centipede had to go beside the these. Meg did the work step by step. At last, the scene was complete and the path was clear. The back sat on a mat. The ring rested by the shed. Meg smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-06",
+              "number": 6,
+              "title": "E_E 06 — The Athlete at Camp",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tom had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A fish sat by the path while Tom looked at a note. The note had the word severe on it. Tom read the note and went to the next task. A small scene had been set by the gate. The supreme had to be placed beside the convene. Tom did not rush. First, Tom checked the map. Then Tom moved the stampede to a safe place. A chick came close and watched. Tom gave it a pat and went back to work. Next, Tom had to complete a second task. The centipede was near the shed, and the these was by the path. A light wind came across camp. The theme tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the severe, the stampede, and the theme. All three were in place. These jobs were almost complete. The back came back, but it did not get in the way. Tom still had one last task. The scene had to go beside the complete. Tom did the work step by step. At last, the scene was complete and the path was clear. The ring sat on a mat. The sink rested by the shed. Tom smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-07",
+              "number": 7,
+              "title": "E_E 07 — Delete the Note",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jill had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A chick sat by the path while Jill looked at a note. The note had the word stampede on it. Jill read the note and went to the next task. A small scene had been set by the gate. The centipede had to be placed beside the these. Jill did not rush. First, Jill checked the map. Then Jill moved the theme to a safe place. A path came close and watched. Jill gave it a pat and went back to work. Next, Jill had to complete a second task. The scene was near the shed, and the complete was by the path. A light wind came across camp. The compete tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the stampede, the theme, and the compete. All three were in place. These jobs were almost complete. The ring came back, but it did not get in the way. Jill still had one last task. The athlete had to go beside the delete. Jill did the work step by step. At last, the scene was complete and the path was clear. The sink sat on a mat. The black rested by the shed. Jill smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-08",
+              "number": 8,
+              "title": "E_E 08 — The Concrete Step",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nick had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A path sat by the path while Nick looked at a note. The note had the word theme on it. Nick read the note and went to the next task. A small scene had been set by the gate. The scene had to be placed beside the complete. Nick did not rush. First, Nick checked the map. Then Nick moved the compete to a safe place. A back came close and watched. Nick gave it a pat and went back to work. Next, Nick had to complete a second task. The athlete was near the shed, and the delete was by the path. A light wind came across camp. The concrete tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the theme, the compete, and the concrete. All three were in place. These jobs were almost complete. The sink came back, but it did not get in the way. Nick still had one last task. The extreme had to go beside the Chinese. Nick did the work step by step. At last, the scene was complete and the path was clear. The black sat on a mat. The frog rested by the shed. Nick smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-09",
+              "number": 9,
+              "title": "E_E 09 — An Extreme Wind",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Pam had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A back sat by the path while Pam looked at a note. The note had the word compete on it. Pam read the note and went to the next task. A small scene had been set by the gate. The athlete had to be placed beside the delete. Pam did not rush. First, Pam checked the map. Then Pam moved the concrete to a safe place. A ring came close and watched. Pam gave it a pat and went back to work. Next, Pam had to complete a second task. The extreme was near the shed, and the Chinese was by the path. A light wind came across camp. The Japanese tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the compete, the concrete, and the Japanese. All three were in place. These jobs were almost complete. The black came back, but it did not get in the way. Pam still had one last task. The Eve had to go beside the Steve. Pam did the work step by step. At last, the scene was complete and the path was clear. The frog sat on a mat. The skip rested by the shed. Pam smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-10",
+              "number": 10,
+              "title": "E_E 10 — The Chinese Kite",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Gus had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A ring sat by the path while Gus looked at a note. The note had the word concrete on it. Gus read the note and went to the next task. A small scene had been set by the gate. The extreme had to be placed beside the Chinese. Gus did not rush. First, Gus checked the map. Then Gus moved the Japanese to a safe place. A sink came close and watched. Gus gave it a pat and went back to work. Next, Gus had to complete a second task. The Eve was near the shed, and the Steve was by the path. A light wind came across camp. The gene tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The black stayed nearby. After the rest, Gus checked the concrete, the Japanese, and the gene. All three were in place. These jobs were almost complete. The frog came back, but it did not get in the way. Gus still had one last task. The scheme had to go beside the severe. Gus did the work step by step. At last, the scene was complete and the path was clear. The skip sat on a mat. The hand rested by the shed. Gus smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-11",
+              "number": 11,
+              "title": "E_E 11 — A Japanese Game",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Dot had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A sink sat by the path while Dot looked at a note. The note had the word Japanese on it. Dot read the note and went to the next task. A small scene had been set by the gate. The Eve had to be placed beside the Steve. Dot did not rush. First, Dot checked the map. Then Dot moved the gene to a safe place. A black came close and watched. Dot gave it a pat and went back to work. Next, Dot had to complete a second task. The scheme was near the shed, and the severe was by the path. A light wind came across camp. The supreme tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The frog stayed nearby. After the rest, Dot checked the Japanese, the gene, and the supreme. All three were in place. These jobs were almost complete. The skip came back, but it did not get in the way. Dot still had one last task. The convene had to go beside the stampede. Dot did the work step by step. At last, the scene was complete and the path was clear. The hand sat on a mat. The camp rested by the shed. Dot smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-12",
+              "number": 12,
+              "title": "E_E 12 — Eve and the Map",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ted had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A black sat by the path while Ted looked at a note. The note had the word gene on it. Ted read the note and went to the next task. A small scene had been set by the gate. The scheme had to be placed beside the severe. Ted did not rush. First, Ted checked the map. Then Ted moved the supreme to a safe place. A frog came close and watched. Ted gave it a pat and went back to work. Next, Ted had to complete a second task. The convene was near the shed, and the stampede was by the path. A light wind came across camp. The centipede tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The skip stayed nearby. After the rest, Ted checked the gene, the supreme, and the centipede. All three were in place. These jobs were almost complete. The hand came back, but it did not get in the way. Ted still had one last task. The these had to go beside the theme. Ted did the work step by step. At last, the scene was complete and the path was clear. The camp sat on a mat. The cake rested by the shed. Ted smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-13",
+              "number": 13,
+              "title": "E_E 13 — Steve at the Lake",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Max had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A frog sat by the path while Max looked at a note. The note had the word supreme on it. Max read the note and went to the next task. A small scene had been set by the gate. The convene had to be placed beside the stampede. Max did not rush. First, Max checked the map. Then Max moved the centipede to a safe place. A skip came close and watched. Max gave it a pat and went back to work. Next, Max had to complete a second task. The these was near the shed, and the theme was by the path. A light wind came across camp. The scene tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The hand stayed nearby. After the rest, Max checked the supreme, the centipede, and the scene. All three were in place. These jobs were almost complete. The camp came back, but it did not get in the way. Max still had one last task. The complete had to go beside the compete. Max did the work step by step. At last, the scene was complete and the path was clear. The cake sat on a mat. The bike rested by the shed. Max smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-14",
+              "number": 14,
+              "title": "E_E 14 — The Gene Chart",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Liz had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A skip sat by the path while Liz looked at a note. The note had the word centipede on it. Liz read the note and went to the next task. A small scene had been set by the gate. The these had to be placed beside the theme. Liz did not rush. First, Liz checked the map. Then Liz moved the scene to a safe place. A hand came close and watched. Liz gave it a pat and went back to work. Next, Liz had to complete a second task. The complete was near the shed, and the compete was by the path. A light wind came across camp. The athlete tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The camp stayed nearby. After the rest, Liz checked the centipede, the scene, and the athlete. All three were in place. These jobs were almost complete. The cake came back, but it did not get in the way. Liz still had one last task. The delete had to go beside the concrete. Liz did the work step by step. At last, the scene was complete and the path was clear. The bike sat on a mat. The home rested by the shed. Liz smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-15",
+              "number": 15,
+              "title": "E_E 15 — A Simple Scheme",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Cal had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A hand sat by the path while Cal looked at a note. The note had the word scene on it. Cal read the note and went to the next task. A small scene had been set by the gate. The complete had to be placed beside the compete. Cal did not rush. First, Cal checked the map. Then Cal moved the athlete to a safe place. A camp came close and watched. Cal gave it a pat and went back to work. Next, Cal had to complete a second task. The delete was near the shed, and the concrete was by the path. A light wind came across camp. The extreme tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The cake stayed nearby. After the rest, Cal checked the scene, the athlete, and the extreme. All three were in place. These jobs were almost complete. The bike came back, but it did not get in the way. Cal still had one last task. The Chinese had to go beside the Japanese. Cal did the work step by step. At last, the scene was complete and the path was clear. The home sat on a mat. The cube rested by the shed. Cal smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-16",
+              "number": 16,
+              "title": "E_E 16 — The Severe Storm",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jen had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A camp sat by the path while Jen looked at a note. The note had the word athlete on it. Jen read the note and went to the next task. A small scene had been set by the gate. The delete had to be placed beside the concrete. Jen did not rush. First, Jen checked the map. Then Jen moved the extreme to a safe place. A cake came close and watched. Jen gave it a pat and went back to work. Next, Jen had to complete a second task. The Chinese was near the shed, and the Japanese was by the path. A light wind came across camp. The Eve tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The bike stayed nearby. After the rest, Jen checked the athlete, the extreme, and the Eve. All three were in place. These jobs were almost complete. The home came back, but it did not get in the way. Jen still had one last task. The Steve had to go beside the gene. Jen did the work step by step. At last, the scene was complete and the path was clear. The cube sat on a mat. The flag rested by the shed. Jen smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-17",
+              "number": 17,
+              "title": "E_E 17 — The Supreme Prize",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Rob had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A cake sat by the path while Rob looked at a note. The note had the word extreme on it. Rob read the note and went to the next task. A small scene had been set by the gate. The Chinese had to be placed beside the Japanese. Rob did not rush. First, Rob checked the map. Then Rob moved the Eve to a safe place. A bike came close and watched. Rob gave it a pat and went back to work. Next, Rob had to complete a second task. The Steve was near the shed, and the gene was by the path. A light wind came across camp. The scheme tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The home stayed nearby. After the rest, Rob checked the extreme, the Eve, and the scheme. All three were in place. These jobs were almost complete. The cube came back, but it did not get in the way. Rob still had one last task. The severe had to go beside the supreme. Rob did the work step by step. At last, the scene was complete and the path was clear. The flag sat on a mat. The cat rested by the shed. Rob smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-18",
+              "number": 18,
+              "title": "E_E 18 — Convene at the Gate",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nell had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A bike sat by the path while Nell looked at a note. The note had the word Eve on it. Nell read the note and went to the next task. A small scene had been set by the gate. The Steve had to be placed beside the gene. Nell did not rush. First, Nell checked the map. Then Nell moved the scheme to a safe place. A home came close and watched. Nell gave it a pat and went back to work. Next, Nell had to complete a second task. The severe was near the shed, and the supreme was by the path. A light wind came across camp. The convene tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The cube stayed nearby. After the rest, Nell checked the Eve, the scheme, and the convene. All three were in place. These jobs were almost complete. The flag came back, but it did not get in the way. Nell still had one last task. The stampede had to go beside the centipede. Nell did the work step by step. At last, the scene was complete and the path was clear. The cat sat on a mat. The pig rested by the shed. Nell smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-19",
+              "number": 19,
+              "title": "E_E 19 — The Stampede",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Bill had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A home sat by the path while Bill looked at a note. The note had the word scheme on it. Bill read the note and went to the next task. A small scene had been set by the gate. The severe had to be placed beside the supreme. Bill did not rush. First, Bill checked the map. Then Bill moved the convene to a safe place. A cube came close and watched. Bill gave it a pat and went back to work. Next, Bill had to complete a second task. The stampede was near the shed, and the centipede was by the path. A light wind came across camp. The these tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The flag stayed nearby. After the rest, Bill checked the scheme, the convene, and the these. All three were in place. These jobs were almost complete. The cat came back, but it did not get in the way. Bill still had one last task. The theme had to go beside the scene. Bill did the work step by step. At last, the scene was complete and the path was clear. The pig sat on a mat. The dog rested by the shed. Bill smiled at the final theme display. It had been a busy job, but the plan had worked."
+            },
+            {
+              "id": "e-e-20",
+              "number": 20,
+              "title": "E_E 20 — The Centipede",
+              "skill": "e-e",
+              "skillLabel": "e_e",
+              "targetPattern": "e_e",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "blends",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jess had a job to complete at camp. The theme for the day was set, and these plans had to be checked. A cube sat by the path while Jess looked at a note. The note had the word convene on it. Jess read the note and went to the next task. A small scene had been set by the gate. The stampede had to be placed beside the centipede. Jess did not rush. First, Jess checked the map. Then Jess moved the these to a safe place. A flag came close and watched. Jess gave it a pat and went back to work. Next, Jess had to complete a second task. The theme was near the shed, and the scene was by the path. A light wind came across camp. The complete tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The cat stayed nearby. After the rest, Jess checked the convene, the these, and the complete. All three were in place. These jobs were almost complete. The pig came back, but it did not get in the way. Jess still had one last task. The compete had to go beside the athlete. Jess did the work step by step. At last, the scene was complete and the path was clear. The dog sat on a mat. The sun rested by the shed. Jess smiled at the final theme display. It had been a busy job, but the plan had worked."
             }
           ]
         }
