@@ -1,5 +1,5 @@
 window.DFC_LIBRARY = {
-  "version": "2.0.0",
+  "version": "3.0.0",
   "name": "Decodable Fluency Center Library",
   "units": [
     {
@@ -1591,7 +1591,8 @@ window.DFC_LIBRARY = {
             }
           ]
         }
-      ]
+      ],
+      "order": 1
     },
     {
       "id": "unit-2",
@@ -4117,6 +4118,1330 @@ window.DFC_LIBRARY = {
               "status": "draft-review",
               "wordCount": 252,
               "text": "Jess had a job to do near the wink. A sit sat by the path and watched. Jess had a bank in a small pack. The pack sat next to a tank. A hot came past and stopped. Jess did not rush. The plan was to move the bank and keep the tank safe. First, Jess picked up the link. Then Jess set the honk by the shed. The dog moved close, so Jess gave it a pat and sent it back to the mat. Next, Jess saw the junk. It was not in the right spot. Jess had to fix that before the job was done. A quick wind hit the path. The chunk tipped, but Jess caught it. Jess had a short rest and a snack. The sun sat close by. After the rest, Jess went back to the task. The trunk had to go beside the drink. Jess checked the wink, the link, and the junk. All three were set. Then the mud came back. It sniffed the pack but did not grab the snack. Jess smiled and finished the last bit of work. The think was in place, the path was clear, and the job was done. At last, Jess sat down. The red rested nearby. It had been a busy job, but Jess felt glad. Jess gave the wink one last look. The bank stayed still, and the tank did not tip. A small link sat near the path. Jess moved it back and checked the honk."
+            }
+          ]
+        }
+      ],
+      "order": 2
+    },
+    {
+      "id": "unit-3",
+      "label": "Unit 3 — Blends",
+      "order": 3,
+      "skills": [
+        {
+          "id": "l-blends",
+          "label": "Beginning l-blends",
+          "order": 1,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "l-blends-01",
+              "number": 1,
+              "title": "BEGINNING L-BLENDS 01 — The Black Flag",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Sam had a job to do at camp. A black sat by the cat. Sam had a clap in a pack and a clip by the path. The job looked simple, but Sam had to make a plan. First, Sam picked up the flag and set it next to the flat. A pig came close and had a look. Sam gave it a pat and went back to work. Next, the flip had to be moved. It was not far, but it was in the wrong spot. Sam took it past the shed and put it by the glad. A quick wind hit the path. The glass tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the black, the flag, and the flip. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The plan had to go beside the plum. Sam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the black one last look. The clap stayed in place, and the clip did not tip. A small flag was still by the path. Sam moved it back beside the flat."
+            },
+            {
+              "id": "l-blends-02",
+              "number": 2,
+              "title": "BEGINNING L-BLENDS 02 — Clap for the Club",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tim had a job to do at camp. A flag sat by the pig. Tim had a flat in a pack and a flip by the path. The job looked simple, but Tim had to make a plan. First, Tim picked up the glad and set it next to the glass. A dog came close and had a look. Tim gave it a pat and went back to work. Next, the plan had to be moved. It was not far, but it was in the wrong spot. Tim took it past the shed and put it by the plum. A quick wind hit the path. The plug tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the flag, the glad, and the plan. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The slip had to go beside the sled. Tim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the flag one last look. The flat stayed in place, and the flip did not tip. A small glad was still by the path. Tim moved it back beside the glass."
+            },
+            {
+              "id": "l-blends-03",
+              "number": 3,
+              "title": "BEGINNING L-BLENDS 03 — The Flat Sled",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Kim had a job to do at camp. A glad sat by the dog. Kim had a glass in a pack and a plan by the path. The job looked simple, but Kim had to make a plan. First, Kim picked up the plum and set it next to the plug. A sun came close and had a look. Kim gave it a pat and went back to work. Next, the slip had to be moved. It was not far, but it was in the wrong spot. Kim took it past the shed and put it by the sled. A quick wind hit the path. The slab tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the glad, the plum, and the slip. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The blot had to go beside the club. Kim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the glad one last look. The glass stayed in place, and the plan did not tip. A small plum was still by the path. Kim moved it back beside the plug."
+            },
+            {
+              "id": "l-blends-04",
+              "number": 4,
+              "title": "BEGINNING L-BLENDS 04 — A Plan for the Plum",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ben had a job to do at camp. A plum sat by the sun. Ben had a plug in a pack and a slip by the path. The job looked simple, but Ben had to make a plan. First, Ben picked up the sled and set it next to the slab. A red came close and had a look. Ben gave it a pat and went back to work. Next, the blot had to be moved. It was not far, but it was in the wrong spot. Ben took it past the shed and put it by the club. A quick wind hit the path. The clog tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the plum, the sled, and the blot. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The flap had to go beside the glum. Ben did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the plum one last look. The plug stayed in place, and the slip did not tip. A small sled was still by the path. Ben moved it back beside the slab."
+            },
+            {
+              "id": "l-blends-05",
+              "number": 5,
+              "title": "BEGINNING L-BLENDS 05 — The Glass on the Slab",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Meg had a job to do at camp. A sled sat by the red. Meg had a slab in a pack and a blot by the path. The job looked simple, but Meg had to make a plan. First, Meg picked up the club and set it next to the clog. A fish came close and had a look. Meg gave it a pat and went back to work. Next, the flap had to be moved. It was not far, but it was in the wrong spot. Meg took it past the shed and put it by the glum. A quick wind hit the path. The plot tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the sled, the club, and the flap. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The black had to go beside the clap. Meg did the job step by step and did not rush. At last, the path was clear and the camp was neat. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the sled one last look. The slab stayed in place, and the blot did not tip. A small club was still by the path. Meg moved it back beside the clog."
+            },
+            {
+              "id": "l-blends-06",
+              "number": 6,
+              "title": "BEGINNING L-BLENDS 06 — Flip the Flap",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tom had a job to do at camp. A club sat by the fish. Tom had a clog in a pack and a flap by the path. The job looked simple, but Tom had to make a plan. First, Tom picked up the glum and set it next to the plot. A chick came close and had a look. Tom gave it a pat and went back to work. Next, the black had to be moved. It was not far, but it was in the wrong spot. Tom took it past the shed and put it by the clap. A quick wind hit the path. The clip tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the club, the glum, and the black. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The flag had to go beside the flat. Tom did the job step by step and did not rush. At last, the path was clear and the camp was neat. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the club one last look. The clog stayed in place, and the flap did not tip. A small glum was still by the path. Tom moved it back beside the plot."
+            },
+            {
+              "id": "l-blends-07",
+              "number": 7,
+              "title": "BEGINNING L-BLENDS 07 — The Plug in the Shop",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jill had a job to do at camp. A glum sat by the chick. Jill had a plot in a pack and a black by the path. The job looked simple, but Jill had to make a plan. First, Jill picked up the clap and set it next to the clip. A path came close and had a look. Jill gave it a pat and went back to work. Next, the flag had to be moved. It was not far, but it was in the wrong spot. Jill took it past the shed and put it by the flat. A quick wind hit the path. The flip tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the glum, the clap, and the flag. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The glad had to go beside the glass. Jill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sink sat on a mat. The shop rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the glum one last look. The plot stayed in place, and the black did not tip. A small clap was still by the path. Jill moved it back beside the clip."
+            },
+            {
+              "id": "l-blends-08",
+              "number": 8,
+              "title": "BEGINNING L-BLENDS 08 — A Slip on the Path",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nick had a job to do at camp. A clap sat by the path. Nick had a clip in a pack and a flag by the path. The job looked simple, but Nick had to make a plan. First, Nick picked up the flat and set it next to the flip. A back came close and had a look. Nick gave it a pat and went back to work. Next, the glad had to be moved. It was not far, but it was in the wrong spot. Nick took it past the shed and put it by the glass. A quick wind hit the path. The plan tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the clap, the flat, and the glad. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The plum had to go beside the plug. Nick did the job step by step and did not rush. At last, the path was clear and the camp was neat. The shop sat on a mat. The rock rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the clap one last look. The clip stayed in place, and the flag did not tip. A small flat was still by the path. Nick moved it back beside the flip."
+            },
+            {
+              "id": "l-blends-09",
+              "number": 9,
+              "title": "BEGINNING L-BLENDS 09 — The Black Club",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Pam had a job to do at camp. A flat sat by the back. Pam had a flip in a pack and a glad by the path. The job looked simple, but Pam had to make a plan. First, Pam picked up the glass and set it next to the plan. A ring came close and had a look. Pam gave it a pat and went back to work. Next, the plum had to be moved. It was not far, but it was in the wrong spot. Pam took it past the shed and put it by the plug. A quick wind hit the path. The slip tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the flat, the glass, and the plum. All three were set. The shop came back, but it did not get in the way. Pam still had one last task. The sled had to go beside the slab. Pam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The rock sat on a mat. The hen rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the flat one last look. The flip stayed in place, and the glad did not tip. A small glass was still by the path. Pam moved it back beside the plan."
+            },
+            {
+              "id": "l-blends-10",
+              "number": 10,
+              "title": "BEGINNING L-BLENDS 10 — Glad to Help",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Gus had a job to do at camp. A glass sat by the ring. Gus had a plan in a pack and a plum by the path. The job looked simple, but Gus had to make a plan. First, Gus picked up the plug and set it next to the slip. A sink came close and had a look. Gus gave it a pat and went back to work. Next, the sled had to be moved. It was not far, but it was in the wrong spot. Gus took it past the shed and put it by the slab. A quick wind hit the path. The blot tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The shop stayed nearby. After the rest, Gus checked the glass, the plug, and the sled. All three were set. The rock came back, but it did not get in the way. Gus still had one last task. The club had to go beside the clog. Gus did the job step by step and did not rush. At last, the path was clear and the camp was neat. The hen sat on a mat. The mud rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the glass one last look. The plan stayed in place, and the plum did not tip. A small plug was still by the path. Gus moved it back beside the slip."
+            },
+            {
+              "id": "l-blends-11",
+              "number": 11,
+              "title": "BEGINNING L-BLENDS 11 — The Clog by the Shed",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Dot had a job to do at camp. A plug sat by the sink. Dot had a slip in a pack and a sled by the path. The job looked simple, but Dot had to make a plan. First, Dot picked up the slab and set it next to the blot. A shop came close and had a look. Dot gave it a pat and went back to work. Next, the club had to be moved. It was not far, but it was in the wrong spot. Dot took it past the shed and put it by the clog. A quick wind hit the path. The flap tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The rock stayed nearby. After the rest, Dot checked the plug, the slab, and the club. All three were set. The hen came back, but it did not get in the way. Dot still had one last task. The glum had to go beside the plot. Dot did the job step by step and did not rush. At last, the path was clear and the camp was neat. The mud sat on a mat. The pack rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the plug one last look. The slip stayed in place, and the sled did not tip. A small slab was still by the path. Dot moved it back beside the blot."
+            },
+            {
+              "id": "l-blends-12",
+              "number": 12,
+              "title": "BEGINNING L-BLENDS 12 — A Flat Rock",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ted had a job to do at camp. A slab sat by the shop. Ted had a blot in a pack and a club by the path. The job looked simple, but Ted had to make a plan. First, Ted picked up the clog and set it next to the flap. A rock came close and had a look. Ted gave it a pat and went back to work. Next, the glum had to be moved. It was not far, but it was in the wrong spot. Ted took it past the shed and put it by the plot. A quick wind hit the path. The black tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The hen stayed nearby. After the rest, Ted checked the slab, the clog, and the glum. All three were set. The mud came back, but it did not get in the way. Ted still had one last task. The clap had to go beside the clip. Ted did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pack sat on a mat. The cat rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the slab one last look. The blot stayed in place, and the club did not tip. A small clog was still by the path. Ted moved it back beside the flap."
+            },
+            {
+              "id": "l-blends-13",
+              "number": 13,
+              "title": "BEGINNING L-BLENDS 13 — The Flag at Camp",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Max had a job to do at camp. A clog sat by the rock. Max had a flap in a pack and a glum by the path. The job looked simple, but Max had to make a plan. First, Max picked up the plot and set it next to the black. A hen came close and had a look. Max gave it a pat and went back to work. Next, the clap had to be moved. It was not far, but it was in the wrong spot. Max took it past the shed and put it by the clip. A quick wind hit the path. The flag tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The mud stayed nearby. After the rest, Max checked the clog, the plot, and the clap. All three were set. The pack came back, but it did not get in the way. Max still had one last task. The flat had to go beside the flip. Max did the job step by step and did not rush. At last, the path was clear and the camp was neat. The cat sat on a mat. The pig rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the clog one last look. The flap stayed in place, and the glum did not tip. A small plot was still by the path. Max moved it back beside the black."
+            },
+            {
+              "id": "l-blends-14",
+              "number": 14,
+              "title": "BEGINNING L-BLENDS 14 — The Plum in the Bag",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Liz had a job to do at camp. A plot sat by the hen. Liz had a black in a pack and a clap by the path. The job looked simple, but Liz had to make a plan. First, Liz picked up the clip and set it next to the flag. A mud came close and had a look. Liz gave it a pat and went back to work. Next, the flat had to be moved. It was not far, but it was in the wrong spot. Liz took it past the shed and put it by the flip. A quick wind hit the path. The glad tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The pack stayed nearby. After the rest, Liz checked the plot, the clip, and the flat. All three were set. The cat came back, but it did not get in the way. Liz still had one last task. The glass had to go beside the plan. Liz did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pig sat on a mat. The dog rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the plot one last look. The black stayed in place, and the clap did not tip. A small clip was still by the path. Liz moved it back beside the flag."
+            },
+            {
+              "id": "l-blends-15",
+              "number": 15,
+              "title": "BEGINNING L-BLENDS 15 — A Clip for Meg",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Cal had a job to do at camp. A clip sat by the mud. Cal had a flag in a pack and a flat by the path. The job looked simple, but Cal had to make a plan. First, Cal picked up the flip and set it next to the glad. A pack came close and had a look. Cal gave it a pat and went back to work. Next, the glass had to be moved. It was not far, but it was in the wrong spot. Cal took it past the shed and put it by the plan. A quick wind hit the path. The plum tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The cat stayed nearby. After the rest, Cal checked the clip, the flip, and the glass. All three were set. The pig came back, but it did not get in the way. Cal still had one last task. The plug had to go beside the slip. Cal did the job step by step and did not rush. At last, the path was clear and the camp was neat. The dog sat on a mat. The sun rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the clip one last look. The flag stayed in place, and the flat did not tip. A small flip was still by the path. Cal moved it back beside the glad."
+            },
+            {
+              "id": "l-blends-16",
+              "number": 16,
+              "title": "BEGINNING L-BLENDS 16 — The Slab by the Pond",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jen had a job to do at camp. A flip sat by the pack. Jen had a glad in a pack and a glass by the path. The job looked simple, but Jen had to make a plan. First, Jen picked up the plan and set it next to the plum. A cat came close and had a look. Jen gave it a pat and went back to work. Next, the plug had to be moved. It was not far, but it was in the wrong spot. Jen took it past the shed and put it by the slip. A quick wind hit the path. The sled tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jen checked the flip, the plan, and the plug. All three were set. The dog came back, but it did not get in the way. Jen still had one last task. The slab had to go beside the blot. Jen did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sun sat on a mat. The red rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the flip one last look. The glad stayed in place, and the glass did not tip. A small plan was still by the path. Jen moved it back beside the plum."
+            },
+            {
+              "id": "l-blends-17",
+              "number": 17,
+              "title": "BEGINNING L-BLENDS 17 — The Blot on the Map",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Rob had a job to do at camp. A plan sat by the cat. Rob had a plum in a pack and a plug by the path. The job looked simple, but Rob had to make a plan. First, Rob picked up the slip and set it next to the sled. A pig came close and had a look. Rob gave it a pat and went back to work. Next, the slab had to be moved. It was not far, but it was in the wrong spot. Rob took it past the shed and put it by the blot. A quick wind hit the path. The club tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The dog stayed nearby. After the rest, Rob checked the plan, the slip, and the slab. All three were set. The sun came back, but it did not get in the way. Rob still had one last task. The clog had to go beside the flap. Rob did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the plan one last look. The plum stayed in place, and the plug did not tip. A small slip was still by the path. Rob moved it back beside the sled."
+            },
+            {
+              "id": "l-blends-18",
+              "number": 18,
+              "title": "BEGINNING L-BLENDS 18 — A Flap in the Wind",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nell had a job to do at camp. A slip sat by the pig. Nell had a sled in a pack and a slab by the path. The job looked simple, but Nell had to make a plan. First, Nell picked up the blot and set it next to the club. A dog came close and had a look. Nell gave it a pat and went back to work. Next, the clog had to be moved. It was not far, but it was in the wrong spot. Nell took it past the shed and put it by the flap. A quick wind hit the path. The glum tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The sun stayed nearby. After the rest, Nell checked the slip, the blot, and the clog. All three were set. The red came back, but it did not get in the way. Nell still had one last task. The plot had to go beside the black. Nell did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the slip one last look. The sled stayed in place, and the slab did not tip. A small blot was still by the path. Nell moved it back beside the club."
+            },
+            {
+              "id": "l-blends-19",
+              "number": 19,
+              "title": "BEGINNING L-BLENDS 19 — The Plot at Camp",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Bill had a job to do at camp. A blot sat by the dog. Bill had a club in a pack and a clog by the path. The job looked simple, but Bill had to make a plan. First, Bill picked up the flap and set it next to the glum. A sun came close and had a look. Bill gave it a pat and went back to work. Next, the plot had to be moved. It was not far, but it was in the wrong spot. Bill took it past the shed and put it by the black. A quick wind hit the path. The clap tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The red stayed nearby. After the rest, Bill checked the blot, the flap, and the plot. All three were set. The fish came back, but it did not get in the way. Bill still had one last task. The clip had to go beside the flag. Bill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the blot one last look. The club stayed in place, and the clog did not tip. A small flap was still by the path. Bill moved it back beside the glum."
+            },
+            {
+              "id": "l-blends-20",
+              "number": 20,
+              "title": "BEGINNING L-BLENDS 20 — The Last Black Flag",
+              "skill": "l-blends",
+              "skillLabel": "Beginning l-blends",
+              "targetPattern": "Beginning l-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jess had a job to do at camp. A flap sat by the sun. Jess had a glum in a pack and a plot by the path. The job looked simple, but Jess had to make a plan. First, Jess picked up the black and set it next to the clap. A red came close and had a look. Jess gave it a pat and went back to work. Next, the clip had to be moved. It was not far, but it was in the wrong spot. Jess took it past the shed and put it by the flag. A quick wind hit the path. The flat tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The fish stayed nearby. After the rest, Jess checked the flap, the black, and the clip. All three were set. The chick came back, but it did not get in the way. Jess still had one last task. The flip had to go beside the glad. Jess did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the flap one last look. The glum stayed in place, and the plot did not tip. A small black was still by the path. Jess moved it back beside the clap."
+            }
+          ]
+        },
+        {
+          "id": "r-blends",
+          "label": "Beginning r-blends",
+          "order": 2,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "r-blends-01",
+              "number": 1,
+              "title": "BEGINNING R-BLENDS 01 — The Crab and the Drum",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Sam had a job to do at camp. A brag sat by the cat. Sam had a brick in a pack and a crab by the path. The job looked simple, but Sam had to make a plan. First, Sam picked up the crack and set it next to the drip. A pig came close and had a look. Sam gave it a pat and went back to work. Next, the drop had to be moved. It was not far, but it was in the wrong spot. Sam took it past the shed and put it by the drum. A quick wind hit the path. The frog tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the brag, the crack, and the drop. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The from had to go beside the grab. Sam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the brag one last look. The brick stayed in place, and the crab did not tip. A small crack was still by the path. Sam moved it back beside the drip."
+            },
+            {
+              "id": "r-blends-02",
+              "number": 2,
+              "title": "BEGINNING R-BLENDS 02 — Grab the Brick",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tim had a job to do at camp. A crack sat by the pig. Tim had a drip in a pack and a drop by the path. The job looked simple, but Tim had to make a plan. First, Tim picked up the drum and set it next to the frog. A dog came close and had a look. Tim gave it a pat and went back to work. Next, the from had to be moved. It was not far, but it was in the wrong spot. Tim took it past the shed and put it by the grab. A quick wind hit the path. The grin tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the crack, the drum, and the from. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The pram had to go beside the press. Tim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the crack one last look. The drip stayed in place, and the drop did not tip. A small drum was still by the path. Tim moved it back beside the frog."
+            },
+            {
+              "id": "r-blends-03",
+              "number": 3,
+              "title": "BEGINNING R-BLENDS 03 — A Drip from the Tap",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Kim had a job to do at camp. A drum sat by the dog. Kim had a frog in a pack and a from by the path. The job looked simple, but Kim had to make a plan. First, Kim picked up the grab and set it next to the grin. A sun came close and had a look. Kim gave it a pat and went back to work. Next, the pram had to be moved. It was not far, but it was in the wrong spot. Kim took it past the shed and put it by the press. A quick wind hit the path. The trim tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the drum, the grab, and the pram. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The trip had to go beside the truck. Kim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the drum one last look. The frog stayed in place, and the from did not tip. A small grab was still by the path. Kim moved it back beside the grin."
+            },
+            {
+              "id": "r-blends-04",
+              "number": 4,
+              "title": "BEGINNING R-BLENDS 04 — The Frog by the Truck",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ben had a job to do at camp. A grab sat by the sun. Ben had a grin in a pack and a pram by the path. The job looked simple, but Ben had to make a plan. First, Ben picked up the press and set it next to the trim. A red came close and had a look. Ben gave it a pat and went back to work. Next, the trip had to be moved. It was not far, but it was in the wrong spot. Ben took it past the shed and put it by the truck. A quick wind hit the path. The brush tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the grab, the press, and the trip. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The crisp had to go beside the gruff. Ben did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the grab one last look. The grin stayed in place, and the pram did not tip. A small press was still by the path. Ben moved it back beside the trim."
+            },
+            {
+              "id": "r-blends-05",
+              "number": 5,
+              "title": "BEGINNING R-BLENDS 05 — A Trip with Brad",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Meg had a job to do at camp. A press sat by the red. Meg had a trim in a pack and a trip by the path. The job looked simple, but Meg had to make a plan. First, Meg picked up the truck and set it next to the brush. A fish came close and had a look. Meg gave it a pat and went back to work. Next, the crisp had to be moved. It was not far, but it was in the wrong spot. Meg took it past the shed and put it by the gruff. A quick wind hit the path. The drag tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the press, the truck, and the crisp. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The brag had to go beside the brick. Meg did the job step by step and did not rush. At last, the path was clear and the camp was neat. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the press one last look. The trim stayed in place, and the trip did not tip. A small truck was still by the path. Meg moved it back beside the brush."
+            },
+            {
+              "id": "r-blends-06",
+              "number": 6,
+              "title": "BEGINNING R-BLENDS 06 — The Brush in the Shed",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tom had a job to do at camp. A truck sat by the fish. Tom had a brush in a pack and a crisp by the path. The job looked simple, but Tom had to make a plan. First, Tom picked up the gruff and set it next to the drag. A chick came close and had a look. Tom gave it a pat and went back to work. Next, the brag had to be moved. It was not far, but it was in the wrong spot. Tom took it past the shed and put it by the brick. A quick wind hit the path. The crab tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the truck, the gruff, and the brag. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The crack had to go beside the drip. Tom did the job step by step and did not rush. At last, the path was clear and the camp was neat. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the truck one last look. The brush stayed in place, and the crisp did not tip. A small gruff was still by the path. Tom moved it back beside the drag."
+            },
+            {
+              "id": "r-blends-07",
+              "number": 7,
+              "title": "BEGINNING R-BLENDS 07 — A Crisp Snack",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jill had a job to do at camp. A gruff sat by the chick. Jill had a drag in a pack and a brag by the path. The job looked simple, but Jill had to make a plan. First, Jill picked up the brick and set it next to the crab. A path came close and had a look. Jill gave it a pat and went back to work. Next, the crack had to be moved. It was not far, but it was in the wrong spot. Jill took it past the shed and put it by the drip. A quick wind hit the path. The drop tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the gruff, the brick, and the crack. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The drum had to go beside the frog. Jill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sink sat on a mat. The shop rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the gruff one last look. The drag stayed in place, and the brag did not tip. A small brick was still by the path. Jill moved it back beside the crab."
+            },
+            {
+              "id": "r-blends-08",
+              "number": 8,
+              "title": "BEGINNING R-BLENDS 08 — The Gruff Frog",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nick had a job to do at camp. A brick sat by the path. Nick had a crab in a pack and a crack by the path. The job looked simple, but Nick had to make a plan. First, Nick picked up the drip and set it next to the drop. A back came close and had a look. Nick gave it a pat and went back to work. Next, the drum had to be moved. It was not far, but it was in the wrong spot. Nick took it past the shed and put it by the frog. A quick wind hit the path. The from tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the brick, the drip, and the drum. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The grab had to go beside the grin. Nick did the job step by step and did not rush. At last, the path was clear and the camp was neat. The shop sat on a mat. The rock rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the brick one last look. The crab stayed in place, and the crack did not tip. A small drip was still by the path. Nick moved it back beside the drop."
+            },
+            {
+              "id": "r-blends-09",
+              "number": 9,
+              "title": "BEGINNING R-BLENDS 09 — Drag the Bag",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Pam had a job to do at camp. A drip sat by the back. Pam had a drop in a pack and a drum by the path. The job looked simple, but Pam had to make a plan. First, Pam picked up the frog and set it next to the from. A ring came close and had a look. Pam gave it a pat and went back to work. Next, the grab had to be moved. It was not far, but it was in the wrong spot. Pam took it past the shed and put it by the grin. A quick wind hit the path. The pram tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the drip, the frog, and the grab. All three were set. The shop came back, but it did not get in the way. Pam still had one last task. The press had to go beside the trim. Pam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The rock sat on a mat. The hen rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the drip one last look. The drop stayed in place, and the drum did not tip. A small frog was still by the path. Pam moved it back beside the from."
+            },
+            {
+              "id": "r-blends-10",
+              "number": 10,
+              "title": "BEGINNING R-BLENDS 10 — The Drum at Camp",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Gus had a job to do at camp. A frog sat by the ring. Gus had a from in a pack and a grab by the path. The job looked simple, but Gus had to make a plan. First, Gus picked up the grin and set it next to the pram. A sink came close and had a look. Gus gave it a pat and went back to work. Next, the press had to be moved. It was not far, but it was in the wrong spot. Gus took it past the shed and put it by the trim. A quick wind hit the path. The trip tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The shop stayed nearby. After the rest, Gus checked the frog, the grin, and the press. All three were set. The rock came back, but it did not get in the way. Gus still had one last task. The truck had to go beside the brush. Gus did the job step by step and did not rush. At last, the path was clear and the camp was neat. The hen sat on a mat. The mud rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the frog one last look. The from stayed in place, and the grab did not tip. A small grin was still by the path. Gus moved it back beside the pram."
+            },
+            {
+              "id": "r-blends-11",
+              "number": 11,
+              "title": "BEGINNING R-BLENDS 11 — A Crack in the Brick",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Dot had a job to do at camp. A grin sat by the sink. Dot had a pram in a pack and a press by the path. The job looked simple, but Dot had to make a plan. First, Dot picked up the trim and set it next to the trip. A shop came close and had a look. Dot gave it a pat and went back to work. Next, the truck had to be moved. It was not far, but it was in the wrong spot. Dot took it past the shed and put it by the brush. A quick wind hit the path. The crisp tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The rock stayed nearby. After the rest, Dot checked the grin, the trim, and the truck. All three were set. The hen came back, but it did not get in the way. Dot still had one last task. The gruff had to go beside the drag. Dot did the job step by step and did not rush. At last, the path was clear and the camp was neat. The mud sat on a mat. The pack rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the grin one last look. The pram stayed in place, and the press did not tip. A small trim was still by the path. Dot moved it back beside the trip."
+            },
+            {
+              "id": "r-blends-12",
+              "number": 12,
+              "title": "BEGINNING R-BLENDS 12 — The Truck on the Path",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ted had a job to do at camp. A trim sat by the shop. Ted had a trip in a pack and a truck by the path. The job looked simple, but Ted had to make a plan. First, Ted picked up the brush and set it next to the crisp. A rock came close and had a look. Ted gave it a pat and went back to work. Next, the gruff had to be moved. It was not far, but it was in the wrong spot. Ted took it past the shed and put it by the drag. A quick wind hit the path. The brag tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The hen stayed nearby. After the rest, Ted checked the trim, the brush, and the gruff. All three were set. The mud came back, but it did not get in the way. Ted still had one last task. The brick had to go beside the crab. Ted did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pack sat on a mat. The cat rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the trim one last look. The trip stayed in place, and the truck did not tip. A small brush was still by the path. Ted moved it back beside the crisp."
+            },
+            {
+              "id": "r-blends-13",
+              "number": 13,
+              "title": "BEGINNING R-BLENDS 13 — Grin at the Frog",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Max had a job to do at camp. A brush sat by the rock. Max had a crisp in a pack and a gruff by the path. The job looked simple, but Max had to make a plan. First, Max picked up the drag and set it next to the brag. A hen came close and had a look. Max gave it a pat and went back to work. Next, the brick had to be moved. It was not far, but it was in the wrong spot. Max took it past the shed and put it by the crab. A quick wind hit the path. The crack tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The mud stayed nearby. After the rest, Max checked the brush, the drag, and the brick. All three were set. The pack came back, but it did not get in the way. Max still had one last task. The drip had to go beside the drop. Max did the job step by step and did not rush. At last, the path was clear and the camp was neat. The cat sat on a mat. The pig rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the brush one last look. The crisp stayed in place, and the gruff did not tip. A small drag was still by the path. Max moved it back beside the brag."
+            },
+            {
+              "id": "r-blends-14",
+              "number": 14,
+              "title": "BEGINNING R-BLENDS 14 — The Crab in the Shop",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Liz had a job to do at camp. A drag sat by the hen. Liz had a brag in a pack and a brick by the path. The job looked simple, but Liz had to make a plan. First, Liz picked up the crab and set it next to the crack. A mud came close and had a look. Liz gave it a pat and went back to work. Next, the drip had to be moved. It was not far, but it was in the wrong spot. Liz took it past the shed and put it by the drop. A quick wind hit the path. The drum tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The pack stayed nearby. After the rest, Liz checked the drag, the crab, and the drip. All three were set. The cat came back, but it did not get in the way. Liz still had one last task. The frog had to go beside the from. Liz did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pig sat on a mat. The dog rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the drag one last look. The brag stayed in place, and the brick did not tip. A small crab was still by the path. Liz moved it back beside the crack."
+            },
+            {
+              "id": "r-blends-15",
+              "number": 15,
+              "title": "BEGINNING R-BLENDS 15 — Trim the Flag",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Cal had a job to do at camp. A crab sat by the mud. Cal had a crack in a pack and a drip by the path. The job looked simple, but Cal had to make a plan. First, Cal picked up the drop and set it next to the drum. A pack came close and had a look. Cal gave it a pat and went back to work. Next, the frog had to be moved. It was not far, but it was in the wrong spot. Cal took it past the shed and put it by the from. A quick wind hit the path. The grab tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The cat stayed nearby. After the rest, Cal checked the crab, the drop, and the frog. All three were set. The pig came back, but it did not get in the way. Cal still had one last task. The grin had to go beside the pram. Cal did the job step by step and did not rush. At last, the path was clear and the camp was neat. The dog sat on a mat. The sun rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the crab one last look. The crack stayed in place, and the drip did not tip. A small drop was still by the path. Cal moved it back beside the drum."
+            },
+            {
+              "id": "r-blends-16",
+              "number": 16,
+              "title": "BEGINNING R-BLENDS 16 — A Drop on the Map",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jen had a job to do at camp. A drop sat by the pack. Jen had a drum in a pack and a frog by the path. The job looked simple, but Jen had to make a plan. First, Jen picked up the from and set it next to the grab. A cat came close and had a look. Jen gave it a pat and went back to work. Next, the grin had to be moved. It was not far, but it was in the wrong spot. Jen took it past the shed and put it by the pram. A quick wind hit the path. The press tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jen checked the drop, the from, and the grin. All three were set. The dog came back, but it did not get in the way. Jen still had one last task. The trim had to go beside the trip. Jen did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sun sat on a mat. The red rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the drop one last look. The drum stayed in place, and the frog did not tip. A small from was still by the path. Jen moved it back beside the grab."
+            },
+            {
+              "id": "r-blends-17",
+              "number": 17,
+              "title": "BEGINNING R-BLENDS 17 — The Pram by the Pond",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Rob had a job to do at camp. A from sat by the cat. Rob had a grab in a pack and a grin by the path. The job looked simple, but Rob had to make a plan. First, Rob picked up the pram and set it next to the press. A pig came close and had a look. Rob gave it a pat and went back to work. Next, the trim had to be moved. It was not far, but it was in the wrong spot. Rob took it past the shed and put it by the trip. A quick wind hit the path. The truck tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The dog stayed nearby. After the rest, Rob checked the from, the pram, and the trim. All three were set. The sun came back, but it did not get in the way. Rob still had one last task. The brush had to go beside the crisp. Rob did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the from one last look. The grab stayed in place, and the grin did not tip. A small pram was still by the path. Rob moved it back beside the press."
+            },
+            {
+              "id": "r-blends-18",
+              "number": 18,
+              "title": "BEGINNING R-BLENDS 18 — Press the Lid",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nell had a job to do at camp. A pram sat by the pig. Nell had a press in a pack and a trim by the path. The job looked simple, but Nell had to make a plan. First, Nell picked up the trip and set it next to the truck. A dog came close and had a look. Nell gave it a pat and went back to work. Next, the brush had to be moved. It was not far, but it was in the wrong spot. Nell took it past the shed and put it by the crisp. A quick wind hit the path. The gruff tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The sun stayed nearby. After the rest, Nell checked the pram, the trip, and the brush. All three were set. The red came back, but it did not get in the way. Nell still had one last task. The drag had to go beside the brag. Nell did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the pram one last look. The press stayed in place, and the trim did not tip. A small trip was still by the path. Nell moved it back beside the truck."
+            },
+            {
+              "id": "r-blends-19",
+              "number": 19,
+              "title": "BEGINNING R-BLENDS 19 — The Brick and the Brush",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Bill had a job to do at camp. A trip sat by the dog. Bill had a truck in a pack and a brush by the path. The job looked simple, but Bill had to make a plan. First, Bill picked up the crisp and set it next to the gruff. A sun came close and had a look. Bill gave it a pat and went back to work. Next, the drag had to be moved. It was not far, but it was in the wrong spot. Bill took it past the shed and put it by the brag. A quick wind hit the path. The brick tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The red stayed nearby. After the rest, Bill checked the trip, the crisp, and the drag. All three were set. The fish came back, but it did not get in the way. Bill still had one last task. The crab had to go beside the crack. Bill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the trip one last look. The truck stayed in place, and the brush did not tip. A small crisp was still by the path. Bill moved it back beside the gruff."
+            },
+            {
+              "id": "r-blends-20",
+              "number": 20,
+              "title": "BEGINNING R-BLENDS 20 — The Last Truck Trip",
+              "skill": "r-blends",
+              "skillLabel": "Beginning r-blends",
+              "targetPattern": "Beginning r-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jess had a job to do at camp. A crisp sat by the sun. Jess had a gruff in a pack and a drag by the path. The job looked simple, but Jess had to make a plan. First, Jess picked up the brag and set it next to the brick. A red came close and had a look. Jess gave it a pat and went back to work. Next, the crab had to be moved. It was not far, but it was in the wrong spot. Jess took it past the shed and put it by the crack. A quick wind hit the path. The drip tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The fish stayed nearby. After the rest, Jess checked the crisp, the brag, and the crab. All three were set. The chick came back, but it did not get in the way. Jess still had one last task. The drop had to go beside the drum. Jess did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the crisp one last look. The gruff stayed in place, and the drag did not tip. A small brag was still by the path. Jess moved it back beside the brick."
+            }
+          ]
+        },
+        {
+          "id": "s-blends",
+          "label": "Beginning s-blends",
+          "order": 3,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "s-blends-01",
+              "number": 1,
+              "title": "BEGINNING S-BLENDS 01 — Skip to the Spot",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Sam had a job to do at camp. A skip sat by the cat. Sam had a skin in a pack and a skid by the path. The job looked simple, but Sam had to make a plan. First, Sam picked up the slam and set it next to the slip. A pig came close and had a look. Sam gave it a pat and went back to work. Next, the smell had to be moved. It was not far, but it was in the wrong spot. Sam took it past the shed and put it by the snap. A quick wind hit the path. The snip tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the skip, the slam, and the smell. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The spin had to go beside the spot. Sam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the skip one last look. The skin stayed in place, and the skid did not tip. A small slam was still by the path. Sam moved it back beside the slip."
+            },
+            {
+              "id": "s-blends-02",
+              "number": 2,
+              "title": "BEGINNING S-BLENDS 02 — The Stick by the Shed",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tim had a job to do at camp. A slam sat by the pig. Tim had a slip in a pack and a smell by the path. The job looked simple, but Tim had to make a plan. First, Tim picked up the snap and set it next to the snip. A dog came close and had a look. Tim gave it a pat and went back to work. Next, the spin had to be moved. It was not far, but it was in the wrong spot. Tim took it past the shed and put it by the spot. A quick wind hit the path. The step tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the slam, the snap, and the spin. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The stop had to go beside the swim. Tim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the slam one last look. The slip stayed in place, and the smell did not tip. A small snap was still by the path. Tim moved it back beside the snip."
+            },
+            {
+              "id": "s-blends-03",
+              "number": 3,
+              "title": "BEGINNING S-BLENDS 03 — A Snap at Camp",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Kim had a job to do at camp. A snap sat by the dog. Kim had a snip in a pack and a spin by the path. The job looked simple, but Kim had to make a plan. First, Kim picked up the spot and set it next to the step. A sun came close and had a look. Kim gave it a pat and went back to work. Next, the stop had to be moved. It was not far, but it was in the wrong spot. Kim took it past the shed and put it by the swim. A quick wind hit the path. The swell tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the snap, the spot, and the stop. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The stem had to go beside the stick. Kim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the snap one last look. The snip stayed in place, and the spin did not tip. A small spot was still by the path. Kim moved it back beside the step."
+            },
+            {
+              "id": "s-blends-04",
+              "number": 4,
+              "title": "BEGINNING S-BLENDS 04 — Stop at the Step",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ben had a job to do at camp. A spot sat by the sun. Ben had a step in a pack and a stop by the path. The job looked simple, but Ben had to make a plan. First, Ben picked up the swim and set it next to the swell. A red came close and had a look. Ben gave it a pat and went back to work. Next, the stem had to be moved. It was not far, but it was in the wrong spot. Ben took it past the shed and put it by the stick. A quick wind hit the path. The stand tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the spot, the swim, and the stem. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The spun had to go beside the snack. Ben did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the spot one last look. The step stayed in place, and the stop did not tip. A small swim was still by the path. Ben moved it back beside the swell."
+            },
+            {
+              "id": "s-blends-05",
+              "number": 5,
+              "title": "BEGINNING S-BLENDS 05 — The Smell in the Shop",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Meg had a job to do at camp. A swim sat by the red. Meg had a swell in a pack and a stem by the path. The job looked simple, but Meg had to make a plan. First, Meg picked up the stick and set it next to the stand. A fish came close and had a look. Meg gave it a pat and went back to work. Next, the spun had to be moved. It was not far, but it was in the wrong spot. Meg took it past the shed and put it by the snack. A quick wind hit the path. The sled tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the swim, the stick, and the spun. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The skip had to go beside the skin. Meg did the job step by step and did not rush. At last, the path was clear and the camp was neat. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the swim one last look. The swell stayed in place, and the stem did not tip. A small stick was still by the path. Meg moved it back beside the stand."
+            },
+            {
+              "id": "s-blends-06",
+              "number": 6,
+              "title": "BEGINNING S-BLENDS 06 — Spin the Top",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tom had a job to do at camp. A stick sat by the fish. Tom had a stand in a pack and a spun by the path. The job looked simple, but Tom had to make a plan. First, Tom picked up the snack and set it next to the sled. A chick came close and had a look. Tom gave it a pat and went back to work. Next, the skip had to be moved. It was not far, but it was in the wrong spot. Tom took it past the shed and put it by the skin. A quick wind hit the path. The skid tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the stick, the snack, and the skip. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The slam had to go beside the slip. Tom did the job step by step and did not rush. At last, the path was clear and the camp was neat. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the stick one last look. The stand stayed in place, and the spun did not tip. A small snack was still by the path. Tom moved it back beside the sled."
+            },
+            {
+              "id": "s-blends-07",
+              "number": 7,
+              "title": "BEGINNING S-BLENDS 07 — The Skid on the Path",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jill had a job to do at camp. A snack sat by the chick. Jill had a sled in a pack and a skip by the path. The job looked simple, but Jill had to make a plan. First, Jill picked up the skin and set it next to the skid. A path came close and had a look. Jill gave it a pat and went back to work. Next, the slam had to be moved. It was not far, but it was in the wrong spot. Jill took it past the shed and put it by the slip. A quick wind hit the path. The smell tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the snack, the skin, and the slam. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The snap had to go beside the snip. Jill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sink sat on a mat. The shop rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the snack one last look. The sled stayed in place, and the skip did not tip. A small skin was still by the path. Jill moved it back beside the skid."
+            },
+            {
+              "id": "s-blends-08",
+              "number": 8,
+              "title": "BEGINNING S-BLENDS 08 — Snip the Stem",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nick had a job to do at camp. A skin sat by the path. Nick had a skid in a pack and a slam by the path. The job looked simple, but Nick had to make a plan. First, Nick picked up the slip and set it next to the smell. A back came close and had a look. Nick gave it a pat and went back to work. Next, the snap had to be moved. It was not far, but it was in the wrong spot. Nick took it past the shed and put it by the snip. A quick wind hit the path. The spin tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the skin, the slip, and the snap. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The spot had to go beside the step. Nick did the job step by step and did not rush. At last, the path was clear and the camp was neat. The shop sat on a mat. The rock rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the skin one last look. The skid stayed in place, and the slam did not tip. A small slip was still by the path. Nick moved it back beside the smell."
+            },
+            {
+              "id": "s-blends-09",
+              "number": 9,
+              "title": "BEGINNING S-BLENDS 09 — A Swim in the Pond",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Pam had a job to do at camp. A slip sat by the back. Pam had a smell in a pack and a snap by the path. The job looked simple, but Pam had to make a plan. First, Pam picked up the snip and set it next to the spin. A ring came close and had a look. Pam gave it a pat and went back to work. Next, the spot had to be moved. It was not far, but it was in the wrong spot. Pam took it past the shed and put it by the step. A quick wind hit the path. The stop tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the slip, the snip, and the spot. All three were set. The shop came back, but it did not get in the way. Pam still had one last task. The swim had to go beside the swell. Pam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The rock sat on a mat. The hen rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the slip one last look. The smell stayed in place, and the snap did not tip. A small snip was still by the path. Pam moved it back beside the spin."
+            },
+            {
+              "id": "s-blends-10",
+              "number": 10,
+              "title": "BEGINNING S-BLENDS 10 — Stand by the Flag",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Gus had a job to do at camp. A snip sat by the ring. Gus had a spin in a pack and a spot by the path. The job looked simple, but Gus had to make a plan. First, Gus picked up the step and set it next to the stop. A sink came close and had a look. Gus gave it a pat and went back to work. Next, the swim had to be moved. It was not far, but it was in the wrong spot. Gus took it past the shed and put it by the swell. A quick wind hit the path. The stem tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The shop stayed nearby. After the rest, Gus checked the snip, the step, and the swim. All three were set. The rock came back, but it did not get in the way. Gus still had one last task. The stick had to go beside the stand. Gus did the job step by step and did not rush. At last, the path was clear and the camp was neat. The hen sat on a mat. The mud rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the snip one last look. The spin stayed in place, and the spot did not tip. A small step was still by the path. Gus moved it back beside the stop."
+            },
+            {
+              "id": "s-blends-11",
+              "number": 11,
+              "title": "BEGINNING S-BLENDS 11 — The Spot on the Map",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Dot had a job to do at camp. A step sat by the sink. Dot had a stop in a pack and a swim by the path. The job looked simple, but Dot had to make a plan. First, Dot picked up the swell and set it next to the stem. A shop came close and had a look. Dot gave it a pat and went back to work. Next, the stick had to be moved. It was not far, but it was in the wrong spot. Dot took it past the shed and put it by the stand. A quick wind hit the path. The spun tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The rock stayed nearby. After the rest, Dot checked the step, the swell, and the stick. All three were set. The hen came back, but it did not get in the way. Dot still had one last task. The snack had to go beside the sled. Dot did the job step by step and did not rush. At last, the path was clear and the camp was neat. The mud sat on a mat. The pack rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the step one last look. The stop stayed in place, and the swim did not tip. A small swell was still by the path. Dot moved it back beside the stem."
+            },
+            {
+              "id": "s-blends-12",
+              "number": 12,
+              "title": "BEGINNING S-BLENDS 12 — A Snack on the Step",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ted had a job to do at camp. A swell sat by the shop. Ted had a stem in a pack and a stick by the path. The job looked simple, but Ted had to make a plan. First, Ted picked up the stand and set it next to the spun. A rock came close and had a look. Ted gave it a pat and went back to work. Next, the snack had to be moved. It was not far, but it was in the wrong spot. Ted took it past the shed and put it by the sled. A quick wind hit the path. The skip tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The hen stayed nearby. After the rest, Ted checked the swell, the stand, and the snack. All three were set. The mud came back, but it did not get in the way. Ted still had one last task. The skin had to go beside the skid. Ted did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pack sat on a mat. The cat rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the swell one last look. The stem stayed in place, and the stick did not tip. A small stand was still by the path. Ted moved it back beside the spun."
+            },
+            {
+              "id": "s-blends-13",
+              "number": 13,
+              "title": "BEGINNING S-BLENDS 13 — The Sled at Camp",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Max had a job to do at camp. A stand sat by the rock. Max had a spun in a pack and a snack by the path. The job looked simple, but Max had to make a plan. First, Max picked up the sled and set it next to the skip. A hen came close and had a look. Max gave it a pat and went back to work. Next, the skin had to be moved. It was not far, but it was in the wrong spot. Max took it past the shed and put it by the skid. A quick wind hit the path. The slam tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The mud stayed nearby. After the rest, Max checked the stand, the sled, and the skin. All three were set. The pack came back, but it did not get in the way. Max still had one last task. The slip had to go beside the smell. Max did the job step by step and did not rush. At last, the path was clear and the camp was neat. The cat sat on a mat. The pig rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the stand one last look. The spun stayed in place, and the snack did not tip. A small sled was still by the path. Max moved it back beside the skip."
+            },
+            {
+              "id": "s-blends-14",
+              "number": 14,
+              "title": "BEGINNING S-BLENDS 14 — Slip, Then Stop",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Liz had a job to do at camp. A sled sat by the hen. Liz had a skip in a pack and a skin by the path. The job looked simple, but Liz had to make a plan. First, Liz picked up the skid and set it next to the slam. A mud came close and had a look. Liz gave it a pat and went back to work. Next, the slip had to be moved. It was not far, but it was in the wrong spot. Liz took it past the shed and put it by the smell. A quick wind hit the path. The snap tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The pack stayed nearby. After the rest, Liz checked the sled, the skid, and the slip. All three were set. The cat came back, but it did not get in the way. Liz still had one last task. The snip had to go beside the spin. Liz did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pig sat on a mat. The dog rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the sled one last look. The skip stayed in place, and the skin did not tip. A small skid was still by the path. Liz moved it back beside the slam."
+            },
+            {
+              "id": "s-blends-15",
+              "number": 15,
+              "title": "BEGINNING S-BLENDS 15 — The Stick in the Mud",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Cal had a job to do at camp. A skid sat by the mud. Cal had a slam in a pack and a slip by the path. The job looked simple, but Cal had to make a plan. First, Cal picked up the smell and set it next to the snap. A pack came close and had a look. Cal gave it a pat and went back to work. Next, the snip had to be moved. It was not far, but it was in the wrong spot. Cal took it past the shed and put it by the spin. A quick wind hit the path. The spot tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The cat stayed nearby. After the rest, Cal checked the skid, the smell, and the snip. All three were set. The pig came back, but it did not get in the way. Cal still had one last task. The step had to go beside the stop. Cal did the job step by step and did not rush. At last, the path was clear and the camp was neat. The dog sat on a mat. The sun rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the skid one last look. The slam stayed in place, and the slip did not tip. A small smell was still by the path. Cal moved it back beside the snap."
+            },
+            {
+              "id": "s-blends-16",
+              "number": 16,
+              "title": "BEGINNING S-BLENDS 16 — The Spin at the Shop",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jen had a job to do at camp. A smell sat by the pack. Jen had a snap in a pack and a snip by the path. The job looked simple, but Jen had to make a plan. First, Jen picked up the spin and set it next to the spot. A cat came close and had a look. Jen gave it a pat and went back to work. Next, the step had to be moved. It was not far, but it was in the wrong spot. Jen took it past the shed and put it by the stop. A quick wind hit the path. The swim tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jen checked the smell, the spin, and the step. All three were set. The dog came back, but it did not get in the way. Jen still had one last task. The swell had to go beside the stem. Jen did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sun sat on a mat. The red rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the smell one last look. The snap stayed in place, and the snip did not tip. A small spin was still by the path. Jen moved it back beside the spot."
+            },
+            {
+              "id": "s-blends-17",
+              "number": 17,
+              "title": "BEGINNING S-BLENDS 17 — A Stem for Meg",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Rob had a job to do at camp. A spin sat by the cat. Rob had a spot in a pack and a step by the path. The job looked simple, but Rob had to make a plan. First, Rob picked up the stop and set it next to the swim. A pig came close and had a look. Rob gave it a pat and went back to work. Next, the swell had to be moved. It was not far, but it was in the wrong spot. Rob took it past the shed and put it by the stem. A quick wind hit the path. The stick tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The dog stayed nearby. After the rest, Rob checked the spin, the stop, and the swell. All three were set. The sun came back, but it did not get in the way. Rob still had one last task. The stand had to go beside the spun. Rob did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the spin one last look. The spot stayed in place, and the step did not tip. A small stop was still by the path. Rob moved it back beside the swim."
+            },
+            {
+              "id": "s-blends-18",
+              "number": 18,
+              "title": "BEGINNING S-BLENDS 18 — The Skid and the Sled",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nell had a job to do at camp. A stop sat by the pig. Nell had a swim in a pack and a swell by the path. The job looked simple, but Nell had to make a plan. First, Nell picked up the stem and set it next to the stick. A dog came close and had a look. Nell gave it a pat and went back to work. Next, the stand had to be moved. It was not far, but it was in the wrong spot. Nell took it past the shed and put it by the spun. A quick wind hit the path. The snack tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The sun stayed nearby. After the rest, Nell checked the stop, the stem, and the stand. All three were set. The red came back, but it did not get in the way. Nell still had one last task. The sled had to go beside the skip. Nell did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the stop one last look. The swim stayed in place, and the swell did not tip. A small stem was still by the path. Nell moved it back beside the stick."
+            },
+            {
+              "id": "s-blends-19",
+              "number": 19,
+              "title": "BEGINNING S-BLENDS 19 — The Swell by the Pond",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Bill had a job to do at camp. A stem sat by the dog. Bill had a stick in a pack and a stand by the path. The job looked simple, but Bill had to make a plan. First, Bill picked up the spun and set it next to the snack. A sun came close and had a look. Bill gave it a pat and went back to work. Next, the sled had to be moved. It was not far, but it was in the wrong spot. Bill took it past the shed and put it by the skip. A quick wind hit the path. The skin tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The red stayed nearby. After the rest, Bill checked the stem, the spun, and the sled. All three were set. The fish came back, but it did not get in the way. Bill still had one last task. The skid had to go beside the slam. Bill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the stem one last look. The stick stayed in place, and the stand did not tip. A small spun was still by the path. Bill moved it back beside the snack."
+            },
+            {
+              "id": "s-blends-20",
+              "number": 20,
+              "title": "BEGINNING S-BLENDS 20 — The Last Stop",
+              "skill": "s-blends",
+              "skillLabel": "Beginning s-blends",
+              "targetPattern": "Beginning s-blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "l-blends",
+                "r-blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jess had a job to do at camp. A spun sat by the sun. Jess had a snack in a pack and a sled by the path. The job looked simple, but Jess had to make a plan. First, Jess picked up the skip and set it next to the skin. A red came close and had a look. Jess gave it a pat and went back to work. Next, the skid had to be moved. It was not far, but it was in the wrong spot. Jess took it past the shed and put it by the slam. A quick wind hit the path. The slip tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The fish stayed nearby. After the rest, Jess checked the spun, the skip, and the skid. All three were set. The chick came back, but it did not get in the way. Jess still had one last task. The smell had to go beside the snap. Jess did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the spun one last look. The snack stayed in place, and the sled did not tip. A small skip was still by the path. Jess moved it back beside the skin."
+            }
+          ]
+        },
+        {
+          "id": "final-blends",
+          "label": "Final blends",
+          "order": 4,
+          "status": "draft-review",
+          "passageCount": 20,
+          "passages": [
+            {
+              "id": "final-blends-01",
+              "number": 1,
+              "title": "FINAL BLENDS 01 — The Tent at Camp",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Sam had a job to do at camp. A hand sat by the cat. Sam had a sand in a pack and a pond by the path. The job looked simple, but Sam had to make a plan. First, Sam picked up the tent and set it next to the lamp. A pig came close and had a look. Sam gave it a pat and went back to work. Next, the jump had to be moved. It was not far, but it was in the wrong spot. Sam took it past the shed and put it by the milk. A quick wind hit the path. The help tipped, but Sam caught it before it fell. Then Sam sat for a short rest and had a snack. The dog stayed nearby. After the rest, Sam checked the hand, the tent, and the jump. All three were set. The sun came back, but it did not get in the way. Sam still had one last task. The best had to go beside the rest. Sam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Sam smiled. It had been a busy job, but the plan had worked. Sam gave the hand one last look. The sand stayed in place, and the pond did not tip. A small tent was still by the path. Sam moved it back beside the lamp."
+            },
+            {
+              "id": "final-blends-02",
+              "number": 2,
+              "title": "FINAL BLENDS 02 — Sand by the Pond",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tim had a job to do at camp. A tent sat by the pig. Tim had a lamp in a pack and a jump by the path. The job looked simple, but Tim had to make a plan. First, Tim picked up the milk and set it next to the help. A dog came close and had a look. Tim gave it a pat and went back to work. Next, the best had to be moved. It was not far, but it was in the wrong spot. Tim took it past the shed and put it by the rest. A quick wind hit the path. The fast tipped, but Tim caught it before it fell. Then Tim sat for a short rest and had a snack. The sun stayed nearby. After the rest, Tim checked the tent, the milk, and the best. All three were set. The red came back, but it did not get in the way. Tim still had one last task. The last had to go beside the desk. Tim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Tim smiled. It had been a busy job, but the plan had worked. Tim gave the tent one last look. The lamp stayed in place, and the jump did not tip. A small milk was still by the path. Tim moved it back beside the help."
+            },
+            {
+              "id": "final-blends-03",
+              "number": 3,
+              "title": "FINAL BLENDS 03 — A Lamp on the Desk",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Kim had a job to do at camp. A milk sat by the dog. Kim had a help in a pack and a best by the path. The job looked simple, but Kim had to make a plan. First, Kim picked up the rest and set it next to the fast. A sun came close and had a look. Kim gave it a pat and went back to work. Next, the last had to be moved. It was not far, but it was in the wrong spot. Kim took it past the shed and put it by the desk. A quick wind hit the path. The nest tipped, but Kim caught it before it fell. Then Kim sat for a short rest and had a snack. The red stayed nearby. After the rest, Kim checked the milk, the rest, and the last. All three were set. The fish came back, but it did not get in the way. Kim still had one last task. The gift had to go beside the left. Kim did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Kim smiled. It had been a busy job, but the plan had worked. Kim gave the milk one last look. The help stayed in place, and the best did not tip. A small rest was still by the path. Kim moved it back beside the fast."
+            },
+            {
+              "id": "final-blends-04",
+              "number": 4,
+              "title": "FINAL BLENDS 04 — The Best Gift",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ben had a job to do at camp. A rest sat by the sun. Ben had a fast in a pack and a last by the path. The job looked simple, but Ben had to make a plan. First, Ben picked up the desk and set it next to the nest. A red came close and had a look. Ben gave it a pat and went back to work. Next, the gift had to be moved. It was not far, but it was in the wrong spot. Ben took it past the shed and put it by the left. A quick wind hit the path. The soft tipped, but Ben caught it before it fell. Then Ben sat for a short rest and had a snack. The fish stayed nearby. After the rest, Ben checked the rest, the desk, and the gift. All three were set. The chick came back, but it did not get in the way. Ben still had one last task. The camp had to go beside the belt. Ben did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Ben smiled. It had been a busy job, but the plan had worked. Ben gave the rest one last look. The fast stayed in place, and the last did not tip. A small desk was still by the path. Ben moved it back beside the nest."
+            },
+            {
+              "id": "final-blends-05",
+              "number": 5,
+              "title": "FINAL BLENDS 05 — Help at the Camp",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Meg had a job to do at camp. A desk sat by the red. Meg had a nest in a pack and a gift by the path. The job looked simple, but Meg had to make a plan. First, Meg picked up the left and set it next to the soft. A fish came close and had a look. Meg gave it a pat and went back to work. Next, the camp had to be moved. It was not far, but it was in the wrong spot. Meg took it past the shed and put it by the belt. A quick wind hit the path. The wind tipped, but Meg caught it before it fell. Then Meg sat for a short rest and had a snack. The chick stayed nearby. After the rest, Meg checked the desk, the left, and the camp. All three were set. The path came back, but it did not get in the way. Meg still had one last task. The hand had to go beside the sand. Meg did the job step by step and did not rush. At last, the path was clear and the camp was neat. The back sat on a mat. The ring rested by the shed. Meg smiled. It had been a busy job, but the plan had worked. Meg gave the desk one last look. The nest stayed in place, and the gift did not tip. A small left was still by the path. Meg moved it back beside the soft."
+            },
+            {
+              "id": "final-blends-06",
+              "number": 6,
+              "title": "FINAL BLENDS 06 — The Nest by the Pond",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Tom had a job to do at camp. A left sat by the fish. Tom had a soft in a pack and a camp by the path. The job looked simple, but Tom had to make a plan. First, Tom picked up the belt and set it next to the wind. A chick came close and had a look. Tom gave it a pat and went back to work. Next, the hand had to be moved. It was not far, but it was in the wrong spot. Tom took it past the shed and put it by the sand. A quick wind hit the path. The pond tipped, but Tom caught it before it fell. Then Tom sat for a short rest and had a snack. The path stayed nearby. After the rest, Tom checked the left, the belt, and the hand. All three were set. The back came back, but it did not get in the way. Tom still had one last task. The tent had to go beside the lamp. Tom did the job step by step and did not rush. At last, the path was clear and the camp was neat. The ring sat on a mat. The sink rested by the shed. Tom smiled. It had been a busy job, but the plan had worked. Tom gave the left one last look. The soft stayed in place, and the camp did not tip. A small belt was still by the path. Tom moved it back beside the wind."
+            },
+            {
+              "id": "final-blends-07",
+              "number": 7,
+              "title": "FINAL BLENDS 07 — A Fast Jump",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jill had a job to do at camp. A belt sat by the chick. Jill had a wind in a pack and a hand by the path. The job looked simple, but Jill had to make a plan. First, Jill picked up the sand and set it next to the pond. A path came close and had a look. Jill gave it a pat and went back to work. Next, the tent had to be moved. It was not far, but it was in the wrong spot. Jill took it past the shed and put it by the lamp. A quick wind hit the path. The jump tipped, but Jill caught it before it fell. Then Jill sat for a short rest and had a snack. The back stayed nearby. After the rest, Jill checked the belt, the sand, and the tent. All three were set. The ring came back, but it did not get in the way. Jill still had one last task. The milk had to go beside the help. Jill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sink sat on a mat. The shop rested by the shed. Jill smiled. It had been a busy job, but the plan had worked. Jill gave the belt one last look. The wind stayed in place, and the hand did not tip. A small sand was still by the path. Jill moved it back beside the pond."
+            },
+            {
+              "id": "final-blends-08",
+              "number": 8,
+              "title": "FINAL BLENDS 08 — The Last Tent",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nick had a job to do at camp. A sand sat by the path. Nick had a pond in a pack and a tent by the path. The job looked simple, but Nick had to make a plan. First, Nick picked up the lamp and set it next to the jump. A back came close and had a look. Nick gave it a pat and went back to work. Next, the milk had to be moved. It was not far, but it was in the wrong spot. Nick took it past the shed and put it by the help. A quick wind hit the path. The best tipped, but Nick caught it before it fell. Then Nick sat for a short rest and had a snack. The ring stayed nearby. After the rest, Nick checked the sand, the lamp, and the milk. All three were set. The sink came back, but it did not get in the way. Nick still had one last task. The rest had to go beside the fast. Nick did the job step by step and did not rush. At last, the path was clear and the camp was neat. The shop sat on a mat. The rock rested by the shed. Nick smiled. It had been a busy job, but the plan had worked. Nick gave the sand one last look. The pond stayed in place, and the tent did not tip. A small lamp was still by the path. Nick moved it back beside the jump."
+            },
+            {
+              "id": "final-blends-09",
+              "number": 9,
+              "title": "FINAL BLENDS 09 — Milk at Lunch",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Pam had a job to do at camp. A lamp sat by the back. Pam had a jump in a pack and a milk by the path. The job looked simple, but Pam had to make a plan. First, Pam picked up the help and set it next to the best. A ring came close and had a look. Pam gave it a pat and went back to work. Next, the rest had to be moved. It was not far, but it was in the wrong spot. Pam took it past the shed and put it by the fast. A quick wind hit the path. The last tipped, but Pam caught it before it fell. Then Pam sat for a short rest and had a snack. The sink stayed nearby. After the rest, Pam checked the lamp, the help, and the rest. All three were set. The shop came back, but it did not get in the way. Pam still had one last task. The desk had to go beside the nest. Pam did the job step by step and did not rush. At last, the path was clear and the camp was neat. The rock sat on a mat. The hen rested by the shed. Pam smiled. It had been a busy job, but the plan had worked. Pam gave the lamp one last look. The jump stayed in place, and the milk did not tip. A small help was still by the path. Pam moved it back beside the best."
+            },
+            {
+              "id": "final-blends-10",
+              "number": 10,
+              "title": "FINAL BLENDS 10 — The Belt in the Shop",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Gus had a job to do at camp. A help sat by the ring. Gus had a best in a pack and a rest by the path. The job looked simple, but Gus had to make a plan. First, Gus picked up the fast and set it next to the last. A sink came close and had a look. Gus gave it a pat and went back to work. Next, the desk had to be moved. It was not far, but it was in the wrong spot. Gus took it past the shed and put it by the nest. A quick wind hit the path. The gift tipped, but Gus caught it before it fell. Then Gus sat for a short rest and had a snack. The shop stayed nearby. After the rest, Gus checked the help, the fast, and the desk. All three were set. The rock came back, but it did not get in the way. Gus still had one last task. The left had to go beside the soft. Gus did the job step by step and did not rush. At last, the path was clear and the camp was neat. The hen sat on a mat. The mud rested by the shed. Gus smiled. It had been a busy job, but the plan had worked. Gus gave the help one last look. The best stayed in place, and the rest did not tip. A small fast was still by the path. Gus moved it back beside the last."
+            },
+            {
+              "id": "final-blends-11",
+              "number": 11,
+              "title": "FINAL BLENDS 11 — Rest on the Sand",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Dot had a job to do at camp. A fast sat by the sink. Dot had a last in a pack and a desk by the path. The job looked simple, but Dot had to make a plan. First, Dot picked up the nest and set it next to the gift. A shop came close and had a look. Dot gave it a pat and went back to work. Next, the left had to be moved. It was not far, but it was in the wrong spot. Dot took it past the shed and put it by the soft. A quick wind hit the path. The camp tipped, but Dot caught it before it fell. Then Dot sat for a short rest and had a snack. The rock stayed nearby. After the rest, Dot checked the fast, the nest, and the left. All three were set. The hen came back, but it did not get in the way. Dot still had one last task. The belt had to go beside the wind. Dot did the job step by step and did not rush. At last, the path was clear and the camp was neat. The mud sat on a mat. The pack rested by the shed. Dot smiled. It had been a busy job, but the plan had worked. Dot gave the fast one last look. The last stayed in place, and the desk did not tip. A small nest was still by the path. Dot moved it back beside the gift."
+            },
+            {
+              "id": "final-blends-12",
+              "number": 12,
+              "title": "FINAL BLENDS 12 — The Gift on the Desk",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Ted had a job to do at camp. A nest sat by the shop. Ted had a gift in a pack and a left by the path. The job looked simple, but Ted had to make a plan. First, Ted picked up the soft and set it next to the camp. A rock came close and had a look. Ted gave it a pat and went back to work. Next, the belt had to be moved. It was not far, but it was in the wrong spot. Ted took it past the shed and put it by the wind. A quick wind hit the path. The hand tipped, but Ted caught it before it fell. Then Ted sat for a short rest and had a snack. The hen stayed nearby. After the rest, Ted checked the nest, the soft, and the belt. All three were set. The mud came back, but it did not get in the way. Ted still had one last task. The sand had to go beside the pond. Ted did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pack sat on a mat. The cat rested by the shed. Ted smiled. It had been a busy job, but the plan had worked. Ted gave the nest one last look. The gift stayed in place, and the left did not tip. A small soft was still by the path. Ted moved it back beside the camp."
+            },
+            {
+              "id": "final-blends-13",
+              "number": 13,
+              "title": "FINAL BLENDS 13 — A Soft Wind",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Max had a job to do at camp. A soft sat by the rock. Max had a camp in a pack and a belt by the path. The job looked simple, but Max had to make a plan. First, Max picked up the wind and set it next to the hand. A hen came close and had a look. Max gave it a pat and went back to work. Next, the sand had to be moved. It was not far, but it was in the wrong spot. Max took it past the shed and put it by the pond. A quick wind hit the path. The tent tipped, but Max caught it before it fell. Then Max sat for a short rest and had a snack. The mud stayed nearby. After the rest, Max checked the soft, the wind, and the sand. All three were set. The pack came back, but it did not get in the way. Max still had one last task. The lamp had to go beside the jump. Max did the job step by step and did not rush. At last, the path was clear and the camp was neat. The cat sat on a mat. The pig rested by the shed. Max smiled. It had been a busy job, but the plan had worked. Max gave the soft one last look. The camp stayed in place, and the belt did not tip. A small wind was still by the path. Max moved it back beside the hand."
+            },
+            {
+              "id": "final-blends-14",
+              "number": 14,
+              "title": "FINAL BLENDS 14 — The Hand on the Map",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Liz had a job to do at camp. A wind sat by the hen. Liz had a hand in a pack and a sand by the path. The job looked simple, but Liz had to make a plan. First, Liz picked up the pond and set it next to the tent. A mud came close and had a look. Liz gave it a pat and went back to work. Next, the lamp had to be moved. It was not far, but it was in the wrong spot. Liz took it past the shed and put it by the jump. A quick wind hit the path. The milk tipped, but Liz caught it before it fell. Then Liz sat for a short rest and had a snack. The pack stayed nearby. After the rest, Liz checked the wind, the pond, and the lamp. All three were set. The cat came back, but it did not get in the way. Liz still had one last task. The help had to go beside the best. Liz did the job step by step and did not rush. At last, the path was clear and the camp was neat. The pig sat on a mat. The dog rested by the shed. Liz smiled. It had been a busy job, but the plan had worked. Liz gave the wind one last look. The hand stayed in place, and the sand did not tip. A small pond was still by the path. Liz moved it back beside the tent."
+            },
+            {
+              "id": "final-blends-15",
+              "number": 15,
+              "title": "FINAL BLENDS 15 — The Best Camp Job",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Cal had a job to do at camp. A pond sat by the mud. Cal had a tent in a pack and a lamp by the path. The job looked simple, but Cal had to make a plan. First, Cal picked up the jump and set it next to the milk. A pack came close and had a look. Cal gave it a pat and went back to work. Next, the help had to be moved. It was not far, but it was in the wrong spot. Cal took it past the shed and put it by the best. A quick wind hit the path. The rest tipped, but Cal caught it before it fell. Then Cal sat for a short rest and had a snack. The cat stayed nearby. After the rest, Cal checked the pond, the jump, and the help. All three were set. The pig came back, but it did not get in the way. Cal still had one last task. The fast had to go beside the last. Cal did the job step by step and did not rush. At last, the path was clear and the camp was neat. The dog sat on a mat. The sun rested by the shed. Cal smiled. It had been a busy job, but the plan had worked. Cal gave the pond one last look. The tent stayed in place, and the lamp did not tip. A small jump was still by the path. Cal moved it back beside the milk."
+            },
+            {
+              "id": "final-blends-16",
+              "number": 16,
+              "title": "FINAL BLENDS 16 — The Lamp by the Tent",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jen had a job to do at camp. A jump sat by the pack. Jen had a milk in a pack and a help by the path. The job looked simple, but Jen had to make a plan. First, Jen picked up the best and set it next to the rest. A cat came close and had a look. Jen gave it a pat and went back to work. Next, the fast had to be moved. It was not far, but it was in the wrong spot. Jen took it past the shed and put it by the last. A quick wind hit the path. The desk tipped, but Jen caught it before it fell. Then Jen sat for a short rest and had a snack. The pig stayed nearby. After the rest, Jen checked the jump, the best, and the fast. All three were set. The dog came back, but it did not get in the way. Jen still had one last task. The nest had to go beside the gift. Jen did the job step by step and did not rush. At last, the path was clear and the camp was neat. The sun sat on a mat. The red rested by the shed. Jen smiled. It had been a busy job, but the plan had worked. Jen gave the jump one last look. The milk stayed in place, and the help did not tip. A small best was still by the path. Jen moved it back beside the rest."
+            },
+            {
+              "id": "final-blends-17",
+              "number": 17,
+              "title": "FINAL BLENDS 17 — A Jump at the Pond",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Rob had a job to do at camp. A best sat by the cat. Rob had a rest in a pack and a fast by the path. The job looked simple, but Rob had to make a plan. First, Rob picked up the last and set it next to the desk. A pig came close and had a look. Rob gave it a pat and went back to work. Next, the nest had to be moved. It was not far, but it was in the wrong spot. Rob took it past the shed and put it by the gift. A quick wind hit the path. The left tipped, but Rob caught it before it fell. Then Rob sat for a short rest and had a snack. The dog stayed nearby. After the rest, Rob checked the best, the last, and the nest. All three were set. The sun came back, but it did not get in the way. Rob still had one last task. The soft had to go beside the camp. Rob did the job step by step and did not rush. At last, the path was clear and the camp was neat. The red sat on a mat. The fish rested by the shed. Rob smiled. It had been a busy job, but the plan had worked. Rob gave the best one last look. The rest stayed in place, and the fast did not tip. A small last was still by the path. Rob moved it back beside the desk."
+            },
+            {
+              "id": "final-blends-18",
+              "number": 18,
+              "title": "FINAL BLENDS 18 — The Nest in the Shed",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Nell had a job to do at camp. A last sat by the pig. Nell had a desk in a pack and a nest by the path. The job looked simple, but Nell had to make a plan. First, Nell picked up the gift and set it next to the left. A dog came close and had a look. Nell gave it a pat and went back to work. Next, the soft had to be moved. It was not far, but it was in the wrong spot. Nell took it past the shed and put it by the camp. A quick wind hit the path. The belt tipped, but Nell caught it before it fell. Then Nell sat for a short rest and had a snack. The sun stayed nearby. After the rest, Nell checked the last, the gift, and the soft. All three were set. The red came back, but it did not get in the way. Nell still had one last task. The wind had to go beside the hand. Nell did the job step by step and did not rush. At last, the path was clear and the camp was neat. The fish sat on a mat. The chick rested by the shed. Nell smiled. It had been a busy job, but the plan had worked. Nell gave the last one last look. The desk stayed in place, and the nest did not tip. A small gift was still by the path. Nell moved it back beside the left."
+            },
+            {
+              "id": "final-blends-19",
+              "number": 19,
+              "title": "FINAL BLENDS 19 — The Last Gift",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Bill had a job to do at camp. A gift sat by the dog. Bill had a left in a pack and a soft by the path. The job looked simple, but Bill had to make a plan. First, Bill picked up the camp and set it next to the belt. A sun came close and had a look. Bill gave it a pat and went back to work. Next, the wind had to be moved. It was not far, but it was in the wrong spot. Bill took it past the shed and put it by the hand. A quick wind hit the path. The sand tipped, but Bill caught it before it fell. Then Bill sat for a short rest and had a snack. The red stayed nearby. After the rest, Bill checked the gift, the camp, and the wind. All three were set. The fish came back, but it did not get in the way. Bill still had one last task. The pond had to go beside the tent. Bill did the job step by step and did not rush. At last, the path was clear and the camp was neat. The chick sat on a mat. The path rested by the shed. Bill smiled. It had been a busy job, but the plan had worked. Bill gave the gift one last look. The left stayed in place, and the soft did not tip. A small camp was still by the path. Bill moved it back beside the belt."
+            },
+            {
+              "id": "final-blends-20",
+              "number": 20,
+              "title": "FINAL BLENDS 20 — The Wind at Camp",
+              "skill": "final-blends",
+              "skillLabel": "Final blends",
+              "targetPattern": "Final blends",
+              "reviewPatterns": [
+                "short vowels",
+                "digraphs",
+                "beginning blends"
+              ],
+              "status": "draft-review",
+              "wordCount": 252,
+              "text": "Jess had a job to do at camp. A camp sat by the sun. Jess had a belt in a pack and a wind by the path. The job looked simple, but Jess had to make a plan. First, Jess picked up the hand and set it next to the sand. A red came close and had a look. Jess gave it a pat and went back to work. Next, the pond had to be moved. It was not far, but it was in the wrong spot. Jess took it past the shed and put it by the tent. A quick wind hit the path. The lamp tipped, but Jess caught it before it fell. Then Jess sat for a short rest and had a snack. The fish stayed nearby. After the rest, Jess checked the camp, the hand, and the pond. All three were set. The chick came back, but it did not get in the way. Jess still had one last task. The jump had to go beside the milk. Jess did the job step by step and did not rush. At last, the path was clear and the camp was neat. The path sat on a mat. The back rested by the shed. Jess smiled. It had been a busy job, but the plan had worked. Jess gave the camp one last look. The belt stayed in place, and the wind did not tip. A small hand was still by the path. Jess moved it back beside the sand."
             }
           ]
         }
