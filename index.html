@@ -126,22 +126,87 @@ $('loadStatus').textContent=message||'Could not load the live roster. Showing th
 $('loadStatus').className='status warning';
 }
 
-function loadStudents(){
-$('student').disabled=true;
-$('student').innerHTML='<option value="">Loading live roster…</option>';
+const ROSTER_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzF9SIrqyyXip84Gi-Tv5j6IcKCpJutGpLA9cvVM2yJdH3jRj1HqGIC7vAFRqNw0teEtQ/exec';
 
-window.DFC_ROSTER_CALLBACK=function(response){
-clearTimeout(rosterLoadTimer);
-try{
-if(!response||response.status==='error'||!response.table)throw new Error('No roster table returned');
-const labels=(response.table.cols||[]).map(c=>String(c.label||'').trim());
-const col=name=>labels.findIndex(x=>x.toLowerCase()===name.toLowerCase());
-const idCol=col('Student ID'), firstCol=col('First Name'), lastCol=col('Last Name'), displayCol=col('Display Name'), gradeCol=col('Grade'), groupCol=col('Reading Group'), activeCol=col('Active?');
-const value=(row,index)=>{if(index<0||!row.c||!row.c[index])return '';const cell=row.c[index];return String(cell.f??cell.v??'').trim()};
-students=(response.table.rows||[]).map((row,i)=>{
-const active=value(row,activeCol).toLowerCase();
-const display=value(row,displayCol)||[value(row,firstCol),value(row,lastCol)].filter(Boolean).join(' ')||('Student '+(i+1));
-return {id:value(row,idCol)||String(i+1),name:display,grade:value(row,gradeCol),teacher:'',readingGroup:value(row,groupCol),active};
+function loadStudents(){
+  $('student').disabled = true;
+  $('student').innerHTML = '<option value="">Loading students…</option>';
+
+  const callbackName = '__dfcRosterCallback_' + Date.now();
+
+  window[callbackName] = function(payload){
+    try{
+      if(!payload || !payload.success){
+        throw new Error(payload && payload.message ? payload.message : 'Roster request failed.');
+      }
+
+      students = (payload.students || []).map((student, i) => ({
+        id: String(student.id || i + 1),
+        name: student.name || ('Student ' + (i + 1)),
+        grade: student.grade || '',
+        teacher: student.teacher || '',
+        readingGroup: student.readingGroup || ''
+      }));
+
+      $('student').innerHTML = '<option value="">Choose your name</option>';
+
+      students.forEach((student, index) => {
+        const option = document.createElement('option');
+        option.value = String(index);
+        option.textContent = student.name;
+        $('student').appendChild(option);
+      });
+
+      $('student').disabled = students.length === 0;
+
+      if(students.length){
+        updateLoadStatus();
+      }else{
+        $('loadStatus').textContent = 'The roster loaded, but no active students were found.';
+        $('loadStatus').className = 'status warning';
+      }
+    }catch(error){
+      console.error(error);
+      $('student').innerHTML = '<option value="">Roster unavailable</option>';
+      $('student').disabled = true;
+      $('loadStatus').textContent = 'The student roster could not be loaded. Check the Apps Script deployment.';
+      $('loadStatus').className = 'status bad';
+    }finally{
+      delete window[callbackName];
+      const oldScript = document.getElementById(callbackName);
+      if(oldScript) oldScript.remove();
+    }
+  };
+
+  const script = document.createElement('script');
+  script.id = callbackName;
+  script.src = ROSTER_WEB_APP_URL +
+    '?action=roster&callback=' + encodeURIComponent(callbackName) +
+    '&t=' + Date.now();
+
+  script.onerror = function(){
+    delete window[callbackName];
+    script.remove();
+    $('student').innerHTML = '<option value="">Roster unavailable</option>';
+    $('student').disabled = true;
+    $('loadStatus').textContent = 'The student roster could not be loaded from Apps Script.';
+    $('loadStatus').className = 'status bad';
+  };
+
+  document.head.appendChild(script);
+}
+
+function updateLoadStatus(){
+  if(!window.DFC || typeof window.DFC.getSkills !== 'function') return;
+
+  const skills = window.DFC.getSkills().filter(skill => (skill.passages || []).length > 0);
+
+  if(students.length && skills.length){
+    $('loadStatus').textContent =
+      `Ready! ${students.length} students, ${skills.length} skills, and ` +
+      `${skills.reduce((n,s)=>n+s.passages.length,0)} passages loaded.`;
+    $('loadStatus').className = 'status good';
+  }
 }).filter(s=>!s.active||['yes','y','true','1','active'].includes(s.active));
 students.sort((a,b)=>a.name.localeCompare(b.name));
 renderStudents();
@@ -167,7 +232,7 @@ const skills=window.DFC.getSkills().filter(skill=>(skill.passages||[]).length>0)
 $('skill').innerHTML='<option value="">Choose a skill or pattern</option>';
 skills.sort((a,b)=>(a.order||999)-(b.order||999)).forEach(skill=>{const option=document.createElement('option');option.value=skill.id;option.textContent=`${skill.label} (${skill.passages.length} passages)`;$('skill').appendChild(option)});
 $('skill').disabled=skills.length===0;
-if(students.length&&skills.length){$('loadStatus').textContent=`Ready! ${skills.length} skills and ${skills.reduce((n,s)=>n+s.passages.length,0)} passages loaded.`;$('loadStatus').className='status good'}
+if(students.length&&skills.length){updateLoadStatus()}
 else if(!students.length){$('loadStatus').textContent='Library loaded. Waiting for the live student roster…';$('loadStatus').className='status'}
 }
 
