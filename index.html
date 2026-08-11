@@ -53,7 +53,7 @@ button:disabled{opacity:.45;cursor:not-allowed}
 <div class="actions"><button id="begin" class="primary" disabled>Begin Reading</button></div>
 <div id="loadStatus" class="status">Loading the Decodable Fluency Center library…</div>
 <p class="note">Use Google Chrome and allow microphone access.</p>
-<div class="footer">Version 2 · Library-Connected App</div>
+<div class="footer">Version 2.2 · Live Roster + Library</div>
 </div></section>
 
 <section id="reading" class="screen"><div class="card">
@@ -106,13 +106,56 @@ $('again').addEventListener('click',resetToWelcome)
 }
 function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));$(id).classList.add('active');window.scrollTo(0,0)}
 
-function loadStudents(){
-const cfg=window.DFC_CONFIG||{};
-const raw=cfg.demoStudents||[];
-students=raw.map((x,i)=>({id:String(x['student id']||x.studentId||i+1),name:x['student name']||x.studentName||x.name||('Student '+(i+1)),grade:x.grade||'',teacher:x.teacher||''}));
+const ROSTER_SHEET_ID='1Mk20JmZ3yh9tvFIq5uoj2Cc5ARrL1tpHDSWwKh8_r54';
+const ROSTER_SHEET_NAME='Roster';
+let rosterLoadTimer=null;
+
+function renderStudents(){
 $('student').innerHTML='<option value="">Choose your name</option>';
 students.forEach((student,index)=>{const option=document.createElement('option');option.value=String(index);option.textContent=student.name;$('student').appendChild(option)});
-$('student').disabled=students.length===0
+$('student').disabled=students.length===0;
+updateBeginButton();
+}
+
+function useDemoStudents(message){
+const cfg=window.DFC_CONFIG||{};
+const raw=cfg.demoStudents||[];
+students=raw.map((x,i)=>({id:String(x['student id']||x.studentId||i+1),name:x['student name']||x.studentName||x.name||('Student '+(i+1)),grade:x.grade||'',teacher:x.teacher||'',readingGroup:''}));
+renderStudents();
+$('loadStatus').textContent=message||'Could not load the live roster. Showing the backup student list from config.js.';
+$('loadStatus').className='status warning';
+}
+
+function loadStudents(){
+$('student').disabled=true;
+$('student').innerHTML='<option value="">Loading live roster…</option>';
+
+window.DFC_ROSTER_CALLBACK=function(response){
+clearTimeout(rosterLoadTimer);
+try{
+if(!response||response.status==='error'||!response.table)throw new Error('No roster table returned');
+const labels=(response.table.cols||[]).map(c=>String(c.label||'').trim());
+const col=name=>labels.findIndex(x=>x.toLowerCase()===name.toLowerCase());
+const idCol=col('Student ID'), firstCol=col('First Name'), lastCol=col('Last Name'), displayCol=col('Display Name'), gradeCol=col('Grade'), groupCol=col('Reading Group'), activeCol=col('Active?');
+const value=(row,index)=>{if(index<0||!row.c||!row.c[index])return '';const cell=row.c[index];return String(cell.f??cell.v??'').trim()};
+students=(response.table.rows||[]).map((row,i)=>{
+const active=value(row,activeCol).toLowerCase();
+const display=value(row,displayCol)||[value(row,firstCol),value(row,lastCol)].filter(Boolean).join(' ')||('Student '+(i+1));
+return {id:value(row,idCol)||String(i+1),name:display,grade:value(row,gradeCol),teacher:'',readingGroup:value(row,groupCol),active};
+}).filter(s=>!s.active||['yes','y','true','1','active'].includes(s.active));
+students.sort((a,b)=>a.name.localeCompare(b.name));
+renderStudents();
+loadLibraryMenus();
+}catch(err){useDemoStudents('The live roster could not be read. Check that the Google Sheet is shared for viewing.');}
+try{delete window.DFC_ROSTER_CALLBACK}catch(e){}
+};
+
+const script=document.createElement('script');
+script.src='https://docs.google.com/spreadsheets/d/'+ROSTER_SHEET_ID+'/gviz/tq?sheet='+encodeURIComponent(ROSTER_SHEET_NAME)+'&tqx=responseHandler:DFC_ROSTER_CALLBACK&headers=1&cacheBust='+Date.now();
+script.async=true;
+script.onerror=()=>{clearTimeout(rosterLoadTimer);useDemoStudents('The live roster could not be reached. Check the Google Sheet sharing settings.');};
+document.head.appendChild(script);
+rosterLoadTimer=setTimeout(()=>useDemoStudents('The live roster took too long to load. Check the Google Sheet sharing settings.'),8000);
 }
 
 function loadLibraryMenus(){
@@ -125,7 +168,7 @@ $('skill').innerHTML='<option value="">Choose a skill or pattern</option>';
 skills.sort((a,b)=>(a.order||999)-(b.order||999)).forEach(skill=>{const option=document.createElement('option');option.value=skill.id;option.textContent=`${skill.label} (${skill.passages.length} passages)`;$('skill').appendChild(option)});
 $('skill').disabled=skills.length===0;
 if(students.length&&skills.length){$('loadStatus').textContent=`Ready! ${skills.length} skills and ${skills.reduce((n,s)=>n+s.passages.length,0)} passages loaded.`;$('loadStatus').className='status good'}
-else if(!students.length){$('loadStatus').textContent='Library loaded, but no students are configured in config.js.';$('loadStatus').className='status warning'}
+else if(!students.length){$('loadStatus').textContent='Library loaded. Waiting for the live student roster…';$('loadStatus').className='status'}
 }
 
 function populatePassages(){
