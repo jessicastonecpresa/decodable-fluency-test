@@ -5,7 +5,10 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Decodable Fluency Center</title>
 <style>
-:root{--navy:#173a64;--blue:#3378bd;--pale:#eef6ff;--ink:#24364a;--muted:#64748b;--green:#2f855a;--red:#c53030;--gold:#9a6700;--line:#cfe1f1}
+:root{
+  --navy:#173a64;--blue:#3378bd;--pale:#eef6ff;--ink:#24364a;--muted:#64748b;
+  --green:#2f855a;--red:#c53030;--gold:#9a6700;--line:#cfe1f1;
+}
 *{box-sizing:border-box}
 body{margin:0;min-height:100vh;font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:linear-gradient(180deg,#eaf4ff,#fff)}
 main{max-width:1000px;margin:auto;padding:20px}
@@ -13,7 +16,9 @@ main{max-width:1000px;margin:auto;padding:20px}
 .logo{width:62px;height:62px;border-radius:17px;display:grid;place-items:center;background:var(--blue);font-size:34px;box-shadow:0 10px 24px rgba(23,58,100,.18)}
 .card{background:#fff;border:1px solid #dceaf8;border-radius:26px;padding:clamp(24px,5vw,46px);box-shadow:0 16px 40px rgba(23,58,100,.13)}
 .screen{display:none}.screen.active{display:block}
-h1,h2{color:var(--navy);margin-top:0}h1{text-align:center;font-size:clamp(40px,6vw,58px);margin-bottom:28px}h2{font-size:clamp(30px,4.5vw,44px)}
+h1,h2{color:var(--navy);margin-top:0}
+h1{text-align:center;font-size:clamp(40px,6vw,58px);margin-bottom:28px}
+h2{font-size:clamp(30px,4.5vw,44px)}
 .subtitle{max-width:760px;margin:0 auto 30px;text-align:center;color:var(--muted);font-size:18px;line-height:1.5}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
 label{display:block;margin:14px 0 8px;color:var(--navy);font-weight:800;font-size:17px}
@@ -26,123 +31,240 @@ button:disabled{opacity:.45;cursor:not-allowed}
 .success{background:#8bc7ad;color:#fff}.success:not(:disabled){background:var(--green)}
 .danger{background:var(--red);color:#fff}.secondary{background:#edf3f9;color:var(--navy)}
 .status{margin-top:22px;padding:14px 18px;border-radius:14px;background:#f1f5f9;color:var(--muted);text-align:center;font-weight:700;line-height:1.45}
-.status.good{background:#eafff0;color:var(--green)}.status.bad{background:#fff0f0;color:var(--red)}.status.warning{background:#fff8e2;color:var(--gold)}
+.status.good{background:#eafff0;color:var(--green)}
+.status.bad{background:#fff0f0;color:var(--red)}
+.status.warning{background:#fff8e2;color:var(--gold)}
 .meta{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:0 0 18px;color:var(--muted);font-weight:700}
 .passage{min-height:260px;padding:clamp(22px,4vw,38px);border:2px solid #dceaf8;border-radius:20px;background:#fbfdff;font-family:Georgia,"Times New Roman",serif;font-size:clamp(24px,3.3vw,34px);line-height:1.75;white-space:pre-wrap}
 .listen{display:none;margin-top:18px;padding:14px;border-radius:14px;background:#fff1f1;color:var(--red);font-weight:800;text-align:center}.listen.on{display:block}
 .results{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:28px 0}
-.metric{padding:24px 16px;border-radius:19px;background:var(--pale);text-align:center;font-weight:800;color:var(--muted)}.metric strong{display:block;color:var(--navy);font-size:clamp(38px,6vw,58px)}
-.celebrate{text-align:center;color:var(--green);font-size:22px;font-weight:800}.footer{margin-top:20px;text-align:center;color:var(--muted);font-size:13px}.note{margin-top:18px;text-align:center;color:var(--muted);font-size:14px}
-@media(max-width:700px){main{padding:12px}.grid,.results{grid-template-columns:1fr}.brand{font-size:29px}.logo{width:52px;height:52px}.card{padding:22px}.meta{display:block}.meta span{display:block;margin:5px 0}}
+.metric{padding:24px 16px;border-radius:19px;background:var(--pale);text-align:center;font-weight:800;color:var(--muted)}
+.metric strong{display:block;color:var(--navy);font-size:clamp(38px,6vw,58px)}
+.celebrate{text-align:center;color:var(--green);font-size:22px;font-weight:800}
+.footer{margin-top:20px;text-align:center;color:var(--muted);font-size:13px}
+.note{margin-top:18px;text-align:center;color:var(--muted);font-size:14px}
+@media(max-width:700px){
+  main{padding:12px}.grid,.results{grid-template-columns:1fr}.brand{font-size:29px}
+  .logo{width:52px;height:52px}.card{padding:22px}.meta{display:block}.meta span{display:block;margin:5px 0}
+}
 </style>
 </head>
 <body>
 <main>
-<div class="brand"><div class="logo">📚</div><span>Decodable Fluency Center</span></div>
+  <div class="brand"><div class="logo">📚</div><span>Decodable Fluency Center</span></div>
 
-<section id="welcome" class="screen active"><div class="card">
-<h1>Welcome, Reader!</h1>
-<p class="subtitle">Choose your name, skill, and passage. When you start reading, the app will listen for one hidden minute.</p>
+  <section id="welcome" class="screen active">
+    <div class="card">
+      <h1>Welcome, Reader!</h1>
+      <p class="subtitle">Choose your name, skill, and passage. When you start reading, the app will listen for one hidden minute.</p>
 
-<div class="grid">
-<div><label for="student">Your name</label><select id="student" disabled><option value="">Loading students…</option></select></div>
-<div><label for="skill">Skill or pattern</label><select id="skill" disabled><option value="">Loading library…</option></select></div>
-</div>
+      <div class="grid">
+        <div>
+          <label for="student">Your name</label>
+          <select id="student" disabled><option value="">Loading students…</option></select>
+        </div>
+        <div>
+          <label for="skill">Skill or pattern</label>
+          <select id="skill" disabled><option value="">Loading library…</option></select>
+        </div>
+      </div>
 
-<div><label for="passage">Passage</label><select id="passage" disabled><option value="">Choose a skill first</option></select></div>
-<div class="actions"><button id="begin" class="primary" disabled>Begin Reading</button></div>
-<div id="loadStatus" class="status">Loading the Decodable Fluency Center library…</div>
-<p class="note">Use Google Chrome and allow microphone access.</p>
-<div class="footer">Version 2.2 · Live Roster + Library</div>
-</div></section>
+      <div>
+        <label for="passage">Passage</label>
+        <select id="passage" disabled><option value="">Choose a skill first</option></select>
+      </div>
 
-<section id="reading" class="screen"><div class="card">
-<h2 id="title"></h2>
-<div class="meta"><span id="reader"></span><span id="skillName"></span></div>
-<div id="text" class="passage"></div>
-<div id="listen" class="listen">● Listening — keep reading</div>
-<div class="actions">
-<button id="start" class="success">🎤 Start Reading</button>
-<button id="finish" class="danger" disabled>Stop Early</button>
-<button id="back" class="secondary">Go Back</button>
-</div>
-<div id="speechStatus" class="status">Press “Start Reading” when you are ready.</div>
-</div></section>
+      <div class="actions"><button id="begin" class="primary" disabled>Begin Reading</button></div>
+      <div id="loadStatus" class="status">Loading students and passage library…</div>
+      <p class="note">Use Google Chrome and allow microphone access.</p>
+      <div class="footer">Version 2 · Live Roster + Library</div>
+    </div>
+  </section>
 
-<section id="results" class="screen"><div class="card">
-<h1>Great Reading!</h1>
-<div id="celebrate" class="celebrate">⭐ One minute complete!</div>
-<div class="results">
-<div class="metric"><strong id="wpm">0</strong>Words Per Minute</div>
-<div class="metric"><strong id="accuracy">0%</strong>Accuracy</div>
-<div class="metric"><strong id="correct">0</strong>Correct Words</div>
-</div>
-<div id="saveStatus" class="status">Preparing your result…</div>
-<div class="actions"><button id="again" class="primary">Read Another Passage</button></div>
-</div></section>
+  <section id="reading" class="screen">
+    <div class="card">
+      <h2 id="title"></h2>
+      <div class="meta"><span id="reader"></span><span id="skillName"></span></div>
+      <div id="text" class="passage"></div>
+      <div id="listen" class="listen">● Listening — keep reading</div>
+      <div class="actions">
+        <button id="start" class="success">🎤 Start Reading</button>
+        <button id="finish" class="danger" disabled>Stop Early</button>
+        <button id="back" class="secondary">Go Back</button>
+      </div>
+      <div id="speechStatus" class="status">Press “Start Reading” when you are ready.</div>
+    </div>
+  </section>
+
+  <section id="results" class="screen">
+    <div class="card">
+      <h1>Great Reading!</h1>
+      <div id="celebrate" class="celebrate">⭐ One minute complete!</div>
+      <div class="results">
+        <div class="metric"><strong id="wpm">0</strong>Words Per Minute</div>
+        <div class="metric"><strong id="accuracy">0%</strong>Accuracy</div>
+        <div class="metric"><strong id="correct">0</strong>Correct Words</div>
+      </div>
+      <div id="saveStatus" class="status">Preparing your result…</div>
+      <div class="actions"><button id="again" class="primary">Read Another Passage</button></div>
+    </div>
+  </section>
 </main>
 
 <script src="config.js?v=2"></script>
-<script src="library.js?v=2"></script>
-<script src="library-adapter.js?v=2"></script>
+<script src="library.js?v=9"></script>
+<script src="library-adapter.js?v=2.1"></script>
+
 <script>
 'use strict';
 
-const $=id=>document.getElementById(id);
-let students=[],selectedStudent=null,selectedPassage=null,recognition=null,recognitionRunning=false,finalTranscript='',interimTranscript='',startedAt=null,endedAt=null,autoStopTimer=null;
-
-document.addEventListener('DOMContentLoaded',init);
-
-function init(){bindEvents();setupSpeechRecognition();loadStudents();loadLibraryMenus()}
-function bindEvents(){
-$('student').addEventListener('change',updateBeginButton);
-$('skill').addEventListener('change',populatePassages);
-$('passage').addEventListener('change',updateBeginButton);
-$('begin').addEventListener('click',beginReadingScreen);
-$('start').addEventListener('click',startReading);
-$('finish').addEventListener('click',()=>finishReading(false));
-$('back').addEventListener('click',goBack);
-$('again').addEventListener('click',resetToWelcome)
-}
-function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));$(id).classList.add('active');window.scrollTo(0,0)}
-
-const ROSTER_SHEET_ID='1Mk20JmZ3yh9tvFIq5uoj2Cc5ARrL1tpHDSWwKh8_r54';
-const ROSTER_SHEET_NAME='Roster';
-let rosterLoadTimer=null;
-
-function renderStudents(){
-$('student').innerHTML='<option value="">Choose your name</option>';
-students.forEach((student,index)=>{const option=document.createElement('option');option.value=String(index);option.textContent=student.name;$('student').appendChild(option)});
-$('student').disabled=students.length===0;
-updateBeginButton();
-}
-
-function useDemoStudents(message){
-const cfg=window.DFC_CONFIG||{};
-const raw=cfg.demoStudents||[];
-students=raw.map((x,i)=>({id:String(x['student id']||x.studentId||i+1),name:x['student name']||x.studentName||x.name||('Student '+(i+1)),grade:x.grade||'',teacher:x.teacher||'',readingGroup:''}));
-renderStudents();
-$('loadStatus').textContent=message||'Could not load the live roster. Showing the backup student list from config.js.';
-$('loadStatus').className='status warning';
-}
-
 const ROSTER_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzF9SIrqyyXip84Gi-Tv5j6IcKCpJutGpLA9cvVM2yJdH3jRj1HqGIC7vAFRqNw0teEtQ/exec';
 
-function loadStudents(){
-  $('student').disabled = true;
-  $('student').innerHTML = '<option value="">Loading students…</option>';
+const $ = id => document.getElementById(id);
 
-  const callbackName = '__dfcRosterCallback_' + Date.now();
+let students = [];
+let selectedStudent = null;
+let selectedPassage = null;
+
+let recognition = null;
+let recognitionRunning = false;
+let finalTranscript = '';
+let interimTranscript = '';
+let startedAt = null;
+let endedAt = null;
+let autoStopTimer = null;
+
+let rosterReady = false;
+let libraryReady = false;
+let rosterError = '';
+let libraryError = '';
+
+document.addEventListener('DOMContentLoaded', init);
+
+function init(){
+  bindEvents();
+  setupSpeechRecognition();
+  loadLibraryMenus();
+  loadStudentsFromAppsScript();
+}
+
+function bindEvents(){
+  $('student').addEventListener('change', updateBeginButton);
+  $('skill').addEventListener('change', populatePassages);
+  $('passage').addEventListener('change', updateBeginButton);
+  $('begin').addEventListener('click', beginReadingScreen);
+  $('start').addEventListener('click', startReading);
+  $('finish').addEventListener('click', () => finishReading(false));
+  $('back').addEventListener('click', goBack);
+  $('again').addEventListener('click', resetToWelcome);
+}
+
+function showScreen(id){
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  $(id).classList.add('active');
+  window.scrollTo(0,0);
+}
+
+function updateLoadStatus(){
+  const status = $('loadStatus');
+
+  if(rosterError || libraryError){
+    const problems = [rosterError, libraryError].filter(Boolean);
+    status.textContent = problems.join(' ');
+    status.className = 'status bad';
+    return;
+  }
+
+  if(rosterReady && libraryReady){
+    const skills = window.DFC.getSkills().filter(skill => (skill.passages || []).length > 0);
+    const passageCount = skills.reduce((n,s)=>n+s.passages.length,0);
+    status.textContent = `Ready! ${students.length} students, ${skills.length} skills, and ${passageCount} passages loaded.`;
+    status.className = 'status good';
+    return;
+  }
+
+  if(libraryReady && !rosterReady){
+    status.textContent = 'Passage library loaded. Loading students…';
+    status.className = 'status';
+    return;
+  }
+
+  if(rosterReady && !libraryReady){
+    status.textContent = 'Students loaded. Loading passage library…';
+    status.className = 'status';
+    return;
+  }
+
+  status.textContent = 'Loading students and passage library…';
+  status.className = 'status';
+}
+
+function loadLibraryMenus(){
+  try{
+    if(!window.DFC || typeof window.DFC.getSkills !== 'function'){
+      throw new Error('Passage library could not be loaded. Check library.js and library-adapter.js.');
+    }
+
+    const skills = window.DFC.getSkills().filter(skill => (skill.passages || []).length > 0);
+
+    $('skill').innerHTML = '<option value="">Choose a skill or pattern</option>';
+
+    skills
+      .sort((a,b)=>(a.order||999999)-(b.order||999999))
+      .forEach(skill=>{
+        const option = document.createElement('option');
+        option.value = skill.id;
+        option.textContent = `${skill.label} (${skill.passages.length} passages)`;
+        $('skill').appendChild(option);
+      });
+
+    $('skill').disabled = skills.length === 0;
+    libraryReady = true;
+    libraryError = '';
+  }catch(error){
+    console.error(error);
+    $('skill').innerHTML = '<option value="">Library unavailable</option>';
+    $('skill').disabled = true;
+    libraryReady = false;
+    libraryError = error.message || 'Passage library could not be loaded.';
+  }
+
+  updateLoadStatus();
+}
+
+function loadStudentsFromAppsScript(){
+  $('student').innerHTML = '<option value="">Loading students…</option>';
+  $('student').disabled = true;
+
+  const callbackName = '__dfcRoster_' + Date.now() + '_' + Math.floor(Math.random()*100000);
+
+  const cleanup = () => {
+    try{ delete window[callbackName]; }catch(e){ window[callbackName] = undefined; }
+    const script = document.getElementById(callbackName);
+    if(script) script.remove();
+  };
+
+  const timeout = setTimeout(() => {
+    if(!rosterReady){
+      cleanup();
+      rosterError = 'Student roster timed out. Check the Apps Script deployment.';
+      $('student').innerHTML = '<option value="">Roster unavailable</option>';
+      $('student').disabled = true;
+      updateLoadStatus();
+    }
+  }, 12000);
 
   window[callbackName] = function(payload){
+    clearTimeout(timeout);
+
     try{
-      if(!payload || !payload.success){
+      if(!payload || payload.success !== true){
         throw new Error(payload && payload.message ? payload.message : 'Roster request failed.');
       }
 
-      students = (payload.students || []).map((student, i) => ({
-        id: String(student.id || i + 1),
-        name: student.name || ('Student ' + (i + 1)),
+      students = (payload.students || []).map((student, index) => ({
+        id: String(student.id || index + 1),
+        name: student.name || ('Student ' + (index + 1)),
         grade: student.grade || '',
         teacher: student.teacher || '',
         readingGroup: student.readingGroup || ''
@@ -150,7 +272,7 @@ function loadStudents(){
 
       $('student').innerHTML = '<option value="">Choose your name</option>';
 
-      students.forEach((student, index) => {
+      students.forEach((student,index)=>{
         const option = document.createElement('option');
         option.value = String(index);
         option.textContent = student.name;
@@ -158,166 +280,311 @@ function loadStudents(){
       });
 
       $('student').disabled = students.length === 0;
+      rosterReady = true;
+      rosterError = '';
 
-      if(students.length){
-        updateLoadStatus();
-      }else{
-        $('loadStatus').textContent = 'The roster loaded, but no active students were found.';
-        $('loadStatus').className = 'status warning';
+      if(students.length === 0){
+        rosterError = 'The roster loaded, but no active students were found.';
       }
     }catch(error){
       console.error(error);
+      rosterReady = false;
+      rosterError = 'Student roster could not be loaded: ' + (error.message || error);
       $('student').innerHTML = '<option value="">Roster unavailable</option>';
       $('student').disabled = true;
-      $('loadStatus').textContent = 'The student roster could not be loaded. Check the Apps Script deployment.';
-      $('loadStatus').className = 'status bad';
     }finally{
-      delete window[callbackName];
-      const oldScript = document.getElementById(callbackName);
-      if(oldScript) oldScript.remove();
+      cleanup();
+      updateLoadStatus();
     }
   };
 
   const script = document.createElement('script');
   script.id = callbackName;
-  script.src = ROSTER_WEB_APP_URL +
+  script.async = true;
+  script.src =
+    ROSTER_WEB_APP_URL +
     '?action=roster&callback=' + encodeURIComponent(callbackName) +
     '&t=' + Date.now();
 
   script.onerror = function(){
-    delete window[callbackName];
-    script.remove();
+    clearTimeout(timeout);
+    cleanup();
+    rosterReady = false;
+    rosterError = 'Student roster could not be loaded from Apps Script.';
     $('student').innerHTML = '<option value="">Roster unavailable</option>';
     $('student').disabled = true;
-    $('loadStatus').textContent = 'The student roster could not be loaded from Apps Script.';
-    $('loadStatus').className = 'status bad';
+    updateLoadStatus();
   };
 
   document.head.appendChild(script);
 }
 
-function updateLoadStatus(){
-  if(!window.DFC || typeof window.DFC.getSkills !== 'function') return;
-
-  const skills = window.DFC.getSkills().filter(skill => (skill.passages || []).length > 0);
-
-  if(students.length && skills.length){
-    $('loadStatus').textContent =
-      `Ready! ${students.length} students, ${skills.length} skills, and ` +
-      `${skills.reduce((n,s)=>n+s.passages.length,0)} passages loaded.`;
-    $('loadStatus').className = 'status good';
-  }
-}).filter(s=>!s.active||['yes','y','true','1','active'].includes(s.active));
-students.sort((a,b)=>a.name.localeCompare(b.name));
-renderStudents();
-loadLibraryMenus();
-}catch(err){useDemoStudents('The live roster could not be read. Check that the Google Sheet is shared for viewing.');}
-try{delete window.DFC_ROSTER_CALLBACK}catch(e){}
-};
-
-const script=document.createElement('script');
-script.src='https://docs.google.com/spreadsheets/d/'+ROSTER_SHEET_ID+'/gviz/tq?sheet='+encodeURIComponent(ROSTER_SHEET_NAME)+'&tqx=responseHandler:DFC_ROSTER_CALLBACK&headers=1&cacheBust='+Date.now();
-script.async=true;
-script.onerror=()=>{clearTimeout(rosterLoadTimer);useDemoStudents('The live roster could not be reached. Check the Google Sheet sharing settings.');};
-document.head.appendChild(script);
-rosterLoadTimer=setTimeout(()=>useDemoStudents('The live roster took too long to load. Check the Google Sheet sharing settings.'),8000);
-}
-
-function loadLibraryMenus(){
-if(!window.DFC||typeof window.DFC.getSkills!=='function'){
-$('loadStatus').textContent='Library connection problem. Check library.js and library-adapter.js in GitHub.';
-$('loadStatus').className='status bad';return
-}
-const skills=window.DFC.getSkills().filter(skill=>(skill.passages||[]).length>0);
-$('skill').innerHTML='<option value="">Choose a skill or pattern</option>';
-skills.sort((a,b)=>(a.order||999)-(b.order||999)).forEach(skill=>{const option=document.createElement('option');option.value=skill.id;option.textContent=`${skill.label} (${skill.passages.length} passages)`;$('skill').appendChild(option)});
-$('skill').disabled=skills.length===0;
-if(students.length&&skills.length){updateLoadStatus()}
-else if(!students.length){$('loadStatus').textContent='Library loaded. Waiting for the live student roster…';$('loadStatus').className='status'}
-}
-
 function populatePassages(){
-const skillId=$('skill').value;
-$('passage').innerHTML='<option value="">Choose a passage</option>';
-if(!skillId){$('passage').disabled=true;updateBeginButton();return}
-const passages=window.DFC.getPassages(skillId);
-passages.forEach(p=>{const option=document.createElement('option');option.value=p.id;option.textContent=`${p.title} (${p.wordCount||countWords(p.text)} words)`;$('passage').appendChild(option)});
-$('passage').disabled=passages.length===0;updateBeginButton()
+  const skillId = $('skill').value;
+  $('passage').innerHTML = '<option value="">Choose a passage</option>';
+
+  if(!skillId){
+    $('passage').disabled = true;
+    updateBeginButton();
+    return;
+  }
+
+  const passages = window.DFC.getPassages(skillId);
+
+  passages.forEach(p=>{
+    const option = document.createElement('option');
+    option.value = p.id;
+    option.textContent = `${p.title} (${p.wordCount || countWords(p.text)} words)`;
+    $('passage').appendChild(option);
+  });
+
+  $('passage').disabled = passages.length === 0;
+  updateBeginButton();
 }
 
-function updateBeginButton(){$('begin').disabled=!($('student').value!==''&&$('skill').value&&$('passage').value)}
+function updateBeginButton(){
+  $('begin').disabled = !(
+    $('student').value !== '' &&
+    $('skill').value &&
+    $('passage').value
+  );
+}
 
 function beginReadingScreen(){
-selectedStudent=students[Number($('student').value)];
-selectedPassage=window.DFC.getPassage($('passage').value);
-if(!selectedStudent||!selectedPassage)return;
-$('title').textContent=selectedPassage.title;
-$('reader').textContent='Reader: '+selectedStudent.name;
-$('skillName').textContent='Skill: '+(selectedPassage.skillLabel||$('skill').selectedOptions[0].textContent);
-$('text').textContent=selectedPassage.text;
-resetReadingState();showScreen('reading')
+  selectedStudent = students[Number($('student').value)];
+  selectedPassage = window.DFC.getPassage($('passage').value);
+
+  if(!selectedStudent || !selectedPassage) return;
+
+  $('title').textContent = selectedPassage.title;
+  $('reader').textContent = 'Reader: ' + selectedStudent.name;
+  $('skillName').textContent = 'Skill: ' + (selectedPassage.skillLabel || selectedPassage.skill);
+  $('text').textContent = selectedPassage.text;
+
+  resetReadingState();
+  showScreen('reading');
 }
 
 function setupSpeechRecognition(){
-const SpeechRecognition=window.SpeechRecognition||window.webkitSpeechRecognition;
-if(!SpeechRecognition)return;
-recognition=new SpeechRecognition();recognition.continuous=true;recognition.interimResults=true;recognition.lang='en-US';
-recognition.onstart=()=>{recognitionRunning=true;$('listen').classList.add('on');$('speechStatus').textContent='Microphone connected. Read aloud.';$('speechStatus').className='status good'};
-recognition.onresult=event=>{interimTranscript='';for(let i=event.resultIndex;i<event.results.length;i++){const text=event.results[i][0].transcript;if(event.results[i].isFinal)finalTranscript+=text+' ';else interimTranscript+=text}};
-recognition.onerror=event=>{recognitionRunning=false;$('listen').classList.remove('on');let message='Microphone problem: '+event.error+'.';if(event.error==='not-allowed'||event.error==='service-not-allowed'){message='Microphone permission is blocked. Click the site settings icon near the address bar and allow the microphone.'}$('speechStatus').textContent=message;$('speechStatus').className='status bad'};
-recognition.onend=()=>{recognitionRunning=false;$('listen').classList.remove('on');if(startedAt&&!endedAt){try{recognition.start()}catch(e){}}}
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if(!SpeechRecognition) return;
+
+  recognition = new SpeechRecognition();
+  recognition.continuous = true;
+  recognition.interimResults = true;
+  recognition.lang = 'en-US';
+
+  recognition.onstart = ()=>{
+    recognitionRunning = true;
+    $('listen').classList.add('on');
+    $('speechStatus').textContent = 'Microphone connected. Read aloud.';
+    $('speechStatus').className = 'status good';
+  };
+
+  recognition.onresult = event=>{
+    interimTranscript = '';
+
+    for(let i=event.resultIndex;i<event.results.length;i++){
+      const text = event.results[i][0].transcript;
+      if(event.results[i].isFinal) finalTranscript += text + ' ';
+      else interimTranscript += text;
+    }
+  };
+
+  recognition.onerror = event=>{
+    recognitionRunning = false;
+    $('listen').classList.remove('on');
+
+    let message = 'Microphone problem: ' + event.error + '.';
+
+    if(event.error === 'not-allowed' || event.error === 'service-not-allowed'){
+      message = 'Microphone permission is blocked. Allow microphone access in the browser site settings.';
+    }
+
+    $('speechStatus').textContent = message;
+    $('speechStatus').className = 'status bad';
+  };
+
+  recognition.onend = ()=>{
+    recognitionRunning = false;
+    $('listen').classList.remove('on');
+
+    if(startedAt && !endedAt){
+      try{ recognition.start(); }catch(e){}
+    }
+  };
 }
 
 function resetReadingState(){
-clearTimeout(autoStopTimer);autoStopTimer=null;finalTranscript='';interimTranscript='';startedAt=null;endedAt=null;
-$('start').disabled=!recognition;$('finish').disabled=true;$('back').disabled=false;$('listen').classList.remove('on');
-$('speechStatus').textContent=recognition?'Press “Start Reading” when you are ready. The timer is hidden and will stop automatically after one minute.':'Speech recognition is not available. Open the site in Google Chrome.';
-$('speechStatus').className=recognition?'status':'status bad'
+  clearTimeout(autoStopTimer);
+  autoStopTimer = null;
+  finalTranscript = '';
+  interimTranscript = '';
+  startedAt = null;
+  endedAt = null;
+
+  $('start').disabled = !recognition;
+  $('finish').disabled = true;
+  $('back').disabled = false;
+  $('listen').classList.remove('on');
+
+  $('speechStatus').textContent = recognition
+    ? 'Press “Start Reading” when you are ready. The timer is hidden and will stop automatically after one minute.'
+    : 'Speech recognition is not available. Open the site in Google Chrome.';
+
+  $('speechStatus').className = recognition ? 'status' : 'status bad';
 }
 
 function startReading(){
-if(!recognition||startedAt)return;
-finalTranscript='';interimTranscript='';startedAt=new Date();endedAt=null;
-$('start').disabled=true;$('finish').disabled=false;$('back').disabled=true;
-try{recognition.start()}catch(e){}
-autoStopTimer=setTimeout(()=>finishReading(true),60000)
+  if(!recognition || startedAt) return;
+
+  finalTranscript = '';
+  interimTranscript = '';
+  startedAt = new Date();
+  endedAt = null;
+
+  $('start').disabled = true;
+  $('finish').disabled = false;
+  $('back').disabled = true;
+
+  try{ recognition.start(); }catch(e){}
+
+  autoStopTimer = setTimeout(()=>finishReading(true),60000);
 }
 
 function finishReading(autoStopped){
-if(!startedAt||endedAt)return;
-clearTimeout(autoStopTimer);endedAt=new Date();
-if(recognitionRunning){try{recognition.stop()}catch(e){}}
-const elapsedSeconds=Math.max(1,Math.round((endedAt-startedAt)/1000));
-const seconds=autoStopped?60:Math.min(60,elapsedSeconds);
-const transcript=(finalTranscript+' '+interimTranscript).trim();
-const score=scoreReading(selectedPassage.text,transcript,seconds);
-$('wpm').textContent=score.wpm;$('accuracy').textContent=score.accuracy+'%';$('correct').textContent=score.correctWords;
-$('celebrate').textContent=autoStopped?'⭐ One minute complete!':'💙 Reading stopped early.';
-showScreen('results');saveResult(score,transcript,seconds)
+  if(!startedAt || endedAt) return;
+
+  clearTimeout(autoStopTimer);
+  endedAt = new Date();
+
+  if(recognitionRunning){
+    try{ recognition.stop(); }catch(e){}
+  }
+
+  const elapsedSeconds = Math.max(1,Math.round((endedAt-startedAt)/1000));
+  const seconds = autoStopped ? 60 : Math.min(60,elapsedSeconds);
+  const transcript = (finalTranscript + ' ' + interimTranscript).trim();
+  const score = scoreReading(selectedPassage.text,transcript,seconds);
+
+  $('wpm').textContent = score.wpm;
+  $('accuracy').textContent = score.accuracy + '%';
+  $('correct').textContent = score.correctWords;
+  $('celebrate').textContent = autoStopped ? '⭐ One minute complete!' : '💙 Reading stopped early.';
+
+  showScreen('results');
+  saveResult(score,transcript,seconds);
 }
 
-function tokenize(text){return String(text||'').toLowerCase().match(/[a-z']+/g)||[]}
-function countWords(text){return tokenize(text).length}
+function tokenize(text){
+  return String(text || '').toLowerCase().match(/[a-z']+/g) || [];
+}
+
+function countWords(text){
+  return tokenize(text).length;
+}
+
 function scoreReading(reference,spoken,seconds){
-const ref=tokenize(reference),heard=tokenize(spoken);
-let previous=new Uint16Array(heard.length+1);
-for(let i=1;i<=ref.length;i++){const current=new Uint16Array(heard.length+1);for(let j=1;j<=heard.length;j++){current[j]=ref[i-1]===heard[j-1]?previous[j-1]+1:Math.max(previous[j],current[j-1])}previous=current}
-const correctWords=Number(previous[heard.length]),minutes=seconds/60;
-return{totalWords:ref.length,spokenWords:heard.length,correctWords,errors:Math.max(0,heard.length-correctWords),wpm:Math.max(0,Math.round(correctWords/minutes)),accuracy:heard.length?Math.max(0,Math.min(100,Math.round((correctWords/heard.length)*100))):0}
+  const ref = tokenize(reference);
+  const heard = tokenize(spoken);
+
+  let previous = new Uint16Array(heard.length + 1);
+
+  for(let i=1;i<=ref.length;i++){
+    const current = new Uint16Array(heard.length + 1);
+
+    for(let j=1;j<=heard.length;j++){
+      current[j] = ref[i-1] === heard[j-1]
+        ? previous[j-1] + 1
+        : Math.max(previous[j],current[j-1]);
+    }
+
+    previous = current;
+  }
+
+  const correctWords = Number(previous[heard.length]);
+  const minutes = seconds / 60;
+
+  return {
+    totalWords:ref.length,
+    spokenWords:heard.length,
+    correctWords,
+    errors:Math.max(0,heard.length-correctWords),
+    wpm:Math.max(0,Math.round(correctWords/minutes)),
+    accuracy:heard.length
+      ? Math.max(0,Math.min(100,Math.round((correctWords/heard.length)*100)))
+      : 0
+  };
 }
 
 async function saveResult(score,transcript,seconds){
-const form=(window.DFC_CONFIG&&window.DFC_CONFIG.googleForm)||{};
-if(!form.formResponseUrl||form.formResponseUrl.includes('PASTE_')){$('saveStatus').textContent='Score calculated. Teacher-sheet saving is not configured in config.js yet.';$('saveStatus').className='status warning';return}
-const values={timestamp:new Date().toISOString(),studentId:selectedStudent.id,studentName:selectedStudent.name,grade:selectedStudent.grade||'',teacher:selectedStudent.teacher||'',passageId:selectedPassage.id,passageTitle:selectedPassage.title,skill:selectedPassage.skillLabel||selectedPassage.skill,durationSeconds:seconds,totalWords:score.totalWords,spokenWords:score.spokenWords,correctWords:score.correctWords,errors:score.errors,wpm:score.wpm,accuracy:score.accuracy,transcript};
-const params=new URLSearchParams();
-Object.entries(form.fields||{}).forEach(([key,entryName])=>{if(entryName)params.append(entryName,values[key]??'')});
-try{await fetch(form.formResponseUrl,{method:'POST',mode:'no-cors',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:params.toString()});$('saveStatus').textContent='✓ Reading result sent to the teacher sheet.';$('saveStatus').className='status good'}
-catch(error){$('saveStatus').textContent='Your score is shown, but the teacher sheet did not receive the result.';$('saveStatus').className='status bad'}
+  const form = (window.DFC_CONFIG && window.DFC_CONFIG.googleForm) || {};
+
+  if(!form.formResponseUrl || form.formResponseUrl.includes('PASTE_')){
+    $('saveStatus').textContent = 'Score calculated. Teacher-sheet saving is not configured in config.js.';
+    $('saveStatus').className = 'status warning';
+    return;
+  }
+
+  const values = {
+    timestamp:new Date().toISOString(),
+    studentId:selectedStudent.id,
+    studentName:selectedStudent.name,
+    grade:selectedStudent.grade || '',
+    teacher:selectedStudent.teacher || '',
+    passageId:selectedPassage.id,
+    passageTitle:selectedPassage.title,
+    skill:selectedPassage.skillLabel || selectedPassage.skill,
+    durationSeconds:seconds,
+    totalWords:score.totalWords,
+    spokenWords:score.spokenWords,
+    correctWords:score.correctWords,
+    errors:score.errors,
+    wpm:score.wpm,
+    accuracy:score.accuracy,
+    transcript
+  };
+
+  const params = new URLSearchParams();
+
+  Object.entries(form.fields || {}).forEach(([key,entryName])=>{
+    if(entryName) params.append(entryName,values[key] ?? '');
+  });
+
+  try{
+    await fetch(form.formResponseUrl,{
+      method:'POST',
+      mode:'no-cors',
+      headers:{'Content-Type':'application/x-www-form-urlencoded'},
+      body:params.toString()
+    });
+
+    $('saveStatus').textContent = '✓ Reading result sent to the teacher sheet.';
+    $('saveStatus').className = 'status good';
+  }catch(error){
+    console.error(error);
+    $('saveStatus').textContent = 'Your score is shown, but the teacher sheet did not receive the result.';
+    $('saveStatus').className = 'status bad';
+  }
 }
 
-function goBack(){if(recognitionRunning&&recognition){try{recognition.stop()}catch(e){}}resetReadingState();showScreen('welcome')}
-function resetToWelcome(){if(recognitionRunning&&recognition){try{recognition.stop()}catch(e){}}resetReadingState();showScreen('welcome')}
+function goBack(){
+  if(recognitionRunning && recognition){
+    try{ recognition.stop(); }catch(e){}
+  }
+
+  resetReadingState();
+  showScreen('welcome');
+}
+
+function resetToWelcome(){
+  if(recognitionRunning && recognition){
+    try{ recognition.stop(); }catch(e){}
+  }
+
+  resetReadingState();
+  showScreen('welcome');
+}
 </script>
 </body>
 </html>
