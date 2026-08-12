@@ -518,16 +518,8 @@ function scoreReading(reference,spoken,seconds){
 }
 
 async function saveResult(score,transcript,seconds){
-  const form = (window.DFC_CONFIG && window.DFC_CONFIG.googleForm) || {};
-
-  if(!form.formResponseUrl || form.formResponseUrl.includes('PASTE_')){
-    $('saveStatus').textContent = 'Score calculated. Teacher-sheet saving is not configured in config.js.';
-    $('saveStatus').className = 'status warning';
-    return;
-  }
-
   const values = {
-    timestamp:new Date().toISOString(),
+    action:'saveSession',
     studentId:selectedStudent.id,
     studentName:selectedStudent.name,
     grade:selectedStudent.grade || '',
@@ -542,20 +534,19 @@ async function saveResult(score,transcript,seconds){
     errors:score.errors,
     wpm:score.wpm,
     accuracy:score.accuracy,
-    transcript
+    transcript:transcript
   };
 
   const params = new URLSearchParams();
-
-  Object.entries(form.fields || {}).forEach(([key,entryName])=>{
-    if(entryName) params.append(entryName,values[key] ?? '');
+  Object.entries(values).forEach(([key,value]) => {
+    params.append(key, value == null ? '' : String(value));
   });
 
   try{
-    await fetch(form.formResponseUrl,{
+    await fetch(ROSTER_WEB_APP_URL,{
       method:'POST',
       mode:'no-cors',
-      headers:{'Content-Type':'application/x-www-form-urlencoded'},
+      headers:{'Content-Type':'application/x-www-form-urlencoded;charset=UTF-8'},
       body:params.toString()
     });
 
